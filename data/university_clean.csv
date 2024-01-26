@@ -1,814 +1,814 @@
-,name,state,longitude,review_rating,difficulty_rank
-0,Hokkaido University,Hokkai Do,141.347153,4.16,A
-1,Hokkaido University of Education,Hokkai Do,141.393753,3.79,D
-2,Muroran Institute of Technology,Hokkai Do,141.034042,3.66,F
-3,Otaru University of Commerce,Hokkai Do,140.97937,3.8,C
-4,Obihiro University of Agriculture And Veterinary Medicine,Hokkai Do,143.177979,4.2,B
-5,Asahikawa Medical University,Hokkai Do,142.381897,3.93,B
-6,Kitami Institute of Technology,Hokkai Do,143.905716,3.66,E
-7,Hirosaki University,Aomori Ken,140.472061,3.84,D
-8,Iwate University,Iwate Ken,141.137711,3.89,D
-9,Tohoku University,Miyagi Ken,140.873932,4.18,A
-10,Miyagi University of Education,Miyagi Ken,140.830948,3.95,D
-11,Akita University,Akita Ken,140.134094,3.8,D
-12,Yamagata University,Yamagata Ken,140.349655,3.76,D
-13,Fukushima University,Fukushima Ken,140.454041,3.72,E
-14,Ibaraki University,Ibaraki Ken,140.442764,3.81,D
-15,University of Tsukuba,Ibaraki Ken,140.100632,4.17,A
-16,Tsukuba University of Technology,Ibaraki Ken,140.110474,4.12,F
-17,Utsunomiya University,Tochigi Ken,139.914886,3.95,C
-18,Gunma University,Gunma Ken,139.045197,3.88,C
-19,Saitama University,Saitama Ken,139.608246,3.88,C
-20,Chiba University,Chiba Ken,140.103653,4.07,B
-21,The University of Tokyo,Tokyo To,139.763214,4.34,S
-22,Tokyo Medical And Dental University,Tokyo To,139.765274,4.23,A
-23,Tokyo University of Foreign Studies,Tokyo To,139.521042,4.19,A
-24,Tokyo Gakugei University,Tokyo To,139.49176,4.08,B
-25,Tokyo University of Agriculture And Technology,Tokyo To,139.478668,4.0,B
-26,Tokyo University of The Arts,Tokyo To,139.772217,4.25,B
-27,Tokyo Institute of Technology,Tokyo To,139.684875,4.25,S
-28,Tokyo University of Marine Science And Technology,Tokyo To,139.746521,4.16,C
-29,Ochanomizu University,Tokyo To,139.733475,4.3,A
-30,The University of Electro - Communications,Tokyo To,139.544327,3.92,B
-31,Hitotsubashi University,Tokyo To,139.443649,4.26,S
-32,Yokohama National University,Kanagawa Ken,139.591476,3.9,A
-33,Niigata University,Niigata Ken,138.943573,3.86,C
-34,Nagaoka University of Technology,Niigata Ken,138.778793,3.95,E
-35,Joetsu University of Education,Niigata Ken,138.22644,4.09,C
-36,University of Toyama,Toyama Ken,137.187057,3.81,C
-37,Kanazawa University,Ishikawa Ken,136.709442,3.76,C
-38,University of Fukui,Fukui Ken,136.212402,3.83,C
-39,University of Yamanashi,Yamanashi Ken,138.57341,3.82,D
-40,Shinshu University,Nagano Ken,137.978943,3.93,C
-41,Gifu University,Gifu Ken,136.737625,3.93,C
-42,National University Corporation Shizuoka University,Shizuoka Ken,138.431412,3.94,C
-43,Hamamatsu University School of Medicine,Shizuoka Ken,137.74408,3.89,S
-44,Nagoya University,Aichi Ken,136.964676,4.22,A
-45,Aichi University of Education,Aichi Ken,137.049667,3.87,C
-46,Nagoya Institute of Technology,Aichi Ken,136.925232,4.01,B
-47,Toyohashi University of Technology,Aichi Ken,137.408173,3.87,C
-48,Mie University,Mie Ken,136.523224,3.94,C
-49,Shiga University,Shiga Ken,136.247208,3.83,C
-50,Shiga University of Medical Science,Shiga Ken,135.946915,3.88,A
-51,Kyoto University,Kyoto Fu,135.781967,4.2,S
-52,Kyoto University of Education,Kyoto Fu,135.773636,3.99,C
-53,Kyoto Institute of Technology,Kyoto Fu,135.78334,4.04,B
-54,Osaka University,Osaka Fu,135.521164,4.12,A
-55,Osaka Kyoiku University,Osaka Fu,135.64679,3.99,C
-56,Hyogo University of Teacher Education,Hyogo Ken,135.016373,3.83,C
-57,Kobe University,Hyogo Ken,135.23613,3.99,A
-58,Nara University of Education,Nara Ken,135.847336,3.91,C
-59,Nara Women’s University,Nara Ken,135.830185,4.06,B
-60,Wakayama University,Wakayama Ken,135.151962,3.86,C
-61,Tottori University,Tottori Ken,134.17305,3.83,C
-62,Shimane University,Shimane Ken,133.068192,3.84,D
-63,Okayama University,Okayama Ken,133.917404,4.02,C
-64,Hiroshima University,Hiroshima Ken,132.713654,4.04,B
-65,Yamaguchi University,Yamaguchi Ken,131.467514,3.83,C
-66,Tokushima University,Tokushima Ken,134.55983,3.81,C
-67,Naruto University of Education,Tokushima Ken,134.605515,4.16,C
-68,Kagawa University,Kagawa Ken,134.038727,3.89,C
-69,Ehime University,Ehime Ken,132.773804,3.93,D
-70,Kochi University,Kochi Ken,133.488892,3.98,D
-71,University of Teacher Education Fukuoka,Fukuoka Ken,130.593628,3.86,C
-72,Kyushu University,Fukuoka Ken,130.223312,4.04,A
-73,Kyushu Institute of Technology,Fukuoka Ken,130.838516,3.83,C
-74,Saga University,Saga Ken,130.288223,3.82,C
-75,Nagasaki University,Nagasaki Ken,129.862564,3.88,C
-76,Kumamoto University,Kumamoto Ken,130.727722,3.93,C
-77,Oita University,Oita Ken,131.612869,3.89,C
-78,University of Miyazaki,Miyazaki Ken,131.414993,3.92,C
-79,Kagoshima University,Kagoshima Ken,130.546463,4.02,D
-80,National Institute of Fitness And Sports In Kanoya,Kagoshima Ken,130.78717,4.05,D
-81,University of The Ryukyus,Okinawa Ken,127.758453,3.91,D
-82,National Graduate Institute For Policy Studies,Tokyo To,139.726776,5.0,
-83,"The Graduate University for Advanced Studies, SOKENDAI",Kanagawa Ken,139.586166,4.58,
-84,Japan Advanced Institute of Science And Technology,Ishikawa Ken,136.59256,3.58,
-85,Nara Institute of Science And Technology,Nara Ken,135.731369,4.12,
-86,Sapporo Medical University,Hokkai Do,141.331436,4.09,B
-87,Future University Hakodate,Hokkai Do,140.766815,4.01,E
-88,Kushiro Public University of Economics,Hokkai Do,144.393768,3.47,E
-89,Nayoro City University,Hokkai Do,142.458801,4.05,C
-90,SAPPORO CITY UNIVERSITY,Hokkai Do,141.341125,3.94,C
-91,Chitose Institute of Science And Technology,Hokkai Do,141.699905,3.89,D
-92,Aomori Public University,Aomori Ken,140.769241,3.8,E
-93,Aomori University of Health And Welfare,Aomori Ken,140.792755,4.26,D
-94,Iwate Prefectural University,Iwate Ken,141.131531,3.95,C
-95,Miyagi Akita Prefectural University,Miyagi Ken,140.840469,3.8,D
-96,Akita Prefectural University,Akita Ken,140.047287,3.93,E
-97,Akita International University,Akita Ken,140.181107,4.18,S
-98,Akita University of Art,Akita Ken,140.090866,3.75,D
-99,Yamagata Prefectural University of Health Sciences,Yamagata Ken,140.346436,4.03,
-100,Yamagata Prefectural Yonezawa University of Nutrition Sciences,Yamagata Ken,140.124496,3.9,D
-101,Fukushima Medical University,Fukushima Ken,140.471603,3.96,C
-102,The University of Aizu,Fukushima Ken,139.937897,4.06,E
-103,Ibaraki Prefectural University of Health Sciences,Ibaraki Ken,140.210724,4.09,C
-104,Takasaki City University of Economics,Gunma Ken,138.977264,3.67,C
-105,Maebashi Institute of Technology,Gunma Ken,139.080566,3.69,E
-106,Gunma Prefectural Women’s University,Gunma Ken,139.112442,4.17,C
-107,Gunma Prefectural College of Health Sciences,Gunma Ken,139.095078,4.23,C
-108,Saitama Prefectural University,Saitama Ken,139.756241,4.13,C
-109,Chiba Prefectural University of Health Sciences,Chiba Ken,140.052032,3.66,
-110,Tokyo Metropolitan University,Tokyo To,139.376968,4.06,B
-111,Advanced Institute of Industrial Technology,Tokyo To,139.747803,3.65,
-112,Yokohama City University,Kanagawa Ken,139.617783,3.87,A
-113,Kanagawa University of Human Services,Kanagawa Ken,139.68071,4.14,C
-114,Niigata College of Nursing,Niigata Ken,138.269821,4.05,C
-115,University of Niigata Prefecture,Niigata Ken,139.127274,4.04,C
-116,Nagaoka Institute of Design,Niigata Ken,138.830521,4.1,C
-117,SANJO CITY UNIVERSITY,Niigata Ken,138.932938,,E
-118,Toyama Prefectural University,Toyama Ken,137.097382,3.72,E
-119,Komatsu University,Ishikawa Ken,136.416809,3.55,C
-120,Ishikawa Prefectural University,Ishikawa Ken,136.597122,3.78,D
-121,Kanazawa College of Art,Ishikawa Ken,136.677475,4.0,C
-122,Ishikawa Prefectural Nursing University,Ishikawa Ken,136.73378,3.82,C
-123,Fukui Prefectural University,Fukui Ken,136.277328,3.66,D
-124,Tsuruga Nursing University,Fukui Ken,136.043198,3.89,C
-125,Tsuru University,Yamanashi Ken,138.897522,3.83,B
-126,Yamanashi Prefectural University,Yamanashi Ken,138.55629,3.8,C
-127,Suwa University of Science,Nagano Ken,138.184799,3.85,D
-128,The University of Nagano,Nagano Ken,138.200287,3.82,C
-129,Nagano College of Nursing,Nagano Ken,137.933121,3.87,D
-130,Nagano University,Nagano Ken,138.223236,3.57,C
-131,Gifu Pharmaceutical University,Gifu Ken,136.733551,3.83,B
-132,Gifu College of Nursing,Gifu Ken,136.685806,3.79,C
-133,Institute of Advanced Media Arts and Sciences,Gifu Ken,136.638962,4.0,
-134,Shizuoka Professional University of Agriculture,Shizuoka Ken,137.843948,3.0,C
-135,University of Shizuoka,Shizuoka Ken,138.444092,3.96,C
-136,Shizuoka University of Art And Culture,Shizuoka Ken,137.737991,4.15,C
-137,Shizuoka Graduate University of Public Health,Shizuoka Ken,138.386093,,
-138,Nagoya City University,Aichi Ken,136.935196,3.9,B
-139,Aichi University of The Arts,Aichi Ken,137.05867,3.93,D
-140,Aichi Prefectural University,Aichi Ken,137.087143,3.99,C
-141,Mie Prefectural College of Nursing,Mie Ken,136.488571,3.92,C
-142,The University of Shiga Prefecture,Shiga Ken,136.218903,3.96,C
-143,Kyoto City University of Arts,Kyoto Fu,135.664642,4.04,C
-144,Kyoto Prefectural University,Kyoto Fu,135.75975,4.03,B
-145,Kyoto Prefectural University of Medicine,Kyoto Fu,135.756714,4.0,A
-146,The University of Fukuchiyama,Kyoto Fu,135.127457,3.46,D
-147,Osaka Metropolitan University,Osaka Fu,135.510162,4.03,
-148,Osaka City University,Osaka Fu,135.505142,3.95,
-149,Osaka Prefecture University,Osaka Fu,135.505569,3.89,
-150,Kobe City University of Foreign Studies,Hyogo Ken,135.059891,4.03,B
-151,Kobe City College of Nursing,Hyogo Ken,135.053818,4.15,C
-152,University of Hyogo,Hyogo Ken,135.051086,3.72,C
-153,Professional College of Arts and Tourism,Hyogo Ken,134.816208,3.0,D
-154,Nara Medical University,Nara Ken,135.792542,3.63,A
-155,Nara Prefectural University,Nara Ken,135.82103,3.54,C
-156,Wakayama Medical University,Wakayama Ken,135.181717,3.98,B
-157,Tottori University of Environmental Studies,Tottori Ken,134.25531,3.86,D
-158,The University of Shimane,Shimane Ken,132.077423,3.8,C
-159,Okayama Prefectural University,Okayama Ken,133.780289,3.96,C
-160,Niimi University,Okayama Ken,133.439957,4.28,C
-161,Prefectural University of Hiroshima,Hiroshima Ken,132.469666,4.0,D
-162,Onomichi City University,Hiroshima Ken,133.162537,3.76,C
-163,Hiroshima City University,Hiroshima Ken,132.415192,3.87,C
-164,Fukuyama City University,Hiroshima Ken,133.381149,3.66,C
-165,Eikei University of Hiroshima,Hiroshima Ken,132.468719,4.0,D
-166,Shimonoseki City University,Yamaguchi Ken,130.933365,3.62,D
-167,Yamaguchi Prefectural University,Yamaguchi Ken,131.498642,3.99,C
-168,Sanyo-Onoda City University,Yamaguchi Ken,131.187805,3.71,D
-169,Kagawa Prefectural University of Health Sciences,Kagawa Ken,134.158371,4.15,C
-170,Ehime Prefectural University of Health Sciences,Ehime Ken,132.798233,4.18,C
-171,University of Kochi,Kochi Ken,133.580902,4.01,C
-172,Kochi University of Technology,Kochi Ken,133.719894,4.02,D
-173,The University of Kitakyushu,Fukuoka Ken,130.878265,3.83,D
-174,Kyushu Dental University,Fukuoka Ken,130.853775,3.82,D
-175,Fukuoka Women's University,Fukuoka Ken,130.438522,4.09,C
-176,Fukuoka Prefectural University,Fukuoka Ken,130.814484,3.88,C
-177,University of Nagasaki,Nagasaki Ken,129.665451,3.74,D
-178,Prefectural University of Kumamoto,Kumamoto Ken,130.764236,3.8,C
-179,Oita University of Nursing And Health Sciences,Oita Ken,131.557205,3.73,
-180,Miyazaki Municipal University,Miyazaki Ken,131.417236,3.9,D
-181,Miyazaki Prefectural Nursing University,Miyazaki Ken,131.41423,4.21,C
-182,Meio University,Okinawa Ken,127.969719,3.87,E
-183,Okinawa Prefectural University of Arts,Okinawa Ken,127.718552,3.92,D
-184,Okinawa Prefectural College of Nursing,Okinawa Ken,127.694443,4.08,D
-185,Shunan　University,Yamaguchi Ken,131.84494,3.4,D
-186,Kawasaki City College of Nursing,Kanagawa Ken,139.669891,3.0,C
-187,Sapporo　University,Hokkai Do,141.387207,3.79,F
-188,Sapporo　Gakuin　University,Hokkai Do,141.492981,3.85,F
-189,Hakodate　University,Hokkai Do,140.806671,3.55,F
-190,Fuji　Women’s　University,Hokkai Do,141.350479,3.98,F
-191,Hokusei　Gakuen　University,Hokkai Do,141.448715,3.9,D
-192,Hokkai　-　Gakuen　University,Hokkai Do,141.369034,3.81,E
-193,Hokkaido　University　of　Science,Hokkai Do,141.246552,3.77,E
-194,Rakuno　Gakuen　University,Hokkai Do,141.508728,3.77,E
-195,AsahikawaUniversity,Hokkai Do,142.445099,3.74,
-196,Health　Sciences　University　of　Hokkaido,Hokkai Do,141.561859,3.89,E
-197,Hokkai　School　of　Commerce,Hokkai Do,141.370026,3.61,F
-198,Seisa　Dohto　University,Hokkai Do,141.538483,3.87,F
-199,Hokkaido　Information　University,Hokkai Do,141.537704,3.83,E
-200,Sapporo　International　University,Hokkai Do,141.424561,3.85,F
-201,Hokusho　University,Hokkai Do,141.489609,3.96,F
-202,Hokuyo University,Hokkai Do,141.464294,3.97,F
-203,Japanese　Red　Cross　Hokkaido　College　of　Nursing,Hokkai Do,143.908508,3.94,F
-204,Hokkaido　Bunkyo　University,Hokkai Do,141.591461,3.62,F
-205,Tenshi　College,Hokkai Do,141.357895,4.02,D
-206,Ikueikan　University,Hokkai Do,141.718567,4.43,F
-207,Sapporo　Otani　University,Hokkai Do,141.36557,3.94,F
-208,Sapporo　University　of　Health　Sciences,Hokkai Do,141.41246,3.63,F
-209,Japan　HealthCare　University,Hokkai Do,141.409714,3.54,F
-210,Hokkaido　Chitose　College　of　Rehabilitation,Hokkai Do,141.598404,3.69,F
-211,Aomori　University,Aomori Ken,140.78096,3.5,F
-212,Shibata Gakuen University,Aomori Ken,140.485275,3.92,F
-213,Hirosaki　Gakuin　University,Aomori Ken,140.465637,3.41,F
-214,Hachinohe　Institute　of　Technology,Aomori Ken,141.562363,3.61,F
-215,Hachinohe　Gakuin　University,Aomori Ken,141.571655,3.69,F
-216,Aomori　Chuo　Gakuin　University,Aomori Ken,140.76239,3.66,F
-217,Hirosaki　University　of　Health　and　Welfare,Aomori Ken,140.500473,3.71,F
-218,Iwate　Medical　University,Iwate Ken,141.161285,3.57,D
-219,Fuji　University,Iwate Ken,141.102646,3.63,F
-220,The　University　of　Morioka,Iwate Ken,141.137207,3.78,F
-221,Iwate　University　of　Health　and　Medical　Sciences,Iwate Ken,141.131851,3.33,F
-222,Sendai　University,Miyagi Ken,140.771561,3.63,F
-223,Tohoku　Gakuin　University,Miyagi Ken,140.877304,3.75,D
-224,Tohoku　Institute　of　Technology,Miyagi Ken,140.852432,3.62,F
-225,Tohoku　Fukushi　University,Miyagi Ken,140.847824,3.78,E
-226,Tohoku　Medical　And　Pharmaceutical　University,Miyagi Ken,140.885559,3.74,C
-227,Tohoku　Seikatsu　Bunka　University,Miyagi Ken,140.87027,3.64,F
-228,Miyagi　Gakuin　Women’s　University,Miyagi Ken,140.853912,3.9,F
-229,Ishinomaki　Senshu　University,Miyagi Ken,141.295639,3.65,F
-230,Sendai　Shirayuri　Women’s　College,Miyagi Ken,140.902542,3.58,F
-231,Tohoku　Bunka　Gakuen　University,Miyagi Ken,140.834534,3.69,F
-232,Shokei　Gakuin　University,Miyagi Ken,140.830078,3.82,F
-233,North　Asia　University,Akita Ken,140.157944,3.26,F
-234,Akita　University　of　Nursing　And　Welfare,Akita Ken,140.554398,4.15,F
-235,Japanese　Red　Cross　Akita　College　of　Nursing,Akita Ken,140.155457,3.84,F
-236,Tohoku　University　of　Art　&　Design,Yamagata Ken,140.344955,4.12,C
-237,Tohoku　University　of　Community　Service　And　Science,Yamagata Ken,139.817368,3.48,F
-238,Tohoku　Bunkyo　College,Yamagata Ken,140.303146,3.82,F
-239,Koriyama　Women’s　University,Fukushima Ken,140.352661,3.76,F
-240,Ohu　University,Fukushima Ken,140.37413,3.55,F
-241,Iryo Sosei University,Fukushima Ken,140.918915,3.46,F
-242,Higashi　Nippon　International　University,Fukushima Ken,140.907944,3.85,F
-243,Fukushima　College,Fukushima Ken,140.487549,3.86,F
-244,Ibaraki　Christian　University,Ibaraki Ken,140.617523,3.87,E
-245,Ryutsu　Keizai　University,Ibaraki Ken,140.168472,3.71,F
-246,Tokiwa　University,Ibaraki Ken,140.438705,3.75,F
-247,Tsukuba　International　University,Ibaraki Ken,140.198837,3.68,F
-248,Tsukuba　Gakuin　University,Ibaraki Ken,140.107864,3.53,
-249,Nihon　Wellness　Sports　University,Ibaraki Ken,140.145737,3.58,F
-250,Ashikaga　University,Tochigi Ken,139.396027,3.66,F
-251,Hakuoh　University,Tochigi Ken,139.807495,3.9,E
-252,Sakushin　Gakuin　University,Tochigi Ken,139.973999,3.83,F
-253,International　University　of　Health　And　Welfare,Tochigi Ken,140.069229,3.92,D
-254,Utsunomiya　Kyowa　University,Tochigi Ken,139.890869,3.87,F
-255,Bunsei　University　of　Art,Tochigi Ken,139.859558,3.8,F
-256,Jichi　Medical　University,Tochigi Ken,139.858521,4.1,B
-257,Dokkyo　Medical　University,Tochigi Ken,139.825363,3.95,B
-258,Ikuei　University,Gunma Ken,139.050339,3.81,F
-259,Kiryu　University,Gunma Ken,139.295685,3.43,F
-260,Gunma　Paz　University,Gunma Ken,139.008804,3.79,E
-261,Gunma　University　of　Health　And　Welfare,Gunma Ken,139.047913,3.49,E
-262,Takasaki　University　of　Health　And　Welfare,Gunma Ken,139.054886,3.76,E
-263,Takasaki　University　of　Commerce,Gunma Ken,139.034241,3.85,E
-264,Jobu　University,Gunma Ken,139.176224,3.6,F
-265,Kanto　Gakuen　University,Gunma Ken,139.356094,3.72,F
-266,KYOAI　GAKUEN　UNIVERSITY,Gunma Ken,139.144562,3.96,E
-267,Nihon　Institute　of　Medical　Science,Saitama Ken,139.343781,3.16,E
-268,Nihon　Pharmaceutical　University,Saitama Ken,139.617203,3.44,F
-269,Musashino　Gakuin　University,Saitama Ken,139.387009,3.71,F
-270,Urawa　University,Saitama Ken,139.712662,4.04,F
-271,Institute　of　Technologists,Saitama Ken,139.456436,3.83,F
-272,Kyoei　University,Saitama Ken,139.722092,3.53,F
-273,Saitama　Gakuen　University,Saitama Ken,139.713959,3.65,F
-274,Shobi　University,Saitama Ken,139.460602,3.65,F
-275,University　of　Human　Arts　And　Sciences,Saitama Ken,139.658371,3.61,F
-276,Bunri　University　of　Hospitality,Saitama Ken,139.418518,3.49,F
-277,Jumonji　University,Saitama Ken,139.552094,3.81,F
-278,Heisei　International　University,Saitama Ken,139.637634,3.74,F
-279,Tokyo International University,Saitama Ken,139.437866,3.96,F
-280,Josai　University,Saitama Ken,139.34201,3.52,F
-281,Toho　College　of　Music,Saitama Ken,139.523529,4.02,
-282,Dokkyo　University,Saitama Ken,139.794189,3.95,C
-283,Nippon　Institute　of　Technology,Saitama Ken,139.713486,3.66,F
-284,Meikai　University,Saitama Ken,139.34201,3.77,E
-285,Saitama　Medical　University,Saitama Ken,139.304062,3.8,D
-286,Saitama　Institute　of　Technology,Saitama Ken,139.238739,3.59,F
-287,Surugadai　University,Saitama Ken,139.334778,3.75,E
-288,Seigakuin　University,Saitama Ken,139.595535,3.7,F
-289,Kagawa　Nutrition　University,Saitama Ken,139.410965,4.12,E
-290,Tohto　University,Saitama Ken,139.298462,3.46,F
-291,Japan　University　of　Health　Sciences,Saitama Ken,139.73082,3.33,F
-292,Chiba　Institute　of　Science,Chiba Ken,140.846268,3.31,F
-293,Aikoku　Gakuen　University,Chiba Ken,140.157578,3.68,F
-294,Kaichi　International　University,Chiba Ken,139.987976,4.07,F
-295,Seiwa　University,Chiba Ken,139.958008,3.19,F
-296,Josai　International　University,Chiba Ken,140.395966,3.61,F
-297,Shukutoku　University,Chiba Ken,140.144501,3.81,E
-298,Keiai　University,Chiba Ken,140.103821,3.74,F
-299,Chiba　Institute　of　Technology,Chiba Ken,140.021255,3.75,D
-300,Chiba　University　of　Commerce,Chiba Ken,139.907028,3.69,E
-301,Chuogakuin　University,Chiba Ken,140.01796,3.76,F
-302,Reitaku　University,Chiba Ken,139.951187,3.81,E
-303,Wayo　Women’s　University,Chiba Ken,139.904266,4.05,F
-304,International　Budo　University,Chiba Ken,140.322876,3.59,F
-305,Kanda　University　of　International　Studies,Chiba Ken,140.042236,4.05,D
-306,Chiba　Keizai　University,Chiba Ken,140.109146,3.65,E
-307,Shumei　University,Chiba Ken,140.099426,3.93,E
-308,Kawamura　Gakuen　Woman’s　University,Chiba Ken,140.053757,3.51,F
-309,Tokyo　University　of　Information　Sciences,Chiba Ken,140.203354,3.83,E
-310,Tokyo　Christian　University,Chiba Ken,140.125168,4.23,
-311,Seitoku　University,Chiba Ken,139.903381,3.6,F
-312,Edogawa　University,Chiba Ken,139.938934,3.57,E
-313,Ryotokuji　University,Chiba Ken,139.926636,3.66,E
-314,Uekusa　Gakuen　University,Chiba Ken,140.181976,3.88,F
-315,Saniku　Gakuin　College,Chiba Ken,140.262909,4.08,F
-316,Kameda University　of　Health　Sciences,Chiba Ken,140.100525,3.31,F
-317,Tokyo　University　of　Social　Welfare,Gunma Ken,139.194138,3.82,F
-318,Atomi　University,Tokyo To,139.734116,3.83,E
-319,Bunkyo　University,Tokyo To,139.705902,3.89,D
-320,Bunkyo　Gakuin　University,Tokyo To,139.757568,3.74,F
-321,Mejiro　University,Tokyo To,139.681244,3.51,E
-322,Tokyo　Seitoku　University,Tokyo To,139.72403,3.87,F
-323,Toyo　Gakuen　University,Tokyo To,139.757568,3.54,F
-324,Teikyo　Heisei　University,Tokyo To,139.718811,3.8,E
-325,Aoyama　Gakuin　University,Tokyo To,139.708862,4.03,A
-326,Ueno　Gakuen　University,Tokyo To,139.782227,3.69,
-327,Otsuma　Women’s　University,Tokyo To,139.742264,3.95,D
-328,Gakushuin　University,Tokyo To,139.707245,4.11,B
-329,Kitasato University,Tokyo To,139.725525,3.98,D
-330,Kyoritsu　Women’s　University,Tokyo To,139.757553,3.92,D
-331,Keio　University,Tokyo To,139.742828,4.19,S
-332,Kogakuin　University,Tokyo To,139.695648,3.64,B
-333,Kokugakuin　University,Tokyo To,139.711365,3.91,
-334,Kokushikan　University,Tokyo To,139.653458,3.75,D
-335,Komazawa　University,Tokyo To,139.65863,3.73,C
-336,Jissen　Women’s　University,Tokyo To,139.38974,3.92,D
-337,Shibaura　Institute　of　Technology,Tokyo To,139.794281,3.94,C
-338,Juntendo　University,Tokyo To,139.761734,4.07,C
-339,Sophia　University,Tokyo To,139.732742,4.2,A
-340,Showa　University,Tokyo To,139.704071,3.91,C
-341,Showa　Women’s　University,Tokyo To,139.675186,3.94,C
-342,Showa　Pharmaceutical　University,Tokyo To,139.470673,3.55,C
-343,Joshibi　University　of　Art　And　Design,Tokyo To,139.662079,4.0,E
-344,Sugino　Fashion　College,Tokyo To,139.71553,3.51,F
-345,Seijo　University,Tokyo To,139.600174,3.81,B
-346,"University　of　The　Sacred　Heart,　Tokyo",Tokyo To,139.717285,4.33,D
-347,Seisen　University,Tokyo To,139.729797,4.15,E
-348,St.Luke’s　International　University,Tokyo To,139.775391,4.41,A
-349,Senshu　University,Tokyo To,139.753876,3.74,C
-350,Taisho　University,Tokyo To,139.728256,3.8,E
-351,Daito　Bunka　University,Tokyo To,139.667938,3.69,E
-352,Takachiho　University,Tokyo To,139.638245,3.56,F
-353,Takushoku　University,Tokyo To,139.737274,3.64,E
-354,Tama　Art　University,Tokyo To,139.637085,3.95,D
-355,Chuo　University,Tokyo To,139.399811,3.91,B
-356,Tokai　University,Kanagawa Ken,139.271378,3.8,E
-357,Tokyo　Medical　University,Tokyo To,139.71225,3.9,A
-358,Tokyo　Kasei　University,Tokyo To,139.719482,3.95,E
-359,Tokyo　Kasei　Gakuin　University,Tokyo To,139.310562,3.57,F
-360,Tokyo　Dental　College,Tokyo To,139.754852,4.16,B
-361,The　Jikei　University　School　of　Medicine,Tokyo To,139.75029,4.28,A
-362,Tokyo　Woman's　Christian　University,Tokyo To,139.591202,3.93,C
-363,Tokyo　Women’s　Medical　University,Tokyo To,139.719635,4.29,C
-364,Tokyo　Denki　University,Tokyo To,139.806381,3.68,C
-365,Tokyo　University　of　Agriculture,Tokyo To,139.631912,3.94,D
-366,Tokyo　University　of　Pharmacy　And　Life　Sciences,Tokyo To,139.385071,3.82,D
-367,Tokyo　University　of　Science,Tokyo To,139.741348,3.85,B
-368,Toho　University,Tokyo To,139.724884,3.98,D
-369,Toyo University,Tokyo To,139.750763,3.83,C
-370,Tokyo　College　of　Music,Tokyo To,139.699265,4.14,F
-371,Nishogakusha　University,Tokyo To,139.74527,3.67,
-372,Nihon　University,Tokyo To,139.737396,3.71,D
-373,Nippon　Medical　School,Tokyo To,139.758453,3.99,S
-374,The　Nippon　Dental　University,Tokyo To,139.746216,3.16,D
-375,Japan　College　of　Social　Work,Tokyo To,139.508698,3.86,E
-376,Japan Women’s University,Tokyo To,139.721085,4.09,C
-377,Japan　Women’s　College　of　Physical　Education,Tokyo To,139.590546,4.0,F
-378,Nippon　Sport　Science　University,Tokyo To,139.650009,4.03,E
-379,Japan　Lutheran　College,Tokyo To,139.527481,3.97,F
-380,Bunka　Gakuen　University,Tokyo To,139.693954,4.08,E
-381,Hosei　University,Tokyo To,139.74115,3.89,B
-382,Hoshi　University,Tokyo To,139.712601,3.9,B
-383,Musashi　University,Tokyo To,139.666885,3.96,B
-384,Tokyo　City　University,Tokyo To,139.650925,3.88,C
-385,Musashino　Academia　Musicae,Tokyo To,139.672195,3.86,F
-386,Meiji　University,Tokyo To,139.761398,4.01,A
-387,Meiji　Gakuin　University,Tokyo To,139.730743,3.9,B
-388,Meiji　Pharmaceutical　University,Tokyo To,139.50618,3.93,C
-389,Rikkyo　University,Tokyo To,139.704742,4.09,A
-390,Rissho　University,Tokyo To,139.724075,3.76,E
-391,Waseda　University,Tokyo To,139.722244,4.14,S
-392,International　College　For　Postgraduate　Buddhist　Studies,Tokyo To,139.740997,5.0,
-393,Gakushuin　Women’s　College,Tokyo To,139.713242,4.19,D
-394,International Professional University of Technology in Tokyo,Tokyo To,139.698044,4.0,
-395,Tokyo Professional University of Health Sciences,Tokyo To,139.813049,,F
-396,Professional University of Information and Management for Innovation,Tokyo To,139.823807,3.5,F
-397,"Graduate School of Leadership and Innovation, Shizenkan University",Tokyo To,139.773468,,
-398,Tokyo　Online　University,Tokyo To,139.698044,3.78,
-399,Professional Institute of International Fashion,Tokyo To,139.698044,4.0,
-400,Komazawa　Women’s　University,Tokyo To,139.493988,3.74,E
-401,Asia　University,Tokyo To,139.534866,3.75,E
-402,J.F.Oberlin　University,Tokyo To,139.405487,3.8,E
-403,Kunitachi　College　of　Music,Tokyo To,139.410995,4.09,F
-404,International　Christian　University,Tokyo To,139.527481,4.43,S
-405,Shirayuri　University,Tokyo To,139.581207,3.92,E
-406,Seikei　University,Tokyo To,139.572693,3.95,C
-407,Tamagawa　University,Tokyo To,139.464844,3.78,D
-408,Tsuda　University,Tokyo To,139.465271,4.11,C
-409,Teikyo　University,Tokyo To,139.714478,3.71,E
-410,Tokyo　Keizai　University,Tokyo To,139.488266,3.87,D
-411,Tokyo　Women’s　College　of　Physical　Education,Tokyo To,139.427765,3.8,F
-412,Tokyo　Union　Theological　Seminary,Tokyo To,139.527481,2.86,
-413,Tokyo　Zokei　University,Tokyo To,139.334259,3.86,E
-414,Toho　Gakuen　School　of　Music,Tokyo To,139.584274,4.35,F
-415,Nippon　Veterinary　And　Life　Science　University,Tokyo To,139.546646,4.03,
-416,Musashino　University,Tokyo To,139.786896,3.7,D
-417,Musashino　Art　University,Tokyo To,139.449005,4.01,D
-418,Meisei　University,Tokyo To,139.409485,3.75,D
-419,WAKO　UNIVERSITY,Tokyo To,139.463898,3.59,F
-420,Kyorin　University,Tokyo To,139.565598,3.77,D
-421,Soka　University,Tokyo To,139.327942,4.35,E
-422,Nihon　Bunka　University,Tokyo To,139.341354,3.22,F
-423,Tokyo　University　of　Technology,Tokyo To,139.341415,3.56,E
-424,Japanese　Red　Cross　College　of　Nursing,Tokyo To,139.717285,4.38,C
-425,Keisen　University,Tokyo To,139.436417,3.79,F
-426,Tama　University,Tokyo To,139.463898,3.34,F
-427,Tokyo　Junshin　University,Tokyo To,139.335144,3.58,F
-428,Kaetsu　University,Tokyo To,139.514572,3.2,F
-429,Tokyo　Fuji　University,Tokyo To,139.699997,3.48,F
-430,LEC Graduate University,Tokyo To,139.7547,,
-431,Digital Hollywood University,Tokyo To,139.766403,4.25,D
-432,Shiraume　Gakuen　University,Tokyo To,139.451126,3.95,E
-433,Tokyo　Healthcare　University,Tokyo To,139.726364,3.65,E
-434,Tokyo　Seiei　College,Tokyo To,139.856979,3.79,F
-435,Business Breakthrough University,Tokyo To,139.735382,4.23,
-436,"Graduate　School　of　Management,　GLOBIS　University",Tokyo To,139.736298,5.0,
-437,Bunka　Fashion　Graduate　University,Tokyo To,139.693954,,
-438,Ohara　Graduate　School　of　Accounting,Tokyo To,139.756836,3.82,
-439,Tokyo　Future　University,Tokyo To,139.816635,3.87,F
-440,Hollywood　Graduate　School　of　Beauty　Business,Tokyo To,139.729691,3.67,
-441,Sbi　Graduate　School,Tokyo To,139.739487,,
-442,Hosen　College　of　Childhood　Education,Tokyo To,139.678802,3.63,F
-443,Tokyo　Ariake　University　of　Medical　And　Health　Sciences,Tokyo To,139.7966,3.71,F
-444,Tokyo　Polytechnic　University,Tokyo To,139.679535,3.65,E
-445,Sanno　University,Tokyo To,139.661514,3.83,D
-446,Yamazaki　University　of　Animal　Health　Technology,Tokyo To,139.375656,3.57,E
-447,University　of　Tokyo　Health　Sciences,Tokyo To,139.42894,3.39,F
-448,The　Graduate　School　of　Project　Design,Tokyo To,139.713745,,
-449,The　Graduate　School　of　Social Design,Tokyo To,139.706604,,
-450,Teikyo　University　of　Science,Tokyo To,139.789429,3.58,E
-451,Seisa　University,Kanagawa Ken,138.999374,4.15,
-452,Kanagawa　University,Kanagawa Ken,139.620773,3.68,D
-453,Kanto　Gakuin　University,Kanagawa Ken,139.625931,3.54,F
-454,Tsurumi　University,Kanagawa Ken,139.6707,3.75,F
-455,Ferris　University,Kanagawa Ken,139.525589,4.06,F
-456,Yokohama　College　of　Commerce,Kanagawa Ken,139.659317,3.51,F
-457,Yashima　Gakuen　University,Kanagawa Ken,139.622726,3.42,
-458,Institute　of　Information　Security,Kanagawa Ken,139.623535,3.28,
-459,Yokohama　University　of　Pharmacy,Kanagawa Ken,139.49202,3.68,F
-460,Azabu　University,Kanagawa Ken,139.392426,3.83,E
-461,Kanagawa　Dentaluniversity,Kanagawa Ken,139.665237,3.11,F
-462,Kamakura　Women’s　University,Kanagawa Ken,139.538498,3.9,E
-463,Shonan　Institute　of　Technology,Kanagawa Ken,139.453232,3.76,F
-464,Sagami　Women’s　University,Kanagawa Ken,139.427368,3.76,F
-465,Senzoku　Gakuen　College　of　Music,Kanagawa Ken,139.615311,3.86,
-466,St.Marianna　University　School　of　Medicine,Kanagawa Ken,139.547073,3.76,A
-467,Kanagawa　Institute of　Technology,Kanagawa Ken,139.343307,3.59,F
-468,Showa　University　of　Music,Kanagawa Ken,139.508041,4.06,F
-469,Toin　University　of　Yokohama,Kanagawa Ken,139.521179,3.71,F
-470,Toyo　Eiwa　University,Kanagawa Ken,139.510101,3.78,F
-471,Shoin　University,Kanagawa Ken,139.315689,3.47,F
-472,Den-En　Chofu　University,Kanagawa Ken,139.525146,3.64,F
-473,Yokohama　University　of　Art　&　Design,Kanagawa Ken,139.497253,3.92,F
-474,Japan　Institute　of　The　Moving　Image,Kanagawa Ken,139.507553,3.73,F
-475,Yokohama　Soei　University,Kanagawa Ken,139.510056,3.56,F
-476,Shonan　University　of　Medical　Sciences,Kanagawa Ken,139.548645,3.72,F
-477,SHONAN KAMAKURA UNIVERSITY OF MEDICAL SCIENCES,Kanagawa Ken,139.52774,3.67,F
-478,Nagaoka　University,Niigata Ken,138.880157,3.44,E
-479,Niigata　University　of　Health　And　Welfare,Niigata Ken,139.188843,3.89,F
-480,Niigata　Seiryo　University,Niigata Ken,139.025436,3.94,E
-481,Niigata　Institute　of　Technology,Niigata Ken,138.576767,3.62,F
-482,Niigata　University　of　Management,Niigata Ken,139.065048,3.73,F
-483,Niigata　University　of　International　And　Information　Studies,Niigata Ken,138.899292,3.69,D
-484,Keiwa　College,Niigata Ken,139.2901,3.45,F
-485,Niigata　University　of　Pharmacy　and　Applied　Life　Sciences,Niigata Ken,139.12204,3.51,F
-486,International　University　of　Japan,Niigata Ken,138.948013,3.0,
-487,Niigata　Sangyo　University,Niigata Ken,138.593201,3.73,F
-488,Graduate　Institute　For　Entrepreneurial　Studies,Niigata Ken,139.061737,,
-489,Niigata　University　of　Rehabilitation,Niigata Ken,139.439468,3.18,F
-490,Niigata　Agro-Food　University,Niigata Ken,139.194901,2.75,F
-491,Kaishi Professional University,Niigata Ken,139.067429,4.0,F
-492,Nagaoka Sutoku University,Niigata Ken,138.773346,3.75,F
-493,Takaoka　University　of　Law,Toyama Ken,137.001297,3.43,F
-494,Toyama　University　of　International　Studies,Toyama Ken,137.273621,3.7,F
-495,Toho　Gakuen　Graduate　School,Toyama Ken,137.165161,5.0,
-496,Kanazawa　Seiryo　University,Ishikawa Ken,136.68222,3.77,F
-497,Kanazawa　Institute　of　Technology,Ishikawa Ken,136.627518,3.69,F
-498,Kanazawa　Medical　University,Ishikawa Ken,136.647263,3.9,C
-499,Hokuriku　University,Ishikawa Ken,136.707336,3.46,F
-500,Kanazawa　Gakuin　University,Ishikawa Ken,136.698029,3.4,F
-501,Kinjo　University,Ishikawa Ken,136.529785,3.84,F
-502,Hokurikugakuin　University,Ishikawa Ken,136.670761,3.81,F
-503,Kanazawa Professional University of Food Management,Ishikawa Ken,136.586166,,F
-504,Fukui　University　of　Technology,Fukui Ken,136.196365,3.59,E
-505,Jin-Ai　University,Fukui Ken,136.211166,3.85,F
-506,Fukui　Health　Science　University,Fukui Ken,136.165817,3.56,F
-507,Yamanashi　Gakuin　University,Yamanashi Ken,138.600906,3.74,F
-508,Minobusan　University,Yamanashi Ken,138.428558,5.0,F
-509,Yamanashi-Eiwa　College,Yamanashi Ken,138.613174,3.66,F
-510,Health　Science　University,Yamanashi Ken,138.744141,3.58,F
-511,Matsumoto　Dental　University,Nagano Ken,137.939728,3.1,F
-512,Matsumoto　University,Nagano Ken,137.911194,3.91,E
-513,Seisen　Jogakuin　College,Nagano Ken,138.23291,4.1,F
-514,Saku　University,Nagano Ken,138.463028,3.89,F
-515,Nagano　University　of　Health　And　Medicine,Nagano Ken,138.145218,3.87,E
-516,MATSUMOTO COLLEGE OF NURSING,Nagano Ken,137.93544,3.0,F
-517,Chukyo　Gakuin　University,Gifu Ken,137.485397,3.64,F
-518,Gifu　Kyoritsu　University,Gifu Ken,136.619125,3.46,F
-519,Gifu　Women’s　University,Gifu Ken,136.806992,3.77,F
-520,Asahi　University,Gifu Ken,136.69072,3.76,E
-521,Gifu　Shotoku　Gakuen　University,Gifu Ken,136.706558,4.09,E
-522,Tokai　Gakuin　University,Gifu Ken,136.82048,3.52,F
-523,Chubu　Gakuin　University,Gifu Ken,136.897781,3.86,F
-524,Gifu　University　of　Medical　Science,Gifu Ken,136.948273,3.79,E
-525,Gifu University of Health Sciences,Gifu Ken,136.739914,3.91,F
-526,The　Graduate　School　For　The　Creation　of　New　Photonics　Industries,Shizuoka Ken,137.630966,,
-527,Shizuoka　University　of　Welfare,Shizuoka Ken,138.296936,3.89,F
-528,Hamamatsu　Gakuin　University,Shizuoka Ken,137.713333,3.93,F
-529,Shizuoka　Eiwa　Gakuin　University,Shizuoka Ken,138.433868,3.54,F
-530,Tokoha　University,Shizuoka Ken,138.436478,3.77,F
-531,Shizuoka　Institute　of　Science　And　Technology,Shizuoka Ken,137.957748,3.59,E
-532,Seirei　Christopher　University,Shizuoka Ken,137.689636,4.0,F
-533,Shizuoka　Sangyo　University,Shizuoka Ken,138.229004,3.64,F
-534,Aichi　University　of　Technology,Aichi Ken,137.19342,3.5,F
-535,Nagoya　Sangyo　University,Aichi Ken,137.031418,3.63,F
-536,University　of　Human　Environments,Aichi Ken,137.264633,3.58,E
-537,Nagoya　Bunri　University,Aichi Ken,136.789261,3.68,F
-538,Aichi　Mizuho　College,Aichi Ken,136.921875,3.46,F
-539,Aichi　Gakuin　University,Aichi Ken,137.042679,3.83,E
-540,Aichi　Institute　of　Technology,Aichi Ken,137.111893,3.67,D
-541,Kinjogakuin　University,Aichi Ken,136.99321,4.02,E
-542,Sugiyama　Jogakuen　University,Aichi Ken,136.987167,3.98,E
-543,Daido　University,Aichi Ken,136.905609,3.71,E
-544,Chukyo　University,Aichi Ken,136.965393,3.81,C
-545,Doho　University,Aichi Ken,136.843185,3.62,F
-546,Nagoya　Gakuin　University,Aichi Ken,136.89859,3.6,E
-547,Nagoya　University　of　Commerce　&　Business,Aichi Ken,137.082047,3.37,F
-548,Nagoya　Women’s　University,Aichi Ken,136.938492,3.79,E
-549,Nanzan　University,Aichi Ken,136.96315,3.96,C
-550,Nihon　Fukushi　University,Aichi Ken,136.872833,3.76,F
-551,Meijo　University,Aichi Ken,136.976532,3.84,C
-552,Nagoya　College　of　Music,Aichi Ken,136.843185,3.86,E
-553,Toyota　Technological　Institute,Aichi Ken,136.982498,3.76,B
-554,Nagoya　University　of　Foreign　Studies,Aichi Ken,137.040131,3.89,C
-555,Nagoya　Zokei　University　of　Art　;　Design,Aichi Ken,136.905731,3.65,E
-556,Aichi　Sangyo　University,Aichi Ken,137.219589,3.8,F
-557,Tokai　Gakuen　University,Aichi Ken,137.098785,3.56,F
-558,Toyohashi　Sozo　University,Aichi Ken,137.409988,3.54,F
-559,Aichi　Toho　University,Aichi Ken,136.986328,3.54,F
-560,Seijoh　University,Aichi Ken,136.900803,3.75,F
-561,Aichi　Bunkyo　University,Aichi Ken,137.007355,3.55,F
-562,Ohkagakuen　University,Aichi Ken,136.973251,4.21,F
-563,Aichi　University,Aichi Ken,136.927292,3.83,D
-564,Aichi　Gakusen　University,Aichi Ken,137.143311,3.41,F
-565,Shigakkan　University,Aichi Ken,136.972305,3.58,E
-566,Chubu　University,Aichi Ken,137.015121,3.73,E
-567,Fujita　Health　University,Aichi Ken,137.001389,3.73,C
-568,Nagoya　University　of　The　Arts,Aichi Ken,136.880783,3.72,F
-569,Aichi　Medical　University,Aichi Ken,137.048386,3.76,B
-570,Aichi　Shukutoku　University,Aichi Ken,137.031342,3.84,D
-571,Nagoya　University　of　Economics,Aichi Ken,136.953247,3.38,F
-572,Nagoya　University　of　Arts　And　Sciences,Aichi Ken,137.040131,4.16,C
-573,Japanese　Red　Cross　Toyota　College　of　Nursing,Aichi Ken,137.120712,3.88,E
-574,Shubun　University,Aichi Ken,136.781296,3.47,F
-575,Okazaki　Women’s　University,Aichi Ken,137.185226,4.1,F
-576,Ichinomiya　Kenshin　College,Aichi Ken,136.811523,4.0,E
-577,Nagoya Ryujo Women's University,Aichi Ken,136.932465,4.12,F
-578,International Professional University of Technology in Nagoya,Aichi Ken,136.8862,5.0,
-579,Yokkaichi　University,Mie Ken,136.605225,3.65,F
-580,Kogakkan　University,Mie Ken,136.726547,3.9,E
-581,Suzuka　University　of Medical　Science,Mie Ken,136.59938,3.59,E
-582,Suzuka　University,Mie Ken,136.534454,3.51,F
-583,Yokkaichi　Nursing　And　Medical　Care　University,Mie Ken,136.605225,3.76,E
-584,Seian　University　of　Art　And　Design,Shiga Ken,135.902008,3.75,C
-585,Seisen　University,Shiga Ken,136.204422,3.39,F
-586,Nagahama　Institute　of　Bio-Science　And　Technology,Shiga Ken,136.28038,3.76,E
-587,Biwako　Seikei　Sport　College,Shiga Ken,135.94754,3.88,F
-588,Biwako-Gakuin　University,Shiga Ken,136.184052,3.63,F
-589,Biwako Professional University of Rehabilitation,Shiga Ken,136.275558,5.0,F
-590,Heian Jogakuin st.Agnes University,Kyoto Fu,135.757797,3.85,F
-591,Otani　University,Kyoto Fu,135.759064,3.88,F
-592,Kyoto　University　of　Foreign　Studies,Kyoto Fu,135.718948,3.81,D
-593,Kyoto　Sangyo　University,Kyoto Fu,135.754211,3.81,D
-594,Kyoto　Women’s　University,Kyoto Fu,135.778442,3.91,D
-595,Kyoto　　　　Pharmaceutical　　University,Kyoto Fu,135.809723,3.97,C
-596,Kyoto　Koka　Women’s　University,Kyoto Fu,135.718384,3.79,F
-597,Shuchiin　University,Kyoto Fu,135.766678,3.97,F
-598,Kyoto　Tachibana　University,Kyoto Fu,135.82515,3.94,D
-599,Doshisha　University,Kyoto Fu,135.82515,4.06,B
-600,Doshisha　Women’s　College　of　Liberal　Arts,Kyoto Fu,135.772675,4.15,D
-601,Kyoto　Notre　Dame　University,Kyoto Fu,135.770004,3.98,F
-602,Hanazono　University,Kyoto Fu,135.726288,3.83,F
-603,Bukkyo　University,Kyoto Fu,135.737289,3.89,E
-604,Ritsumeikan　University,Kyoto Fu,135.742157,3.9,B
-605,Ryukoku　University,Kyoto Fu,135.766693,3.85,D
-606,Kyoto University of Advanced Science,Kyoto Fu,135.719025,3.51,F
-607,Kyoto　Seika　University,Kyoto Fu,135.769882,3.92,D
-608,Meiji　University　of　Integrative　Medicine,Kyoto Fu,135.487335,3.78,F
-609,Kyoto　University　of　the Arts,Kyoto Fu,135.794586,3.88,E
-610,Kyoto　Bunkyo　University,Kyoto Fu,135.785049,3.76,F
-611,Kyoto　Saga　University　of　Arts,Kyoto Fu,135.688416,3.93,E
-612,The　Kyoto　College　of　Graduate　Studies　For　Informatics,Kyoto Fu,135.779221,,
-613,Kyoto　College　of　Medical　Science,Kyoto Fu,135.479446,3.86,E
-614,Kyoto　Kacho　University,Kyoto Fu,135.780304,3.82,F
-615,Kyoto　Arts　And　Crafts　University,Kyoto Fu,135.780304,4.03,E
-616,Kyoto　College　of　Nursing,Kyoto Fu,135.73465,3.25,E
-617,Osaka　University　of　Economics,Osaka Fu,135.543991,3.78,E
-618,Osaka　Institute　of　Technology,Osaka Fu,135.54538,3.81,D
-619,Osaka　Dental　University,Osaka Fu,135.676361,3.61,D
-620,Soai　University,Osaka Fu,135.424088,3.79,F
-621,Momoyama　Gakuin　University,Osaka Fu,135.454117,3.58,E
-622,Setsunan　University,Osaka Fu,135.613068,3.64,E
-623,Momoyama　Gakuin　University　of　Education,Osaka Fu,135.533585,3.66,E
-624,Osaka Medical and Pharmaceutical University,Osaka Fu,135.624405,4.11,B
-625,Osaka　College　of　Music,Osaka Fu,135.470444,4.0,F
-626,Osaka　Gakuin　University,Osaka Fu,135.541901,3.58,E
-627,Osaka University of Arts,Osaka Fu,135.630569,3.79,E
-628,Osaka　Sangyo　University,Osaka Fu,135.646149,3.46,F
-629,Osaka　Shoin　Women’s　University,Osaka Fu,135.578369,3.86,F
-630,Osaka　University　of　Commerce,Osaka Fu,135.583664,3.56,E
-631,Osaka　University　of　Health　And　Sport　Sciences,Osaka Fu,135.358826,4.13,E
-632,Osaka　Electro-Communication　University,Osaka Fu,135.627777,3.78,E
-633,Osaka　Ohtani　University,Osaka Fu,135.58226,3.78,E
-634,Otemon　Gakuin　University,Osaka Fu,135.558502,3.56,D
-635,Kansai　University,Osaka Fu,135.510162,3.95,B
-636,Kansai　Medical　University,Osaka Fu,135.645493,4.07,C
-637,Kansai　Gaidai　University,Osaka Fu,135.667068,3.71,C
-638,Kindai　University,Osaka Fu,135.587158,3.86,C
-639,Shitennoji　University,Osaka Fu,135.583755,3.88,E
-640,Tezukayamagakuin　University,Osaka Fu,135.532791,3.85,E
-641,Baika　Women’s　University,Osaka Fu,135.535049,3.83,E
-642,Hannan　University,Osaka Fu,135.534409,3.76,E
-643,Osaka　University　of　Economics　and　Law,Osaka Fu,135.645554,3.53,E
-644,Osaka　International　University,Osaka Fu,135.603439,3.78,E
-645,Kansai　University　of　Welfare　Sciences,Osaka Fu,135.636398,3.79,F
-646,Taisei　Gakuin　University,Osaka Fu,135.578201,3.32,F
-647,Tokiwakai Gakuen　University,Osaka Fu,135.561798,3.82,F
-648,Osaka　University　of　Tourism,Osaka Fu,135.339508,3.39,F
-649,Osaka　University　of　Human　Sciences,Osaka Fu,135.547882,3.6,F
-650,Hagoromo　University　of　International　Studies,Osaka Fu,135.447662,3.51,F
-651,Osaka　Seikei　University,Osaka Fu,135.537384,3.71,E
-652,Kansai　University　of　Health　Sciences,Osaka Fu,135.3703,3.92,E
-653,Senri　Kinran　University,Osaka Fu,135.515549,3.8,F
-654,Higashiosaka　College,Osaka Fu,135.580933,3.83,F
-655,Osaka　Jogakuin　University,Osaka Fu,135.526535,3.91,F
-656,Aino　University,Osaka Fu,135.581833,3.53,E
-657,Osaka　Aoyama　University,Osaka Fu,135.457367,3.73,E
-658,Shijonawate　Gakuen　University,Osaka Fu,135.646805,3.9,F
-659,Osaka　Kawasaki　Rehabilitation　University,Osaka Fu,135.38707,3.8,
-660,Osaka　University　of　Comprehensive　Children　Education,Osaka Fu,135.538864,4.06,E
-661,Morinomiya　University　of　Medical　Sciences,Osaka Fu,135.413635,3.9,D
-662,Osaka　Health　Science　University,Osaka Fu,135.519669,4.01,F
-663,Butsuryo　College　of　Osaka,Osaka Fu,135.462921,3.51,F
-664,Jikei University of Health Care Sciences,Osaka Fu,135.500031,4.0,F
-665,Osaka　Yukioka　College　of　Health　Science,Osaka Fu,135.580566,3.41,F
-666,Yamato　University,Osaka Fu,135.519043,3.7,C
-667,Takarazuka　University,Osaka Fu,135.497284,3.55,F
-668,International Professional University of Technology in Osaka,Osaka Fu,135.49324,4.0,
-669,Konan　University,Hyogo Ken,135.268463,3.88,D
-670,Konan　Women’s　University,Hyogo Ken,135.288895,3.98,E
-671,Kobe　Kaisei　College,Hyogo Ken,135.21196,3.87,F
-672,Kobe　Gakuin　University,Hyogo Ken,135.203583,3.6,E
-673,Kobe　Women’s　University,Hyogo Ken,135.109131,3.84,E
-674,Kobe　Pharmaceutical　University,Hyogo Ken,135.283752,3.68,D
-675,Kobe　Shoin　Women’s　University,Hyogo Ken,135.229904,3.86,E
-676,Kobe　Shinwa　Women’S　University,Hyogo Ken,135.154785,3.9,
-677,Kobe　International　University,Hyogo Ken,135.271103,3.66,F
-678,Hyogo　University,Hyogo Ken,134.881317,3.68,F
-679,Kobe　Tokiwa　University,Hyogo Ken,135.140472,3.8,E
-680,Takarazuka　University　of　Medical　and　Health　Care,Hyogo Ken,135.401855,3.7,F
-681,Ashiya　University,Hyogo Ken,135.30777,3.67,F
-682,Otemae　University,Hyogo Ken,135.325104,3.63,E
-683,Kwansei　Gakuin　University,Hyogo Ken,135.34436,4.0,B
-684,Koshien　University,Hyogo Ken,135.33316,3.55,F
-685,Kobe　College,Hyogo Ken,135.350464,4.23,E
-686,Sonoda　Women’s　University,Hyogo Ken,135.411011,3.59,F
-687,Mukogawa　Women’s　University,Hyogo Ken,135.374451,4.01,D
-688,Hyogo　Medical　University,Hyogo Ken,135.378647,3.94,D
-689,Himeji　Dokkyo　University,Hyogo Ken,134.688828,3.71,F
-690,University　of　Marketing　And　Distribution　Sciences,Hyogo Ken,135.057877,3.78,E
-691,Kobe　Design　University,Hyogo Ken,135.055939,3.78,F
-692,Kansai　University　of　Social　Welfare,Hyogo Ken,134.368454,3.74,E
-693,Kansai　University　of　International　Studies,Hyogo Ken,135.044052,3.57,F
-694,Kobe　University　of　Welfare,Hyogo Ken,134.726196,3.67,F
-695,Kobe　Institute　of　Computing　-　Graduate　School　of　Information　Technology,Hyogo Ken,135.193039,3.63,
-696,Kansai　University　of　Nursing　And　Health　Sciences,Hyogo Ken,134.901291,3.9,E
-697,Hyogo　University　of　Health　Sciences,Hyogo Ken,135.203979,3.99,
-698,Himeji　University,Hyogo Ken,134.75943,3.72,F
-699,Tezukayama　University,Nara Ken,135.722137,3.7,E
-700,Tenri　University,Nara Ken,135.845306,4.17,E
-701,Nara　University,Nara Ken,135.783218,3.86,F
-702,Naragakuen　University,Nara Ken,135.747269,3.76,F
-703,Kio　University,Nara Ken,135.723099,4.04,D
-704,Tenri　Health　Care　University,Nara Ken,135.83638,3.53,
-705,Koyasan　University,Wakayama Ken,135.585602,4.33,F
-706,Wakayama Shin-ai University,Wakayama Ken,135.176102,3.79,F
-707,Wakayama　Professional　University of Rehabilitation,Wakayama Ken,135.163116,,F
-708,Tottori　College　of　Nursing,Tottori Ken,133.859024,4.23,E
-709,Kibi　International　University,Okayama Ken,133.620956,3.67,F
-710,Okayama　Shoka　University,Okayama Ken,133.90094,3.71,F
-711,Okayama　University　of　Science,Okayama Ken,133.924484,3.69,F
-712,Kurashiki　Sakuyo　University,Okayama Ken,133.677567,3.84,F
-713,Notre　Dame　Seishin　University,Okayama Ken,133.916412,4.08,C
-714,Kawasaki　Medical　School,Okayama Ken,133.809937,3.57,A
-715,Shujitsu　University,Okayama Ken,133.93541,3.96,E
-716,Kawasaki　University　of　Medical　Welfare,Okayama Ken,133.810959,3.79,F
-717,Sanyo　Gakuen　University,Okayama Ken,133.94426,3.57,F
-718,Kurashiki　University　of　Science　And　The　Arts,Okayama Ken,133.712479,3.63,F
-719,Okayama　Gakuin　University,Okayama Ken,133.799286,3.43,F
-720,Chugokugakuen　University,Okayama Ken,133.849426,3.76,F
-721,International　Pacific　University,Okayama Ken,134.012451,3.75,F
-722,Okayama Healthcare Professional University,Okayama Ken,133.916397,2.0,F
-723,Mimasaka　University,Okayama Ken,134.00824,4.09,E
-724,Elisabeth　University　of　Music,Hiroshima Ken,132.467819,3.54,F
-725,Hiroshima　University　of　Economics,Hiroshima Ken,132.455368,3.74,F
-726,Hiroshima　Institute　of　Technology,Hiroshima Ken,132.342941,3.69,E
-727,Hiroshima　Shudo　University,Hiroshima Ken,132.403549,3.89,E
-728,Hiroshima　Jogakuin　University,Hiroshima Ken,132.484268,3.9,F
-729,Hiroshima　Kokusai　Gakuin　University,Hiroshima Ken,132.579514,3.58,
-730,Hiroshima　Bunkyo　University,Hiroshima Ken,132.51973,4.08,E
-731,Yasuda　Women’s　University,Hiroshima Ken,132.452377,4.28,E
-732,Fukuyama　University,Hiroshima Ken,133.244263,3.76,F
-733,Hijiyama　University,Hiroshima Ken,132.474304,3.73,F
-734,Fukuyama　Heisei　University,Hiroshima Ken,133.346588,3.7,F
-735,Hiroshima　Bunka　Gakuen　University,Hiroshima Ken,132.637268,3.52,F
-736,Hiroshima　InternationalUniversity,Hiroshima Ken,132.687531,3.61,E
-737,Japanese　Red　Cross　Hiroshima　College　of　Nursing,Hiroshima Ken,132.309082,3.9,E
-738,Hiroshima　Cosmopolitan　University,Hiroshima Ken,132.457932,3.41,F
-739,Baiko　Gakuin　University,Yamaguchi Ken,130.933243,3.34,F
-740,The　University　of　East　Asia,Yamaguchi Ken,130.948242,3.86,F
-741,Shiseikan　University,Yamaguchi Ken,131.413086,3.47,F
-742,Ube　Frontier　University,Yamaguchi Ken,131.234238,3.84,F
-743,Yamaguchi　Gakugei　University,Yamaguchi Ken,131.401886,4.01,F
-744,Shikoku　University,Tokushima Ken,134.553314,3.78,F
-745,Tokushima　Bunri　University,Tokushima Ken,134.553452,3.74,F
-746,Shikoku　Gakuin　University,Kagawa Ken,133.785568,3.74,F
-747,Takamatsu　University,Kagawa Ken,134.087769,3.84,F
-748,Matsuyama　University,Ehime Ken,132.767639,3.7,F
-749,St.Catherine　University,Ehime Ken,132.779617,3.97,F
-750,Matsuyama　Shinonome　College,Ehime Ken,132.796432,3.97,F
-751,Kochi Professional University of Rehabilitation,Kochi Ken,133.410797,4.0,F
-752,Kochi　Gakuen University,Kochi Ken,133.506653,4.0,F
-753,Kyushu　Kyoritsu　University,Fukuoka Ken,130.703064,3.7,F
-754,Kyushu　Women’s　University,Fukuoka Ken,130.703064,3.64,F
-755,Kyushu　International　University,Fukuoka Ken,130.79277,3.56,F
-756,Fukuoka　Dental　College,Fukuoka Ken,130.331177,3.44,F
-757,Kyushu　Sangyo　University,Fukuoka Ken,130.444656,3.86,E
-758,Kurume University,Fukuoka Ken,130.511475,3.83,E
-759,Seinan　Gakuin　University,Fukuoka Ken,130.356842,4.02,C
-760,Daiichi　University　of　Pharmacy,Fukuoka Ken,130.417648,3.39,F
-761,Nakamura　Gakuen　University,Fukuoka Ken,130.367905,4.04,E
-762,Nishinippon　Institute　of　Technology,Fukuoka Ken,130.973511,3.87,F
-763,Fukuoka　University,Fukuoka Ken,130.363129,3.98,D
-764,Fukuoka　Institute　of　Technology,Fukuoka Ken,130.441742,3.87,E
-765,Japan　University　of　Economics,Fukuoka Ken,130.527756,3.7,F
-766,Kurume　Institute　of　Technology,Fukuoka Ken,130.526123,3.68,F
-767,"University　of　Occupational　and　Environmental　Health,　Japan",Fukuoka Ken,130.709549,3.76,C
-768,Chikushi　Jogakuen　University,Fukuoka Ken,130.537613,3.97,F
-769,Fukuoka　Jo　Gakuin　University,Fukuoka Ken,130.441666,3.92,F
-770,Seinan　Jo　Gakuin　University,Fukuoka Ken,130.849899,3.78,F
-771,Kyushu　Institute　of　Information　Sciences　University,Fukuoka Ken,130.53717,3.71,F
-772,Kyushu　Nutrition　Welfare　University,Fukuoka Ken,130.858078,3.9,F
-773,Japanese　Red　Cross　Kyushu　International　College　of　Nursing,Fukuoka Ken,130.609161,3.88,F
-774,St.Mary’s　College,Fukuoka Ken,130.509384,3.74,E
-775,Cyber University,Fukuoka Ken,130.423126,3.83,
-776,Fukuoka　Jo　Gakuin　Nursing　University,Fukuoka Ken,130.473541,4.52,E
-777,College　of　Healthcare　Management,Fukuoka Ken,130.459808,3.24,
-778,Junshin　Gakuen　University,Fukuoka Ken,130.420029,3.45,E
-779,Fukuoka　Nursing　College,Fukuoka Ken,130.331177,3.0,F
-780,Fukuoka International University of Health and Welfare,Fukuoka Ken,130.349396,3.74,E
-781,Nishikyushu　University,Saga Ken,130.344986,3.83,F
-782,Nagasaki　Institute　of　Applied　Science,Nagasaki Ken,129.942505,3.65,F
-783,Kwassui　Women’s　University,Nagasaki Ken,129.873413,3.76,F
-784,Nagasaki　Junshin　Catholic　University,Nagasaki Ken,129.907333,3.92,F
-785,Nagasaki　International　University,Nagasaki Ken,129.789978,3.95,F
-786,Nagasaki　University　of　Foreign　Studies,Nagasaki Ken,129.841446,3.76,F
-787,Nagasaki Wesleyan University,Nagasaki Ken,130.030273,3.71,F
-788,Sojo　University,Kumamoto Ken,130.695465,3.85,E
-789,Kumamoto　Gakuen　University,Kumamoto Ken,130.728745,3.8,E
-790,Shokei　University,Kumamoto Ken,130.716278,3.51,F
-791,Kyushu　Lutheran　College,Kumamoto Ken,130.722031,4.28,E
-792,Kyushu　University　of　Nursing　And　Social　Welfare,Kumamoto Ken,130.553604,3.72,F
-793,Heisei　College　of　Music,Kumamoto Ken,130.791824,3.72,
-794,Kumamoto　Health　Science　University,Kumamoto Ken,130.68782,4.11,E
-795,Nippon　Bunri　University,Oita Ken,131.725113,3.63,F
-796,Beppu　University,Oita Ken,131.490509,3.87,F
-797,Ritsumeikan　Asia　Pacific　University,Oita Ken,131.491104,3.94,C
-798,Minami　Kyushu　University,Miyazaki Ken,131.414932,4.11,
-799,Miyazaki　Sangyo-Keiei　University,Miyazaki Ken,131.404449,3.78,F
-800,Miyazaki　International　College,Miyazaki Ken,131.387329,3.68,F
-801,Kyushu　University　of　Health　And　Welfare,Miyazaki Ken,131.613464,3.64,
-802,The　International　University　of　Kagoshima,Kagoshima Ken,130.496445,3.89,F
-803,Daiichi　Institute　of　Technology,Kagoshima Ken,130.768463,4.02,F
-804,Shigakukan　University,Kagoshima Ken,130.542252,3.84,F
-805,Kagoshima　Immaculate　Heart　University,Kagoshima Ken,130.327606,4.04,F
-806,Okinawa　Institute　of　Science　and　Technology　Graduate　University,Okinawa Ken,127.830719,3.64,
-807,Okinawa　International　University,Okinawa Ken,127.755028,3.95,E
-808,Okinawa　University,Okinawa Ken,127.699211,3.88,F
-809,Okinawa　Christian　University,Okinawa Ken,127.754646,4.23,F
-810,R Professional University of Rehabilitation,Ibaraki Ken,140.212311,2.0,F
-811,Osaka Shin-Ai  Gakuin University,Osaka Fu,135.559464,,F
-812,Reiwa Health Sciences University,Fukuoka Ken,130.432571,3.5,F
+name,state,latitude,longitude,review_rating,difficulty_rank
+Hokkaido University,Hokkai Do,43.070446,141.347153,4.16,A
+Hokkaido University of Education,Hokkai Do,43.170498,141.393753,3.79,D
+Muroran Institute of Technology,Hokkai Do,42.378716,141.034042,3.66,F
+Otaru University of Commerce,Hokkai Do,43.190952,140.97937,3.8,C
+Obihiro University of Agriculture And Veterinary Medicine,Hokkai Do,42.872356,143.177979,4.2,B
+Asahikawa Medical University,Hokkai Do,43.730633,142.381897,3.93,B
+Kitami Institute of Technology,Hokkai Do,43.822479,143.905716,3.66,E
+Hirosaki University,Aomori Ken,40.587959,140.472061,3.84,D
+Iwate University,Iwate Ken,39.712715,141.137711,3.89,D
+Tohoku University,Miyagi Ken,38.252632,140.873932,4.18,A
+Miyagi University of Education,Miyagi Ken,38.258968,140.830948,3.95,D
+Akita University,Akita Ken,39.726997,140.134094,3.8,D
+Yamagata University,Yamagata Ken,38.246128,140.349655,3.76,D
+Fukushima University,Fukushima Ken,37.682877,140.454041,3.72,E
+Ibaraki University,Ibaraki Ken,36.401237,140.442764,3.81,D
+University of Tsukuba,Ibaraki Ken,36.108723,140.100632,4.17,A
+Tsukuba University of Technology,Ibaraki Ken,36.10537,140.110474,4.12,F
+Utsunomiya University,Tochigi Ken,36.550312,139.914886,3.95,C
+Gunma University,Gunma Ken,36.430313,139.045197,3.88,C
+Saitama University,Saitama Ken,35.862579,139.608246,3.88,C
+Chiba University,Chiba Ken,35.625977,140.103653,4.07,B
+The University of Tokyo,Tokyo To,35.714146,139.763214,4.34,S
+Tokyo Medical And Dental University,Tokyo To,35.701828,139.765274,4.23,A
+Tokyo University of Foreign Studies,Tokyo To,35.672707,139.521042,4.19,A
+Tokyo Gakugei University,Tokyo To,35.706203,139.49176,4.08,B
+Tokyo University of Agriculture And Technology,Tokyo To,35.683945,139.478668,4,B
+Tokyo University of The Arts,Tokyo To,35.719269,139.772217,4.25,B
+Tokyo Institute of Technology,Tokyo To,35.606895,139.684875,4.25,S
+Tokyo University of Marine Science And Technology,Tokyo To,35.626247,139.746521,4.16,C
+Ochanomizu University,Tokyo To,35.71973,139.733475,4.3,A
+The University of Electro - Communications,Tokyo To,35.657433,139.544327,3.92,B
+Hitotsubashi University,Tokyo To,35.694389,139.443649,4.26,S
+Yokohama National University,Kanagawa Ken,35.476898,139.591476,3.9,A
+Niigata University,Niigata Ken,37.867237,138.943573,3.86,C
+Nagaoka University of Technology,Niigata Ken,37.424774,138.778793,3.95,E
+Joetsu University of Education,Niigata Ken,37.134945,138.22644,4.09,C
+University of Toyama,Toyama Ken,36.699642,137.187057,3.81,C
+Kanazawa University,Ishikawa Ken,36.545948,136.709442,3.76,C
+University of Fukui,Fukui Ken,36.074238,136.212402,3.83,C
+University of Yamanashi,Yamanashi Ken,35.678509,138.57341,3.82,D
+Shinshu University,Nagano Ken,36.249428,137.978943,3.93,C
+Gifu University,Gifu Ken,35.46553,136.737625,3.93,C
+National University Corporation Shizuoka University,Shizuoka Ken,34.966625,138.431412,3.94,C
+Hamamatsu University School of Medicine,Shizuoka Ken,34.76965,137.74408,3.89,S
+Nagoya University,Aichi Ken,35.155655,136.964676,4.22,A
+Aichi University of Education,Aichi Ken,35.051189,137.049667,3.87,C
+Nagoya Institute of Technology,Aichi Ken,35.156868,136.925232,4.01,B
+Toyohashi University of Technology,Aichi Ken,34.70142,137.408173,3.87,C
+Mie University,Mie Ken,34.745785,136.523224,3.94,C
+Shiga University,Shiga Ken,35.278313,136.247208,3.83,C
+Shiga University of Medical Science,Shiga Ken,34.974438,135.946915,3.88,A
+Kyoto University,Kyoto Fu,35.026962,135.781967,4.2,S
+Kyoto University of Education,Kyoto Fu,34.951603,135.773636,3.99,C
+Kyoto Institute of Technology,Kyoto Fu,35.049767,135.78334,4.04,B
+Osaka University,Osaka Fu,34.819496,135.521164,4.12,A
+Osaka Kyoiku University,Osaka Fu,34.552101,135.64679,3.99,C
+Hyogo University of Teacher Education,Hyogo Ken,34.912304,135.016373,3.83,C
+Kobe University,Hyogo Ken,34.726303,135.23613,3.99,A
+Nara University of Education,Nara Ken,34.675354,135.847336,3.91,C
+Nara Women’s University,Nara Ken,34.688999,135.830185,4.06,B
+Wakayama University,Wakayama Ken,34.266689,135.151962,3.86,C
+Tottori University,Tottori Ken,35.515392,134.17305,3.83,C
+Shimane University,Shimane Ken,35.486992,133.068192,3.84,D
+Okayama University,Okayama Ken,34.686493,133.917404,4.02,C
+Hiroshima University,Hiroshima Ken,34.400768,132.713654,4.04,B
+Yamaguchi University,Yamaguchi Ken,34.147755,131.467514,3.83,C
+Tokushima University,Tokushima Ken,34.069912,134.55983,3.81,C
+Naruto University of Education,Tokushima Ken,34.203056,134.605515,4.16,C
+Kagawa University,Kagawa Ken,34.343601,134.038727,3.89,C
+Ehime University,Ehime Ken,33.852291,132.773804,3.93,D
+Kochi University,Kochi Ken,33.550621,133.488892,3.98,D
+University of Teacher Education Fukuoka,Fukuoka Ken,33.812565,130.593628,3.86,C
+Kyushu University,Fukuoka Ken,33.597153,130.223312,4.04,A
+Kyushu Institute of Technology,Fukuoka Ken,33.891369,130.838516,3.83,C
+Saga University,Saga Ken,33.224899,130.288223,3.82,C
+Nagasaki University,Nagasaki Ken,32.785553,129.862564,3.88,C
+Kumamoto University,Kumamoto Ken,32.81321,130.727722,3.93,C
+Oita University,Oita Ken,33.174316,131.612869,3.89,C
+University of Miyazaki,Miyazaki Ken,31.828053,131.414993,3.92,C
+Kagoshima University,Kagoshima Ken,31.572577,130.546463,4.02,D
+National Institute of Fitness And Sports In Kanoya,Kagoshima Ken,31.395185,130.78717,4.05,D
+University of The Ryukyus,Okinawa Ken,26.24585,127.758453,3.91,D
+National Graduate Institute For Policy Studies,Tokyo To,35.664024,139.726776,5,
+"The Graduate University for Advanced Studies, SOKENDAI",Kanagawa Ken,35.272079,139.586166,4.58,
+Japan Advanced Institute of Science And Technology,Ishikawa Ken,36.442867,136.59256,3.58,
+Nara Institute of Science And Technology,Nara Ken,34.735664,135.731369,4.12,
+Sapporo Medical University,Hokkai Do,43.056129,141.331436,4.09,B
+Future University Hakodate,Hokkai Do,41.841949,140.766815,4.01,E
+Kushiro Public University of Economics,Hokkai Do,43.018459,144.393768,3.47,E
+Nayoro City University,Hokkai Do,44.364567,142.458801,4.05,C
+SAPPORO CITY UNIVERSITY,Hokkai Do,42.944695,141.341125,3.94,C
+Chitose Institute of Science And Technology,Hokkai Do,42.787975,141.699905,3.89,D
+Aomori Public University,Aomori Ken,40.754196,140.769241,3.8,E
+Aomori University of Health And Welfare,Aomori Ken,40.814526,140.792755,4.26,D
+Iwate Prefectural University,Iwate Ken,39.799114,141.131531,3.95,C
+Miyagi Akita Prefectural University,Miyagi Ken,38.3489,140.840469,3.8,D
+Akita Prefectural University,Akita Ken,39.804924,140.047287,3.93,E
+Akita International University,Akita Ken,39.62706,140.181107,4.18,S
+Akita University of Art,Akita Ken,39.685692,140.090866,3.75,D
+Yamagata Prefectural University of Health Sciences,Yamagata Ken,38.296722,140.346436,4.03,
+Yamagata Prefectural Yonezawa University of Nutrition Sciences,Yamagata Ken,37.891335,140.124496,3.9,D
+Fukushima Medical University,Fukushima Ken,37.689926,140.471603,3.96,C
+The University of Aizu,Fukushima Ken,37.523617,139.937897,4.06,E
+Ibaraki Prefectural University of Health Sciences,Ibaraki Ken,36.026962,140.210724,4.09,C
+Takasaki City University of Economics,Gunma Ken,36.34544,138.977264,3.67,C
+Maebashi Institute of Technology,Gunma Ken,36.363926,139.080566,3.69,E
+Gunma Prefectural Women’s University,Gunma Ken,36.29763,139.112442,4.17,C
+Gunma Prefectural College of Health Sciences,Gunma Ken,36.403595,139.095078,4.23,C
+Saitama Prefectural University,Saitama Ken,35.929996,139.756241,4.13,C
+Chiba Prefectural University of Health Sciences,Chiba Ken,35.651989,140.052032,3.66,
+Tokyo Metropolitan University,Tokyo To,35.616882,139.376968,4.06,B
+Advanced Institute of Industrial Technology,Tokyo To,35.605923,139.747803,3.65,
+Yokohama City University,Kanagawa Ken,35.333984,139.617783,3.87,A
+Kanagawa University of Human Services,Kanagawa Ken,35.273666,139.68071,4.14,C
+Niigata College of Nursing,Niigata Ken,37.10453,138.269821,4.05,C
+University of Niigata Prefecture,Niigata Ken,37.923443,139.127274,4.04,C
+Nagaoka Institute of Design,Niigata Ken,37.467224,138.830521,4.1,C
+SANJO CITY UNIVERSITY,Niigata Ken,37.643047,138.932938,,E
+Toyama Prefectural University,Toyama Ken,36.707066,137.097382,3.72,E
+Komatsu University,Ishikawa Ken,36.354458,136.416809,3.55,C
+Ishikawa Prefectural University,Ishikawa Ken,36.506672,136.597122,3.78,D
+Kanazawa College of Art,Ishikawa Ken,36.555538,136.677475,4,C
+Ishikawa Prefectural Nursing University,Ishikawa Ken,36.780563,136.73378,3.82,C
+Fukui Prefectural University,Fukui Ken,36.109333,136.277328,3.66,D
+Tsuruga Nursing University,Fukui Ken,35.641552,136.043198,3.89,C
+Tsuru University,Yamanashi Ken,35.539513,138.897522,3.83,B
+Yamanashi Prefectural University,Yamanashi Ken,35.663467,138.55629,3.8,C
+Suwa University of Science,Nagano Ken,36.009003,138.184799,3.85,D
+The University of Nagano,Nagano Ken,36.665031,138.200287,3.82,C
+Nagano College of Nursing,Nagano Ken,35.745735,137.933121,3.87,D
+Nagano University,Nagano Ken,36.372154,138.223236,3.57,C
+Gifu Pharmaceutical University,Gifu Ken,35.467346,136.733551,3.83,B
+Gifu College of Nursing,Gifu Ken,35.306019,136.685806,3.79,C
+Institute of Advanced Media Arts and Sciences,Gifu Ken,35.368057,136.638962,4,
+Shizuoka Professional University of Agriculture,Shizuoka Ken,34.729942,137.843948,3,C
+University of Shizuoka,Shizuoka Ken,34.995667,138.444092,3.96,C
+Shizuoka University of Art And Culture,Shizuoka Ken,34.713261,137.737991,4.15,C
+Shizuoka Graduate University of Public Health,Shizuoka Ken,35.003246,138.386093,,
+Nagoya City University,Aichi Ken,35.139385,136.935196,3.9,B
+Aichi University of The Arts,Aichi Ken,35.165203,137.05867,3.93,D
+Aichi Prefectural University,Aichi Ken,35.181957,137.087143,3.99,C
+Mie Prefectural College of Nursing,Mie Ken,34.759846,136.488571,3.92,C
+The University of Shiga Prefecture,Shiga Ken,35.259586,136.218903,3.96,C
+Kyoto City University of Arts,Kyoto Fu,34.974239,135.664642,4.04,C
+Kyoto Prefectural University,Kyoto Fu,35.050365,135.75975,4.03,B
+Kyoto Prefectural University of Medicine,Kyoto Fu,35.029552,135.756714,4,A
+The University of Fukuchiyama,Kyoto Fu,35.284485,135.127457,3.46,D
+Osaka Metropolitan University,Osaka Fu,34.646618,135.510162,4.03,
+Osaka City University,Osaka Fu,34.591904,135.505142,3.95,
+Osaka Prefecture University,Osaka Fu,34.547966,135.505569,3.89,
+Kobe City University of Foreign Studies,Hyogo Ken,34.679649,135.059891,4.03,B
+Kobe City College of Nursing,Hyogo Ken,34.687214,135.053818,4.15,C
+University of Hyogo,Hyogo Ken,34.678242,135.051086,3.72,C
+Professional College of Arts and Tourism,Hyogo Ken,35.539219,134.816208,3,D
+Nara Medical University,Nara Ken,34.503887,135.792542,3.63,A
+Nara Prefectural University,Nara Ken,34.687683,135.82103,3.54,C
+Wakayama Medical University,Wakayama Ken,34.187664,135.181717,3.98,B
+Tottori University of Environmental Studies,Tottori Ken,35.450813,134.25531,3.86,D
+The University of Shimane,Shimane Ken,34.885452,132.077423,3.8,C
+Okayama Prefectural University,Okayama Ken,34.692059,133.780289,3.96,C
+Niimi University,Okayama Ken,34.998795,133.439957,4.28,C
+Prefectural University of Hiroshima,Hiroshima Ken,34.367306,132.469666,4,D
+Onomichi City University,Hiroshima Ken,34.426105,133.162537,3.76,C
+Hiroshima City University,Hiroshima Ken,34.438053,132.415192,3.87,C
+Fukuyama City University,Hiroshima Ken,34.481747,133.381149,3.66,C
+Eikei University of Hiroshima,Hiroshima Ken,34.396297,132.468719,4,D
+Shimonoseki City University,Yamaguchi Ken,33.987431,130.933365,3.62,D
+Yamaguchi Prefectural University,Yamaguchi Ken,34.194012,131.498642,3.99,C
+Sanyo-Onoda City University,Yamaguchi Ken,33.957043,131.187805,3.71,D
+Kagawa Prefectural University of Health Sciences,Kagawa Ken,34.321964,134.158371,4.15,C
+Ehime Prefectural University of Health Sciences,Ehime Ken,33.780685,132.798233,4.18,C
+University of Kochi,Kochi Ken,33.53101,133.580902,4.01,C
+Kochi University of Technology,Kochi Ken,33.620975,133.719894,4.02,D
+The University of Kitakyushu,Fukuoka Ken,33.843643,130.878265,3.83,D
+Kyushu Dental University,Fukuoka Ken,33.871742,130.853775,3.82,D
+Fukuoka Women's University,Fukuoka Ken,33.665958,130.438522,4.09,C
+Fukuoka Prefectural University,Fukuoka Ken,33.649834,130.814484,3.88,C
+University of Nagasaki,Nagasaki Ken,33.186432,129.665451,3.74,D
+Prefectural University of Kumamoto,Kumamoto Ken,32.806938,130.764236,3.8,C
+Oita University of Nursing And Health Sciences,Oita Ken,33.154671,131.557205,3.73,
+Miyazaki Municipal University,Miyazaki Ken,31.925987,131.417236,3.9,D
+Miyazaki Prefectural Nursing University,Miyazaki Ken,31.857765,131.41423,4.21,C
+Meio University,Okinawa Ken,26.6168,127.969719,3.87,E
+Okinawa Prefectural University of Arts,Okinawa Ken,26.219156,127.718552,3.92,D
+Okinawa Prefectural College of Nursing,Okinawa Ken,26.206566,127.694443,4.08,D
+Shunan　University,Yamaguchi Ken,34.047821,131.84494,3.4,D
+Kawasaki City College of Nursing,Kanagawa Ken,35.536179,139.669891,3,C
+Sapporo　University,Hokkai Do,43.010437,141.387207,3.79,F
+Sapporo　Gakuin　University,Hokkai Do,43.067093,141.492981,3.85,F
+Hakodate　University,Hokkai Do,41.78883,140.806671,3.55,F
+Fuji　Women’s　University,Hokkai Do,43.079823,141.350479,3.98,F
+Hokusei　Gakuen　University,Hokkai Do,43.023792,141.448715,3.9,D
+Hokkai　-　Gakuen　University,Hokkai Do,43.046837,141.369034,3.81,E
+Hokkaido　University　of　Science,Hokkai Do,43.134399,141.246552,3.77,E
+Rakuno　Gakuen　University,Hokkai Do,43.071857,141.508728,3.77,E
+AsahikawaUniversity,Hokkai Do,43.817345,142.445099,3.74,
+Health　Sciences　University　of　Hokkaido,Hokkai Do,43.246895,141.561859,3.89,E
+Hokkai　School　of　Commerce,Hokkai Do,43.047962,141.370026,3.61,F
+Seisa　Dohto　University,Hokkai Do,42.980564,141.538483,3.87,F
+Hokkaido　Information　University,Hokkai Do,43.078266,141.537704,3.83,E
+Sapporo　International　University,Hokkai Do,43.002434,141.424561,3.85,F
+Hokusho　University,Hokkai Do,43.063904,141.489609,3.96,F
+Hokuyo University,Hokkai Do,42.600338,141.464294,3.97,F
+Japanese　Red　Cross　Hokkaido　College　of　Nursing,Hokkai Do,43.830696,143.908508,3.94,F
+Hokkaido　Bunkyo　University,Hokkai Do,42.890831,141.591461,3.62,F
+Tenshi　College,Hokkai Do,43.077644,141.357895,4.02,D
+Ikueikan　University,Hokkai Do,45.383553,141.718567,4.43,F
+Sapporo　Otani　University,Hokkai Do,43.082176,141.36557,3.94,F
+Sapporo　University　of　Health　Sciences,Hokkai Do,43.132084,141.41246,3.63,F
+Japan　HealthCare　University,Hokkai Do,43.028351,141.409714,3.54,F
+Hokkaido　Chitose　College　of　Rehabilitation,Hokkai Do,42.785515,141.598404,3.69,F
+Aomori　University,Aomori Ken,40.783684,140.78096,3.5,F
+Shibata Gakuen University,Aomori Ken,40.581272,140.485275,3.92,F
+Hirosaki　Gakuin　University,Aomori Ken,40.581535,140.465637,3.41,F
+Hachinohe　Institute　of　Technology,Aomori Ken,40.479317,141.562363,3.61,F
+Hachinohe　Gakuin　University,Aomori Ken,40.486752,141.571655,3.69,F
+Aomori　Chuo　Gakuin　University,Aomori Ken,40.783215,140.76239,3.66,F
+Hirosaki　University　of　Health　and　Welfare,Aomori Ken,40.588799,140.500473,3.71,F
+Iwate　Medical　University,Iwate Ken,39.613033,141.161285,3.57,D
+Fuji　University,Iwate Ken,39.361206,141.102646,3.63,F
+The　University　of　Morioka,Iwate Ken,39.816113,141.137207,3.78,F
+Iwate　University　of　Health　and　Medical　Sciences,Iwate Ken,39.703228,141.131851,3.33,F
+Sendai　University,Miyagi Ken,38.051693,140.771561,3.63,F
+Tohoku　Gakuin　University,Miyagi Ken,38.249531,140.877304,3.75,D
+Tohoku　Institute　of　Technology,Miyagi Ken,38.245861,140.852432,3.62,F
+Tohoku　Fukushi　University,Miyagi Ken,38.280109,140.847824,3.78,E
+Tohoku　Medical　And　Pharmaceutical　University,Miyagi Ken,38.285049,140.885559,3.74,C
+Tohoku　Seikatsu　Bunka　University,Miyagi Ken,38.302814,140.87027,3.64,F
+Miyagi　Gakuin　Women’s　University,Miyagi Ken,38.307381,140.853912,3.9,F
+Ishinomaki　Senshu　University,Miyagi Ken,38.454735,141.295639,3.65,F
+Sendai　Shirayuri　Women’s　College,Miyagi Ken,38.3214,140.902542,3.58,F
+Tohoku　Bunka　Gakuen　University,Miyagi Ken,38.277546,140.834534,3.69,F
+Shokei　Gakuin　University,Miyagi Ken,38.196583,140.830078,3.82,F
+North　Asia　University,Akita Ken,39.716419,140.157944,3.26,F
+Akita　University　of　Nursing　And　Welfare,Akita Ken,40.281265,140.554398,4.15,F
+Japanese　Red　Cross　Akita　College　of　Nursing,Akita Ken,39.685078,140.155457,3.84,F
+Tohoku　University　of　Art　&　Design,Yamagata Ken,38.218594,140.344955,4.12,C
+Tohoku　University　of　Community　Service　And　Science,Yamagata Ken,38.892662,139.817368,3.48,F
+Tohoku　Bunkyo　College,Yamagata Ken,38.209637,140.303146,3.82,F
+Koriyama　Women’s　University,Fukushima Ken,37.396683,140.352661,3.76,F
+Ohu　University,Fukushima Ken,37.41716,140.37413,3.55,F
+Iryo Sosei University,Fukushima Ken,37.018524,140.918915,3.46,F
+Higashi　Nippon　International　University,Fukushima Ken,37.057358,140.907944,3.85,F
+Fukushima　College,Fukushima Ken,37.799988,140.487549,3.86,F
+Ibaraki　Christian　University,Ibaraki Ken,36.514248,140.617523,3.87,E
+Ryutsu　Keizai　University,Ibaraki Ken,35.920582,140.168472,3.71,F
+Tokiwa　University,Ibaraki Ken,36.382111,140.438705,3.75,F
+Tsukuba　International　University,Ibaraki Ken,36.107651,140.198837,3.68,F
+Tsukuba　Gakuin　University,Ibaraki Ken,36.087753,140.107864,3.53,
+Nihon　Wellness　Sports　University,Ibaraki Ken,35.859886,140.145737,3.58,F
+Ashikaga　University,Tochigi Ken,36.35326,139.396027,3.66,F
+Hakuoh　University,Tochigi Ken,36.313366,139.807495,3.9,E
+Sakushin　Gakuin　University,Tochigi Ken,36.544083,139.973999,3.83,F
+International　University　of　Health　And　Welfare,Tochigi Ken,36.87048,140.069229,3.92,D
+Utsunomiya　Kyowa　University,Tochigi Ken,36.560459,139.890869,3.87,F
+Bunsei　University　of　Art,Tochigi Ken,36.598911,139.859558,3.8,F
+Jichi　Medical　University,Tochigi Ken,36.4034,139.858521,4.1,B
+Dokkyo　Medical　University,Tochigi Ken,36.472305,139.825363,3.95,B
+Ikuei　University,Gunma Ken,36.349194,139.050339,3.81,F
+Kiryu　University,Gunma Ken,36.378597,139.295685,3.43,F
+Gunma　Paz　University,Gunma Ken,36.349514,139.008804,3.79,E
+Gunma　University　of　Health　And　Welfare,Gunma Ken,36.355843,139.047913,3.49,E
+Takasaki　University　of　Health　And　Welfare,Gunma Ken,36.324902,139.054886,3.76,E
+Takasaki　University　of　Commerce,Gunma Ken,36.28566,139.034241,3.85,E
+Jobu　University,Gunma Ken,36.279305,139.176224,3.6,F
+Kanto　Gakuen　University,Gunma Ken,36.286465,139.356094,3.72,F
+KYOAI　GAKUEN　UNIVERSITY,Gunma Ken,36.35886,139.144562,3.96,E
+Nihon　Institute　of　Medical　Science,Saitama Ken,35.931942,139.343781,3.16,E
+Nihon　Pharmaceutical　University,Saitama Ken,35.991798,139.617203,3.44,F
+Musashino　Gakuin　University,Saitama Ken,35.866592,139.387009,3.71,F
+Urawa　University,Saitama Ken,35.890373,139.712662,4.04,F
+Institute　of　Technologists,Saitama Ken,36.115143,139.456436,3.83,F
+Kyoei　University,Saitama Ken,35.995708,139.722092,3.53,F
+Saitama　Gakuen　University,Saitama Ken,35.857311,139.713959,3.65,F
+Shobi　University,Saitama Ken,35.906914,139.460602,3.65,F
+University　of　Human　Arts　And　Sciences,Saitama Ken,35.970203,139.658371,3.61,F
+Bunri　University　of　Hospitality,Saitama Ken,35.891426,139.418518,3.49,F
+Jumonji　University,Saitama Ken,35.799313,139.552094,3.81,F
+Heisei　International　University,Saitama Ken,36.096184,139.637634,3.74,F
+Tokyo International University,Saitama Ken,35.927303,139.437866,3.96,F
+Josai　University,Saitama Ken,35.933132,139.34201,3.52,F
+Toho　College　of　Music,Saitama Ken,35.896595,139.523529,4.02,
+Dokkyo　University,Saitama Ken,35.83942,139.794189,3.95,C
+Nippon　Institute　of　Technology,Saitama Ken,36.026604,139.713486,3.66,F
+Meikai　University,Saitama Ken,35.933132,139.34201,3.77,E
+Saitama　Medical　University,Saitama Ken,35.936001,139.304062,3.8,D
+Saitama　Institute　of　Technology,Saitama Ken,36.19603,139.238739,3.59,F
+Surugadai　University,Saitama Ken,35.835243,139.334778,3.75,E
+Seigakuin　University,Saitama Ken,35.937756,139.595535,3.7,F
+Kagawa　Nutrition　University,Saitama Ken,35.952763,139.410965,4.12,E
+Tohto　University,Saitama Ken,36.18111,139.298462,3.46,F
+Japan　University　of　Health　Sciences,Saitama Ken,36.071983,139.73082,3.33,F
+Chiba　Institute　of　Science,Chiba Ken,35.701206,140.846268,3.31,F
+Aikoku　Gakuen　University,Chiba Ken,35.666553,140.157578,3.68,F
+Kaichi　International　University,Chiba Ken,35.862244,139.987976,4.07,F
+Seiwa　University,Chiba Ken,35.376106,139.958008,3.19,F
+Josai　International　University,Chiba Ken,35.580254,140.395966,3.61,F
+Shukutoku　University,Chiba Ken,35.574577,140.144501,3.81,E
+Keiai　University,Chiba Ken,35.633312,140.103821,3.74,F
+Chiba　Institute　of　Technology,Chiba Ken,35.688942,140.021255,3.75,D
+Chiba　University　of　Commerce,Chiba Ken,35.742493,139.907028,3.69,E
+Chuogakuin　University,Chiba Ken,35.8829,140.01796,3.76,F
+Reitaku　University,Chiba Ken,35.831802,139.951187,3.81,E
+Wayo　Women’s　University,Chiba Ken,35.742989,139.904266,4.05,F
+International　Budo　University,Chiba Ken,35.161568,140.322876,3.59,F
+Kanda　University　of　International　Studies,Chiba Ken,35.656132,140.042236,4.05,D
+Chiba　Keizai　University,Chiba Ken,35.62973,140.109146,3.65,E
+Shumei　University,Chiba Ken,35.77285,140.099426,3.93,E
+Kawamura　Gakuen　Woman’s　University,Chiba Ken,35.875843,140.053757,3.51,F
+Tokyo　University　of　Information　Sciences,Chiba Ken,35.637684,140.203354,3.83,E
+Tokyo　Christian　University,Chiba Ken,35.789703,140.125168,4.23,
+Seitoku　University,Chiba Ken,35.783543,139.903381,3.6,F
+Edogawa　University,Chiba Ken,35.877056,139.938934,3.57,E
+Ryotokuji　University,Chiba Ken,35.639462,139.926636,3.66,E
+Uekusa　Gakuen　University,Chiba Ken,35.634373,140.181976,3.88,F
+Saniku　Gakuin　College,Chiba Ken,35.243866,140.262909,4.08,F
+Kameda University　of　Health　Sciences,Chiba Ken,35.102497,140.100525,3.31,F
+Tokyo　University　of　Social　Welfare,Gunma Ken,36.285713,139.194138,3.82,F
+Atomi　University,Tokyo To,35.71693,139.734116,3.83,E
+Bunkyo　University,Tokyo To,35.605209,139.705902,3.89,D
+Bunkyo　Gakuin　University,Tokyo To,35.718536,139.757568,3.74,F
+Mejiro　University,Tokyo To,35.716835,139.681244,3.51,E
+Tokyo　Seitoku　University,Tokyo To,35.756275,139.72403,3.87,F
+Toyo　Gakuen　University,Tokyo To,35.704567,139.757568,3.54,F
+Teikyo　Heisei　University,Tokyo To,35.732563,139.718811,3.8,E
+Aoyama　Gakuin　University,Tokyo To,35.6618,139.708862,4.03,A
+Ueno　Gakuen　University,Tokyo To,35.715767,139.782227,3.69,
+Otsuma　Women’s　University,Tokyo To,35.69109,139.742264,3.95,D
+Gakushuin　University,Tokyo To,35.721264,139.707245,4.11,B
+Kitasato University,Tokyo To,35.645351,139.725525,3.98,D
+Kyoritsu　Women’s　University,Tokyo To,35.693314,139.757553,3.92,D
+Keio　University,Tokyo To,35.649147,139.742828,4.19,S
+Kogakuin　University,Tokyo To,35.690514,139.695648,3.64,B
+Kokugakuin　University,Tokyo To,35.655972,139.711365,3.91,
+Kokushikan　University,Tokyo To,35.646896,139.653458,3.75,D
+Komazawa　University,Tokyo To,35.628857,139.65863,3.73,C
+Jissen　Women’s　University,Tokyo To,35.67152,139.38974,3.92,D
+Shibaura　Institute　of　Technology,Tokyo To,35.659737,139.794281,3.94,C
+Juntendo　University,Tokyo To,35.701954,139.761734,4.07,C
+Sophia　University,Tokyo To,35.683189,139.732742,4.2,A
+Showa　University,Tokyo To,35.60899,139.704071,3.91,C
+Showa　Women’s　University,Tokyo To,35.645466,139.675186,3.94,C
+Showa　Pharmaceutical　University,Tokyo To,35.55368,139.470673,3.55,C
+Joshibi　University　of　Art　And　Design,Tokyo To,35.693089,139.662079,4,E
+Sugino　Fashion　College,Tokyo To,35.631489,139.71553,3.51,F
+Seijo　University,Tokyo To,35.642353,139.600174,3.81,B
+"University　of　The　Sacred　Heart,　Tokyo",Tokyo To,35.653835,139.717285,4.33,D
+Seisen　University,Tokyo To,35.626957,139.729797,4.15,E
+St.Luke’s　International　University,Tokyo To,35.668316,139.775391,4.41,A
+Senshu　University,Tokyo To,35.6968,139.753876,3.74,C
+Taisho　University,Tokyo To,35.741486,139.728256,3.8,E
+Daito　Bunka　University,Tokyo To,35.782089,139.667938,3.69,E
+Takachiho　University,Tokyo To,35.682804,139.638245,3.56,F
+Takushoku　University,Tokyo To,35.715481,139.737274,3.64,E
+Tama　Art　University,Tokyo To,35.61409,139.637085,3.95,D
+Chuo　University,Tokyo To,35.638794,139.399811,3.91,B
+Tokai　University,Kanagawa Ken,35.359573,139.271378,3.8,E
+Tokyo　Medical　University,Tokyo To,35.69355,139.71225,3.9,A
+Tokyo　Kasei　University,Tokyo To,35.756275,139.719482,3.95,E
+Tokyo　Kasei　Gakuin　University,Tokyo To,35.60841,139.310562,3.57,F
+Tokyo　Dental　College,Tokyo To,35.701309,139.754852,4.16,B
+The　Jikei　University　School　of　Medicine,Tokyo To,35.662537,139.75029,4.28,A
+Tokyo　Woman's　Christian　University,Tokyo To,35.709896,139.591202,3.93,C
+Tokyo　Women’s　Medical　University,Tokyo To,35.696342,139.719635,4.29,C
+Tokyo　Denki　University,Tokyo To,35.748764,139.806381,3.68,C
+Tokyo　University　of　Agriculture,Tokyo To,35.640781,139.631912,3.94,D
+Tokyo　University　of　Pharmacy　And　Life　Sciences,Tokyo To,35.638222,139.385071,3.82,D
+Tokyo　University　of　Science,Tokyo To,35.699505,139.741348,3.85,B
+Toho　University,Tokyo To,35.570171,139.724884,3.98,D
+Toyo University,Tokyo To,35.724289,139.750763,3.83,C
+Tokyo　College　of　Music,Tokyo To,35.647171,139.699265,4.14,F
+Nishogakusha　University,Tokyo To,35.691261,139.74527,3.67,
+Nihon　University,Tokyo To,35.691322,139.737396,3.71,D
+Nippon　Medical　School,Tokyo To,35.721233,139.758453,3.99,S
+The　Nippon　Dental　University,Tokyo To,35.697971,139.746216,3.16,D
+Japan　College　of　Social　Work,Tokyo To,35.767517,139.508698,3.86,E
+Japan Women’s University,Tokyo To,35.715923,139.721085,4.09,C
+Japan　Women’s　College　of　Physical　Education,Tokyo To,35.676498,139.590546,4,F
+Nippon　Sport　Science　University,Tokyo To,35.621609,139.650009,4.03,E
+Japan　Lutheran　College,Tokyo To,35.686474,139.527481,3.97,F
+Bunka　Gakuen　University,Tokyo To,35.685848,139.693954,4.08,E
+Hosei　University,Tokyo To,35.695679,139.74115,3.89,B
+Hoshi　University,Tokyo To,35.618053,139.712601,3.9,B
+Musashi　University,Tokyo To,35.736893,139.666885,3.96,B
+Tokyo　City　University,Tokyo To,35.596542,139.650925,3.88,C
+Musashino　Academia　Musicae,Tokyo To,35.741283,139.672195,3.86,F
+Meiji　University,Tokyo To,35.697712,139.761398,4.01,A
+Meiji　Gakuin　University,Tokyo To,35.636738,139.730743,3.9,B
+Meiji　Pharmaceutical　University,Tokyo To,35.781338,139.50618,3.93,C
+Rikkyo　University,Tokyo To,35.729706,139.704742,4.09,A
+Rissho　University,Tokyo To,35.62101,139.724075,3.76,E
+Waseda　University,Tokyo To,35.710083,139.722244,4.14,S
+International　College　For　Postgraduate　Buddhist　Studies,Tokyo To,35.710667,139.740997,5,
+Gakushuin　Women’s　College,Tokyo To,35.706844,139.713242,4.19,D
+International Professional University of Technology in Tokyo,Tokyo To,35.691559,139.698044,4,
+Tokyo Professional University of Health Sciences,Tokyo To,35.66444,139.813049,,F
+Professional University of Information and Management for Innovation,Tokyo To,35.711437,139.823807,3.5,F
+"Graduate School of Leadership and Innovation, Shizenkan University",Tokyo To,35.681751,139.773468,,
+Tokyo　Online　University,Tokyo To,35.691559,139.698044,3.78,
+Professional Institute of International Fashion,Tokyo To,35.691559,139.698044,4,
+Komazawa　Women’s　University,Tokyo To,35.628113,139.493988,3.74,E
+Asia　University,Tokyo To,35.705235,139.534866,3.75,E
+J.F.Oberlin　University,Tokyo To,35.582386,139.405487,3.8,E
+Kunitachi　College　of　Music,Tokyo To,35.732414,139.410995,4.09,F
+International　Christian　University,Tokyo To,35.686474,139.527481,4.43,S
+Shirayuri　University,Tokyo To,35.668129,139.581207,3.92,E
+Seikei　University,Tokyo To,35.710575,139.572693,3.95,C
+Tamagawa　University,Tokyo To,35.567326,139.464844,3.78,D
+Tsuda　University,Tokyo To,35.721451,139.465271,4.11,C
+Teikyo　University,Tokyo To,35.759392,139.714478,3.71,E
+Tokyo　Keizai　University,Tokyo To,35.700047,139.488266,3.87,D
+Tokyo　Women’s　College　of　Physical　Education,Tokyo To,35.689056,139.427765,3.8,F
+Tokyo　Union　Theological　Seminary,Tokyo To,35.686474,139.527481,2.86,
+Tokyo　Zokei　University,Tokyo To,35.617332,139.334259,3.86,E
+Toho　Gakuen　School　of　Music,Tokyo To,35.659061,139.584274,4.35,F
+Nippon　Veterinary　And　Life　Science　University,Tokyo To,35.701889,139.546646,4.03,
+Musashino　University,Tokyo To,35.631275,139.786896,3.7,D
+Musashino　Art　University,Tokyo To,35.728161,139.449005,4.01,D
+Meisei　University,Tokyo To,35.645657,139.409485,3.75,D
+WAKO　UNIVERSITY,Tokyo To,35.573551,139.463898,3.59,F
+Kyorin　University,Tokyo To,35.677597,139.565598,3.77,D
+Soka　University,Tokyo To,35.687759,139.327942,4.35,E
+Nihon　Bunka　University,Tokyo To,35.633663,139.341354,3.22,F
+Tokyo　University　of　Technology,Tokyo To,35.626556,139.341415,3.56,E
+Japanese　Red　Cross　College　of　Nursing,Tokyo To,35.654263,139.717285,4.38,C
+Keisen　University,Tokyo To,35.60828,139.436417,3.79,F
+Tama　University,Tokyo To,35.630268,139.463898,3.34,F
+Tokyo　Junshin　University,Tokyo To,35.691895,139.335144,3.58,F
+Kaetsu　University,Tokyo To,35.720676,139.514572,3.2,F
+Tokyo　Fuji　University,Tokyo To,35.715672,139.699997,3.48,F
+LEC Graduate University,Tokyo To,35.700062,139.7547,,
+Digital Hollywood University,Tokyo To,35.698673,139.766403,4.25,D
+Shiraume　Gakuen　University,Tokyo To,35.725597,139.451126,3.95,E
+Tokyo　Healthcare　University,Tokyo To,35.631287,139.726364,3.65,E
+Tokyo　Seiei　College,Tokyo To,35.718178,139.856979,3.79,F
+Business Breakthrough University,Tokyo To,35.687626,139.735382,4.23,
+"Graduate　School　of　Management,　GLOBIS　University",Tokyo To,35.685379,139.736298,5,
+Bunka　Fashion　Graduate　University,Tokyo To,35.685848,139.693954,,
+Ohara　Graduate　School　of　Accounting,Tokyo To,35.699211,139.756836,3.82,
+Tokyo　Future　University,Tokyo To,35.743179,139.816635,3.87,F
+Hollywood　Graduate　School　of　Beauty　Business,Tokyo To,35.661423,139.729691,3.67,
+Sbi　Graduate　School,Tokyo To,35.664543,139.739487,,
+Hosen　College　of　Childhood　Education,Tokyo To,35.700001,139.678802,3.63,F
+Tokyo　Ariake　University　of　Medical　And　Health　Sciences,Tokyo To,35.64106,139.7966,3.71,F
+Tokyo　Polytechnic　University,Tokyo To,35.692814,139.679535,3.65,E
+Sanno　University,Tokyo To,35.613804,139.661514,3.83,D
+Yamazaki　University　of　Animal　Health　Technology,Tokyo To,35.611378,139.375656,3.57,E
+University　of　Tokyo　Health　Sciences,Tokyo To,35.612213,139.42894,3.39,F
+The　Graduate　School　of　Project　Design,Tokyo To,35.665565,139.713745,,
+The　Graduate　School　of　Social Design,Tokyo To,35.712387,139.706604,,
+Teikyo　University　of　Science,Tokyo To,35.753677,139.789429,3.58,E
+Seisa　University,Kanagawa Ken,35.265572,138.999374,4.15,
+Kanagawa　University,Kanagawa Ken,35.484413,139.620773,3.68,D
+Kanto　Gakuin　University,Kanagawa Ken,35.32428,139.625931,3.54,F
+Tsurumi　University,Kanagawa Ken,35.506329,139.6707,3.75,F
+Ferris　University,Kanagawa Ken,35.437656,139.525589,4.06,F
+Yokohama　College　of　Commerce,Kanagawa Ken,35.498199,139.659317,3.51,F
+Yashima　Gakuen　University,Kanagawa Ken,35.458904,139.622726,3.42,
+Institute　of　Information　Security,Kanagawa Ken,35.468109,139.623535,3.28,
+Yokohama　University　of　Pharmacy,Kanagawa Ken,35.382626,139.49202,3.68,F
+Azabu　University,Kanagawa Ken,35.573708,139.392426,3.83,E
+Kanagawa　Dentaluniversity,Kanagawa Ken,35.29361,139.665237,3.11,F
+Kamakura　Women’s　University,Kanagawa Ken,35.354252,139.538498,3.9,E
+Shonan　Institute　of　Technology,Kanagawa Ken,35.326111,139.453232,3.76,F
+Sagami　Women’s　University,Kanagawa Ken,35.533947,139.427368,3.76,F
+Senzoku　Gakuen　College　of　Music,Kanagawa Ken,35.594688,139.615311,3.86,
+St.Marianna　University　School　of　Medicine,Kanagawa Ken,35.59956,139.547073,3.76,A
+Kanagawa　Institute of　Technology,Kanagawa Ken,35.486244,139.343307,3.59,F
+Showa　University　of　Music,Kanagawa Ken,35.600418,139.508041,4.06,F
+Toin　University　of　Yokohama,Kanagawa Ken,35.567417,139.521179,3.71,F
+Toyo　Eiwa　University,Kanagawa Ken,35.508823,139.510101,3.78,F
+Shoin　University,Kanagawa Ken,35.442726,139.315689,3.47,F
+Den-En　Chofu　University,Kanagawa Ken,35.595226,139.525146,3.64,F
+Yokohama　University　of　Art　&　Design,Kanagawa Ken,35.557827,139.497253,3.92,F
+Japan　Institute　of　The　Moving　Image,Kanagawa Ken,35.604919,139.507553,3.73,F
+Yokohama　Soei　University,Kanagawa Ken,35.511475,139.510056,3.56,F
+Shonan　University　of　Medical　Sciences,Kanagawa Ken,35.437679,139.548645,3.72,F
+SHONAN KAMAKURA UNIVERSITY OF MEDICAL SCIENCES,Kanagawa Ken,35.34156,139.52774,3.67,F
+Nagaoka　University,Niigata Ken,37.428562,138.880157,3.44,E
+Niigata　University　of　Health　And　Welfare,Niigata Ken,37.9664,139.188843,3.89,F
+Niigata　Seiryo　University,Niigata Ken,37.921284,139.025436,3.94,E
+Niigata　Institute　of　Technology,Niigata Ken,37.338867,138.576767,3.62,F
+Niigata　University　of　Management,Niigata Ken,37.672485,139.065048,3.73,F
+Niigata　University　of　International　And　Information　Studies,Niigata Ken,37.816799,138.899292,3.69,D
+Keiwa　College,Niigata Ken,37.953205,139.2901,3.45,F
+Niigata　University　of　Pharmacy　and　Applied　Life　Sciences,Niigata Ken,37.77475,139.12204,3.51,F
+International　University　of　Japan,Niigata Ken,37.1479,138.948013,3,
+Niigata　Sangyo　University,Niigata Ken,37.337311,138.593201,3.73,F
+Graduate　Institute　For　Entrepreneurial　Studies,Niigata Ken,37.907841,139.061737,,
+Niigata　University　of　Rehabilitation,Niigata Ken,38.185974,139.439468,3.18,F
+Niigata　Agro-Food　University,Niigata Ken,37.968521,139.194901,2.75,F
+Kaishi Professional University,Niigata Ken,37.897717,139.067429,4,F
+Nagaoka Sutoku University,Niigata Ken,37.425255,138.773346,3.75,F
+Takaoka　University　of　Law,Toyama Ken,36.66967,137.001297,3.43,F
+Toyama　University　of　International　Studies,Toyama Ken,36.601566,137.273621,3.7,F
+Toho　Gakuen　Graduate　School,Toyama Ken,36.717968,137.165161,5,
+Kanazawa　Seiryo　University,Ishikawa Ken,36.583309,136.68222,3.77,F
+Kanazawa　Institute　of　Technology,Ishikawa Ken,36.529015,136.627518,3.69,F
+Kanazawa　Medical　University,Ishikawa Ken,36.657558,136.647263,3.9,C
+Hokuriku　University,Ishikawa Ken,36.524445,136.707336,3.46,F
+Kanazawa　Gakuin　University,Ishikawa Ken,36.515697,136.698029,3.4,F
+Kinjo　University,Ishikawa Ken,36.508892,136.529785,3.84,F
+Hokurikugakuin　University,Ishikawa Ken,36.517262,136.670761,3.81,F
+Kanazawa Professional University of Food Management,Ishikawa Ken,36.543907,136.586166,,F
+Fukui　University　of　Technology,Fukui Ken,36.068718,136.196365,3.59,E
+Jin-Ai　University,Fukui Ken,35.891541,136.211166,3.85,F
+Fukui　Health　Science　University,Fukui Ken,36.130241,136.165817,3.56,F
+Yamanashi　Gakuin　University,Yamanashi Ken,35.657879,138.600906,3.74,F
+Minobusan　University,Yamanashi Ken,35.383202,138.428558,5,F
+Yamanashi-Eiwa　College,Yamanashi Ken,35.661758,138.613174,3.66,F
+Health　Science　University,Yamanashi Ken,35.464031,138.744141,3.58,F
+Matsumoto　Dental　University,Nagano Ken,36.127342,137.939728,3.1,F
+Matsumoto　University,Nagano Ken,36.220024,137.911194,3.91,E
+Seisen　Jogakuin　College,Nagano Ken,36.685642,138.23291,4.1,F
+Saku　University,Nagano Ken,36.265114,138.463028,3.89,F
+Nagano　University　of　Health　And　Medicine,Nagano Ken,36.593323,138.145218,3.87,E
+MATSUMOTO COLLEGE OF NURSING,Nagano Ken,36.174709,137.93544,3,F
+Chukyo　Gakuin　University,Gifu Ken,35.476894,137.485397,3.64,F
+Gifu　Kyoritsu　University,Gifu Ken,35.39423,136.619125,3.46,F
+Gifu　Women’s　University,Gifu Ken,35.487743,136.806992,3.77,F
+Asahi　University,Gifu Ken,35.382084,136.69072,3.76,E
+Gifu　Shotoku　Gakuen　University,Gifu Ken,35.361855,136.706558,4.09,E
+Tokai　Gakuin　University,Gifu Ken,35.424854,136.82048,3.52,F
+Chubu　Gakuin　University,Gifu Ken,35.45853,136.897781,3.86,F
+Gifu　University　of　Medical　Science,Gifu Ken,35.490181,136.948273,3.79,E
+Gifu University of Health Sciences,Gifu Ken,35.38459,136.739914,3.91,F
+The　Graduate　School　For　The　Creation　of　New　Photonics　Industries,Shizuoka Ken,34.776619,137.630966,,
+Shizuoka　University　of　Welfare,Shizuoka Ken,34.829826,138.296936,3.89,F
+Hamamatsu　Gakuin　University,Shizuoka Ken,34.719769,137.713333,3.93,F
+Shizuoka　Eiwa　Gakuin　University,Shizuoka Ken,34.982883,138.433868,3.54,F
+Tokoha　University,Shizuoka Ken,35.004887,138.436478,3.77,F
+Shizuoka　Institute　of　Science　And　Technology,Shizuoka Ken,34.73632,137.957748,3.59,E
+Seirei　Christopher　University,Shizuoka Ken,34.791798,137.689636,4,F
+Shizuoka　Sangyo　University,Shizuoka Ken,34.861412,138.229004,3.64,F
+Aichi　University　of　Technology,Aichi Ken,34.832626,137.19342,3.5,F
+Nagoya　Sangyo　University,Aichi Ken,35.21994,137.031418,3.63,F
+University　of　Human　Environments,Aichi Ken,34.897923,137.264633,3.58,E
+Nagoya　Bunri　University,Aichi Ken,35.248829,136.789261,3.68,F
+Aichi　Mizuho　College,Aichi Ken,35.127125,136.921875,3.46,F
+Aichi　Gakuin　University,Aichi Ken,35.158417,137.042679,3.83,E
+Aichi　Institute　of　Technology,Aichi Ken,35.184185,137.111893,3.67,D
+Kinjogakuin　University,Aichi Ken,35.208553,136.99321,4.02,E
+Sugiyama　Jogakuen　University,Aichi Ken,35.159889,136.987167,3.98,E
+Daido　University,Aichi Ken,35.078518,136.905609,3.71,E
+Chukyo　University,Aichi Ken,35.138783,136.965393,3.81,C
+Doho　University,Aichi Ken,35.163673,136.843185,3.62,F
+Nagoya　Gakuin　University,Aichi Ken,35.128548,136.89859,3.6,E
+Nagoya　University　of　Commerce　&　Business,Aichi Ken,35.147362,137.082047,3.37,F
+Nagoya　Women’s　University,Aichi Ken,35.131889,136.938492,3.79,E
+Nanzan　University,Aichi Ken,35.14901,136.96315,3.96,C
+Nihon　Fukushi　University,Aichi Ken,34.783028,136.872833,3.76,F
+Meijo　University,Aichi Ken,35.135921,136.976532,3.84,C
+Nagoya　College　of　Music,Aichi Ken,35.163673,136.843185,3.86,E
+Toyota　Technological　Institute,Aichi Ken,35.106468,136.982498,3.76,B
+Nagoya　University　of　Foreign　Studies,Aichi Ken,35.155373,137.040131,3.89,C
+Nagoya　Zokei　University　of　Art　;　Design,Aichi Ken,35.189964,136.905731,3.65,E
+Aichi　Sangyo　University,Aichi Ken,34.919106,137.219589,3.8,F
+Tokai　Gakuen　University,Aichi Ken,35.126869,137.098785,3.56,F
+Toyohashi　Sozo　University,Aichi Ken,34.776573,137.409988,3.54,F
+Aichi　Toho　University,Aichi Ken,35.170525,136.986328,3.54,F
+Seijoh　University,Aichi Ken,35.033436,136.900803,3.75,F
+Aichi　Bunkyo　University,Aichi Ken,35.300236,137.007355,3.55,F
+Ohkagakuen　University,Aichi Ken,35.05722,136.973251,4.21,F
+Aichi　University,Aichi Ken,35.174255,136.927292,3.83,D
+Aichi　Gakusen　University,Aichi Ken,34.972233,137.143311,3.41,F
+Shigakkan　University,Aichi Ken,35.031044,136.972305,3.58,E
+Chubu　University,Aichi Ken,35.274693,137.015121,3.73,E
+Fujita　Health　University,Aichi Ken,35.070999,137.001389,3.73,C
+Nagoya　University　of　The　Arts,Aichi Ken,35.256161,136.880783,3.72,F
+Aichi　Medical　University,Aichi Ken,35.19241,137.048386,3.76,B
+Aichi　Shukutoku　University,Aichi Ken,35.15873,137.031342,3.84,D
+Nagoya　University　of　Economics,Aichi Ken,35.319664,136.953247,3.38,F
+Nagoya　University　of　Arts　And　Sciences,Aichi Ken,35.155373,137.040131,4.16,C
+Japanese　Red　Cross　Toyota　College　of　Nursing,Aichi Ken,35.100468,137.120712,3.88,E
+Shubun　University,Aichi Ken,35.300484,136.781296,3.47,F
+Okazaki　Women’s　University,Aichi Ken,34.954697,137.185226,4.1,F
+Ichinomiya　Kenshin　College,Aichi Ken,35.316635,136.811523,4,E
+Nagoya Ryujo Women's University,Aichi Ken,35.146511,136.932465,4.12,F
+International Professional University of Technology in Nagoya,Aichi Ken,35.16843,136.8862,5,
+Yokkaichi　University,Mie Ken,35.022343,136.605225,3.65,F
+Kogakkan　University,Mie Ken,34.488365,136.726547,3.9,E
+Suzuka　University　of Medical　Science,Mie Ken,34.858315,136.59938,3.59,E
+Suzuka　University,Mie Ken,34.8144,136.534454,3.51,F
+Yokkaichi　Nursing　And　Medical　Care　University,Mie Ken,35.022343,136.605225,3.76,E
+Seian　University　of　Art　And　Design,Shiga Ken,35.107018,135.902008,3.75,C
+Seisen　University,Shiga Ken,35.20517,136.204422,3.39,F
+Nagahama　Institute　of　Bio-Science　And　Technology,Shiga Ken,35.356911,136.28038,3.76,E
+Biwako　Seikei　Sport　College,Shiga Ken,35.227333,135.94754,3.88,F
+Biwako-Gakuin　University,Shiga Ken,35.088188,136.184052,3.63,F
+Biwako Professional University of Rehabilitation,Shiga Ken,35.132339,136.275558,5,F
+Heian Jogakuin st.Agnes University,Kyoto Fu,35.019299,135.757797,3.85,F
+Otani　University,Kyoto Fu,35.042549,135.759064,3.88,F
+Kyoto　University　of　Foreign　Studies,Kyoto Fu,35.004147,135.718948,3.81,D
+Kyoto　Sangyo　University,Kyoto Fu,35.066345,135.754211,3.81,D
+Kyoto　Women’s　University,Kyoto Fu,34.989666,135.778442,3.91,D
+Kyoto　　　　Pharmaceutical　　University,Kyoto Fu,34.990833,135.809723,3.97,C
+Kyoto　Koka　Women’s　University,Kyoto Fu,34.996956,135.718384,3.79,F
+Shuchiin　University,Kyoto Fu,34.912777,135.766678,3.97,F
+Kyoto　Tachibana　University,Kyoto Fu,34.968323,135.82515,3.94,D
+Doshisha　University,Kyoto Fu,34.968323,135.82515,4.06,B
+Doshisha　Women’s　College　of　Liberal　Arts,Kyoto Fu,34.80452,135.772675,4.15,D
+Kyoto　Notre　Dame　University,Kyoto Fu,35.051197,135.770004,3.98,F
+Hanazono　University,Kyoto Fu,35.01722,135.726288,3.83,F
+Bukkyo　University,Kyoto Fu,35.043476,135.737289,3.89,E
+Ritsumeikan　University,Kyoto Fu,35.009155,135.742157,3.9,B
+Ryukoku　University,Kyoto Fu,34.963924,135.766693,3.85,D
+Kyoto University of Advanced Science,Kyoto Fu,35.010235,135.719025,3.51,F
+Kyoto　Seika　University,Kyoto Fu,35.075008,135.769882,3.92,D
+Meiji　University　of　Integrative　Medicine,Kyoto Fu,35.173378,135.487335,3.78,F
+Kyoto　University　of　the Arts,Kyoto Fu,35.037243,135.794586,3.88,E
+Kyoto　Bunkyo　University,Kyoto Fu,34.914272,135.785049,3.76,F
+Kyoto　Saga　University　of　Arts,Kyoto Fu,35.013035,135.688416,3.93,E
+The　Kyoto　College　of　Graduate　Studies　For　Informatics,Kyoto Fu,35.030453,135.779221,,
+Kyoto　College　of　Medical　Science,Kyoto Fu,35.102692,135.479446,3.86,E
+Kyoto　Kacho　University,Kyoto Fu,35.007614,135.780304,3.82,F
+Kyoto　Arts　And　Crafts　University,Kyoto Fu,35.007614,135.780304,4.03,E
+Kyoto　College　of　Nursing,Kyoto Fu,34.997562,135.73465,3.25,E
+Osaka　University　of　Economics,Osaka Fu,34.750027,135.543991,3.78,E
+Osaka　Institute　of　Technology,Osaka Fu,34.730782,135.54538,3.81,D
+Osaka　Dental　University,Osaka Fu,34.858795,135.676361,3.61,D
+Soai　University,Osaka Fu,34.634575,135.424088,3.79,F
+Momoyama　Gakuin　University,Osaka Fu,34.452583,135.454117,3.58,E
+Setsunan　University,Osaka Fu,34.779728,135.613068,3.64,E
+Momoyama　Gakuin　University　of　Education,Osaka Fu,34.483715,135.533585,3.66,E
+Osaka Medical and Pharmaceutical University,Osaka Fu,34.85186,135.624405,4.11,B
+Osaka　College　of　Music,Osaka Fu,34.753349,135.470444,4,F
+Osaka　Gakuin　University,Osaka Fu,34.773399,135.541901,3.58,E
+Osaka University of Arts,Osaka Fu,34.51239,135.630569,3.79,E
+Osaka　Sangyo　University,Osaka Fu,34.70779,135.646149,3.46,F
+Osaka　Shoin　Women’s　University,Osaka Fu,34.663212,135.578369,3.86,F
+Osaka　University　of　Commerce,Osaka Fu,34.666237,135.583664,3.56,E
+Osaka　University　of　Health　And　Sport　Sciences,Osaka Fu,34.380264,135.358826,4.13,E
+Osaka　Electro-Communication　University,Osaka Fu,34.760239,135.627777,3.78,E
+Osaka　Ohtani　University,Osaka Fu,34.481937,135.58226,3.78,E
+Otemon　Gakuin　University,Osaka Fu,34.846218,135.558502,3.56,D
+Kansai　University,Osaka Fu,34.769669,135.510162,3.95,B
+Kansai　Medical　University,Osaka Fu,34.818779,135.645493,4.07,C
+Kansai　Gaidai　University,Osaka Fu,34.822128,135.667068,3.71,C
+Kindai　University,Osaka Fu,34.65155,135.587158,3.86,C
+Shitennoji　University,Osaka Fu,34.54615,135.583755,3.88,E
+Tezukayamagakuin　University,Osaka Fu,34.489052,135.532791,3.85,E
+Baika　Women’s　University,Osaka Fu,34.841614,135.535049,3.83,E
+Hannan　University,Osaka Fu,34.592194,135.534409,3.76,E
+Osaka　University　of　Economics　and　Law,Osaka Fu,34.641026,135.645554,3.53,E
+Osaka　International　University,Osaka Fu,34.748039,135.603439,3.78,E
+Kansai　University　of　Welfare　Sciences,Osaka Fu,34.559875,135.636398,3.79,F
+Taisei　Gakuin　University,Osaka Fu,34.526031,135.578201,3.32,F
+Tokiwakai Gakuen　University,Osaka Fu,34.616505,135.561798,3.82,F
+Osaka　University　of　Tourism,Osaka Fu,34.392704,135.339508,3.39,F
+Osaka　University　of　Human　Sciences,Osaka Fu,34.779377,135.547882,3.6,F
+Hagoromo　University　of　International　Studies,Osaka Fu,34.534309,135.447662,3.51,F
+Osaka　Seikei　University,Osaka Fu,34.758598,135.537384,3.71,E
+Kansai　University　of　Health　Sciences,Osaka Fu,34.406616,135.3703,3.92,E
+Senri　Kinran　University,Osaka Fu,34.826584,135.515549,3.8,F
+Higashiosaka　College,Osaka Fu,34.674828,135.580933,3.83,F
+Osaka　Jogakuin　University,Osaka Fu,34.676949,135.526535,3.91,F
+Aino　University,Osaka Fu,34.843227,135.581833,3.53,E
+Osaka　Aoyama　University,Osaka Fu,34.83382,135.457367,3.73,E
+Shijonawate　Gakuen　University,Osaka Fu,34.727669,135.646805,3.9,F
+Osaka　Kawasaki　Rehabilitation　University,Osaka Fu,34.404541,135.38707,3.8,
+Osaka　University　of　Comprehensive　Children　Education,Osaka Fu,34.60725,135.538864,4.06,E
+Morinomiya　University　of　Medical　Sciences,Osaka Fu,34.641914,135.413635,3.9,D
+Osaka　Health　Science　University,Osaka Fu,34.693417,135.519669,4.01,F
+Butsuryo　College　of　Osaka,Osaka Fu,34.538174,135.462921,3.51,F
+Jikei University of Health Care Sciences,Osaka Fu,34.734314,135.500031,4,F
+Osaka　Yukioka　College　of　Health　Science,Osaka Fu,34.828323,135.580566,3.41,F
+Yamato　University,Osaka Fu,34.765766,135.519043,3.7,C
+Takarazuka　University,Osaka Fu,34.707886,135.497284,3.55,F
+International Professional University of Technology in Osaka,Osaka Fu,34.699421,135.49324,4,
+Konan　University,Hyogo Ken,34.729561,135.268463,3.88,D
+Konan　Women’s　University,Hyogo Ken,34.734211,135.288895,3.98,E
+Kobe　Kaisei　College,Hyogo Ken,34.712616,135.21196,3.87,F
+Kobe　Gakuin　University,Hyogo Ken,34.672279,135.203583,3.6,E
+Kobe　Women’s　University,Hyogo Ken,34.658886,135.109131,3.84,E
+Kobe　Pharmaceutical　University,Hyogo Ken,34.732506,135.283752,3.68,D
+Kobe　Shoin　Women’s　University,Hyogo Ken,34.72765,135.229904,3.86,E
+Kobe　Shinwa　Women’S　University,Hyogo Ken,34.727726,135.154785,3.9,
+Kobe　International　University,Hyogo Ken,34.681519,135.271103,3.66,F
+Hyogo　University,Hyogo Ken,34.746761,134.881317,3.68,F
+Kobe　Tokiwa　University,Hyogo Ken,34.6661,135.140472,3.8,E
+Takarazuka　University　of　Medical　and　Health　Care,Hyogo Ken,34.835621,135.401855,3.7,F
+Ashiya　University,Hyogo Ken,34.753239,135.30777,3.67,F
+Otemae　University,Hyogo Ken,34.737976,135.325104,3.63,E
+Kwansei　Gakuin　University,Hyogo Ken,34.767162,135.34436,4,B
+Koshien　University,Hyogo Ken,34.806511,135.33316,3.55,F
+Kobe　College,Hyogo Ken,34.759605,135.350464,4.23,E
+Sonoda　Women’s　University,Hyogo Ken,34.749084,135.411011,3.59,F
+Mukogawa　Women’s　University,Hyogo Ken,34.717453,135.374451,4.01,D
+Hyogo　Medical　University,Hyogo Ken,34.719002,135.378647,3.94,D
+Himeji　Dokkyo　University,Hyogo Ken,34.873276,134.688828,3.71,F
+University　of　Marketing　And　Distribution　Sciences,Hyogo Ken,34.687099,135.057877,3.78,E
+Kobe　Design　University,Hyogo Ken,34.677147,135.055939,3.78,F
+Kansai　University　of　Social　Welfare,Hyogo Ken,34.761024,134.368454,3.74,E
+Kansai　University　of　International　Studies,Hyogo Ken,34.771805,135.044052,3.57,F
+Kobe　University　of　Welfare,Hyogo Ken,34.97525,134.726196,3.67,F
+Kobe　Institute　of　Computing　-　Graduate　School　of　Information　Technology,Hyogo Ken,34.698917,135.193039,3.63,
+Kansai　University　of　Nursing　And　Health　Sciences,Hyogo Ken,34.4356,134.901291,3.9,E
+Hyogo　University　of　Health　Sciences,Hyogo Ken,34.666256,135.203979,3.99,
+Himeji　University,Hyogo Ken,34.773808,134.75943,3.72,F
+Tezukayama　University,Nara Ken,34.686455,135.722137,3.7,E
+Tenri　University,Nara Ken,34.597195,135.845306,4.17,E
+Nara　University,Nara Ken,34.714764,135.783218,3.86,F
+Naragakuen　University,Nara Ken,34.721218,135.747269,3.76,F
+Kio　University,Nara Ken,34.546612,135.723099,4.04,D
+Tenri　Health　Care　University,Nara Ken,34.607342,135.83638,3.53,
+Koyasan　University,Wakayama Ken,34.211441,135.585602,4.33,F
+Wakayama Shin-ai University,Wakayama Ken,34.236881,135.176102,3.79,F
+Wakayama　Professional　University of Rehabilitation,Wakayama Ken,34.233154,135.163116,,F
+Tottori　College　of　Nursing,Tottori Ken,35.456047,133.859024,4.23,E
+Kibi　International　University,Okayama Ken,34.796394,133.620956,3.67,F
+Okayama　Shoka　University,Okayama Ken,34.683128,133.90094,3.71,F
+Okayama　University　of　Science,Okayama Ken,34.695194,133.924484,3.69,F
+Kurashiki　Sakuyo　University,Okayama Ken,34.574867,133.677567,3.84,F
+Notre　Dame　Seishin　University,Okayama Ken,34.672947,133.916412,4.08,C
+Kawasaki　Medical　School,Okayama Ken,34.631077,133.809937,3.57,A
+Shujitsu　University,Okayama Ken,34.676815,133.93541,3.96,E
+Kawasaki　University　of　Medical　Welfare,Okayama Ken,34.63422,133.810959,3.79,F
+Sanyo　Gakuen　University,Okayama Ken,34.642506,133.94426,3.57,F
+Kurashiki　University　of　Science　And　The　Arts,Okayama Ken,34.555973,133.712479,3.63,F
+Okayama　Gakuin　University,Okayama Ken,34.572922,133.799286,3.43,F
+Chugokugakuen　University,Okayama Ken,34.650665,133.849426,3.76,F
+International　Pacific　University,Okayama Ken,34.729137,134.012451,3.75,F
+Okayama Healthcare Professional University,Okayama Ken,34.656384,133.916397,2,F
+Mimasaka　University,Okayama Ken,35.076176,134.00824,4.09,E
+Elisabeth　University　of　Music,Hiroshima Ken,34.395115,132.467819,3.54,F
+Hiroshima　University　of　Economics,Hiroshima Ken,34.447708,132.455368,3.74,F
+Hiroshima　Institute　of　Technology,Hiroshima Ken,34.370216,132.342941,3.69,E
+Hiroshima　Shudo　University,Hiroshima Ken,34.435001,132.403549,3.89,E
+Hiroshima　Jogakuin　University,Hiroshima Ken,34.413734,132.484268,3.9,F
+Hiroshima　Kokusai　Gakuin　University,Hiroshima Ken,34.410328,132.579514,3.58,
+Hiroshima　Bunkyo　University,Hiroshima Ken,34.505554,132.51973,4.08,E
+Yasuda　Women’s　University,Hiroshima Ken,34.480515,132.452377,4.28,E
+Fukuyama　University,Hiroshima Ken,34.463791,133.244263,3.76,F
+Hijiyama　University,Hiroshima Ken,34.427959,132.474304,3.73,F
+Fukuyama　Heisei　University,Hiroshima Ken,34.54808,133.346588,3.7,F
+Hiroshima　Bunka　Gakuen　University,Hiroshima Ken,34.288696,132.637268,3.52,F
+Hiroshima　InternationalUniversity,Hiroshima Ken,34.313538,132.687531,3.61,E
+Japanese　Red　Cross　Hiroshima　College　of　Nursing,Hiroshima Ken,34.335869,132.309082,3.9,E
+Hiroshima　Cosmopolitan　University,Hiroshima Ken,34.359978,132.457932,3.41,F
+Baiko　Gakuin　University,Yamaguchi Ken,33.967678,130.933243,3.34,F
+The　University　of　East　Asia,Yamaguchi Ken,34.000916,130.948242,3.86,F
+Shiseikan　University,Yamaguchi Ken,34.426121,131.413086,3.47,F
+Ube　Frontier　University,Yamaguchi Ken,33.980694,131.234238,3.84,F
+Yamaguchi　Gakugei　University,Yamaguchi Ken,34.120808,131.401886,4.01,F
+Shikoku　University,Tokushima Ken,34.102814,134.553314,3.78,F
+Tokushima　Bunri　University,Tokushima Ken,34.072392,134.553452,3.74,F
+Shikoku　Gakuin　University,Kagawa Ken,34.225399,133.785568,3.74,F
+Takamatsu　University,Kagawa Ken,34.32811,134.087769,3.84,F
+Matsuyama　University,Ehime Ken,33.851158,132.767639,3.7,F
+St.Catherine　University,Ehime Ken,33.978985,132.779617,3.97,F
+Matsuyama　Shinonome　College,Ehime Ken,33.831757,132.796432,3.97,F
+Kochi Professional University of Rehabilitation,Kochi Ken,33.500893,133.410797,4,F
+Kochi　Gakuen University,Kochi Ken,33.560822,133.506653,4,F
+Kyushu　Kyoritsu　University,Fukuoka Ken,33.870468,130.703064,3.7,F
+Kyushu　Women’s　University,Fukuoka Ken,33.870468,130.703064,3.64,F
+Kyushu　International　University,Fukuoka Ken,33.86253,130.79277,3.56,F
+Fukuoka　Dental　College,Fukuoka Ken,33.546623,130.331177,3.44,F
+Kyushu　Sangyo　University,Fukuoka Ken,33.670216,130.444656,3.86,E
+Kurume University,Fukuoka Ken,33.328121,130.511475,3.83,E
+Seinan　Gakuin　University,Fukuoka Ken,33.584869,130.356842,4.02,C
+Daiichi　University　of　Pharmacy,Fukuoka Ken,33.565372,130.417648,3.39,F
+Nakamura　Gakuen　University,Fukuoka Ken,33.573196,130.367905,4.04,E
+Nishinippon　Institute　of　Technology,Fukuoka Ken,33.753147,130.973511,3.87,F
+Fukuoka　University,Fukuoka Ken,33.546928,130.363129,3.98,D
+Fukuoka　Institute　of　Technology,Fukuoka Ken,33.696144,130.441742,3.87,E
+Japan　University　of　Economics,Fukuoka Ken,33.506367,130.527756,3.7,F
+Kurume　Institute　of　Technology,Fukuoka Ken,33.270023,130.526123,3.68,F
+"University　of　Occupational　and　Environmental　Health,　Japan",Fukuoka Ken,33.876781,130.709549,3.76,C
+Chikushi　Jogakuen　University,Fukuoka Ken,33.512836,130.537613,3.97,F
+Fukuoka　Jo　Gakuin　University,Fukuoka Ken,33.53281,130.441666,3.92,F
+Seinan　Jo　Gakuin　University,Fukuoka Ken,33.88451,130.849899,3.78,F
+Kyushu　Institute　of　Information　Sciences　University,Fukuoka Ken,33.525135,130.53717,3.71,F
+Kyushu　Nutrition　Welfare　University,Fukuoka Ken,33.877014,130.858078,3.9,F
+Japanese　Red　Cross　Kyushu　International　College　of　Nursing,Fukuoka Ken,33.796188,130.609161,3.88,F
+St.Mary’s　College,Fukuoka Ken,33.304573,130.509384,3.74,E
+Cyber University,Fukuoka Ken,33.662762,130.423126,3.83,
+Fukuoka　Jo　Gakuin　Nursing　University,Fukuoka Ken,33.740604,130.473541,4.52,E
+College　of　Healthcare　Management,Fukuoka Ken,33.146324,130.459808,3.24,
+Junshin　Gakuen　University,Fukuoka Ken,33.558674,130.420029,3.45,E
+Fukuoka　Nursing　College,Fukuoka Ken,33.546623,130.331177,3,F
+Fukuoka International University of Health and Welfare,Fukuoka Ken,33.591415,130.349396,3.74,E
+Nishikyushu　University,Saga Ken,33.331242,130.344986,3.83,F
+Nagasaki　Institute　of　Applied　Science,Nagasaki Ken,32.750111,129.942505,3.65,F
+Kwassui　Women’s　University,Nagasaki Ken,32.738106,129.873413,3.76,F
+Nagasaki　Junshin　Catholic　University,Nagasaki Ken,32.802841,129.907333,3.92,F
+Nagasaki　International　University,Nagasaki Ken,33.101685,129.789978,3.95,F
+Nagasaki　University　of　Foreign　Studies,Nagasaki Ken,32.814011,129.841446,3.76,F
+Nagasaki Wesleyan University,Nagasaki Ken,32.858086,130.030273,3.71,F
+Sojo　University,Kumamoto Ken,32.831253,130.695465,3.85,E
+Kumamoto　Gakuen　University,Kumamoto Ken,32.804508,130.728745,3.8,E
+Shokei　University,Kumamoto Ken,32.797447,130.716278,3.51,F
+Kyushu　Lutheran　College,Kumamoto Ken,32.820332,130.722031,4.28,E
+Kyushu　University　of　Nursing　And　Social　Welfare,Kumamoto Ken,32.946815,130.553604,3.72,F
+Heisei　College　of　Music,Kumamoto Ken,32.712303,130.791824,3.72,
+Kumamoto　Health　Science　University,Kumamoto Ken,32.852104,130.68782,4.11,E
+Nippon　Bunri　University,Oita Ken,33.231152,131.725113,3.63,F
+Beppu　University,Oita Ken,33.312283,131.490509,3.87,F
+Ritsumeikan　Asia　Pacific　University,Oita Ken,33.284721,131.491104,3.94,C
+Minami　Kyushu　University,Miyazaki Ken,31.93807,131.414932,4.11,
+Miyazaki　Sangyo-Keiei　University,Miyazaki Ken,31.882841,131.404449,3.78,F
+Miyazaki　International　College,Miyazaki Ken,31.87104,131.387329,3.68,F
+Kyushu　University　of　Health　And　Welfare,Miyazaki Ken,32.56876,131.613464,3.64,
+The　International　University　of　Kagoshima,Kagoshima Ken,31.493916,130.496445,3.89,F
+Daiichi　Institute　of　Technology,Kagoshima Ken,31.745907,130.768463,4.02,F
+Shigakukan　University,Kagoshima Ken,31.559242,130.542252,3.84,F
+Kagoshima　Immaculate　Heart　University,Kagoshima Ken,31.826616,130.327606,4.04,F
+Okinawa　Institute　of　Science　and　Technology　Graduate　University,Okinawa Ken,26.464243,127.830719,3.64,
+Okinawa　International　University,Okinawa Ken,26.263245,127.755028,3.95,E
+Okinawa　University,Okinawa Ken,26.200539,127.699211,3.88,F
+Okinawa　Christian　University,Okinawa Ken,26.23896,127.754646,4.23,F
+R Professional University of Rehabilitation,Ibaraki Ken,36.084904,140.212311,2,F
+Osaka Shin-Ai  Gakuin University,Osaka Fu,34.711761,135.559464,,F
+Reiwa Health Sciences University,Fukuoka Ken,33.690834,130.432571,3.5,F
