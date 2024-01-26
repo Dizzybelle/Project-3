@@ -1,0 +1,1919 @@
+,prefecture_id,city_en
+0,1,Sapporo
+1,1,"Chūō-ku, Sapporo"
+2,1,"Kita-ku, Sapporo"
+3,1,"Higashi-ku, Sapporo"
+4,1,"Shiroishi-ku, Sapporo"
+5,1,"Toyohira-ku, Sapporo"
+6,1,"Minami-ku, Sapporo"
+7,1,"Nishi-ku, Sapporo"
+8,1,"Atsubetsu-ku, Sapporo"
+9,1,"Teine-ku, Sapporo"
+10,1,"Kiyota-ku, Sapporo"
+11,1,Hakodate
+12,1,Otaru
+13,1,Asahikawa
+14,1,Muroran
+15,1,Kushiro
+16,1,Obihiro
+17,1,Kitami
+18,1,"Yūbari, Hokkaido"
+19,1,Iwamizawa
+20,1,Abashiri
+21,1,"Rumoi, Hokkaido"
+22,1,Tomakomai
+23,1,Wakkanai
+24,1,Bibai
+25,1,Ashibetsu
+26,1,Ebetsu
+27,1,Akabira
+28,1,"Monbetsu, Hokkaido"
+29,1,"Shibetsu, Hokkaido"
+30,1,Nayoro
+31,1,"Mikasa, Hokkaido"
+32,1,"Nemuro, Hokkaido"
+33,1,"Chitose, Hokkaido"
+34,1,"Takikawa, Hokkaido"
+35,1,"Sunagawa, Hokkaido"
+36,1,Utashinai
+37,1,"Fukagawa, Hokkaido"
+38,1,"Furano, Hokkaido"
+39,1,Noboribetsu
+40,1,"Eniwa, Hokkaido"
+41,1,"Date, Hokkaido"
+42,1,"Kitahiroshima, Hokkaido"
+43,1,"Ishikari, Hokkaido"
+44,1,"Hokuto, Hokkaido"
+45,1,"Tōbetsu, Hokkaido"
+46,1,"Shinshinotsu, Hokkaido"
+47,1,"Matsumae, Hokkaido"
+48,1,"Fukushima, Hokkaido"
+49,1,"Shiriuchi, Hokkaido"
+50,1,"Kikonai, Hokkaido"
+51,1,"Nanae, Hokkaido"
+52,1,"Shikabe, Hokkaido"
+53,1,"Mori, Hokkaido"
+54,1,"Yakumo, Hokkaido"
+55,1,"Oshamambe, Hokkaido"
+56,1,"Esashi, Hokkaido (Hiyama)"
+57,1,"Kaminokuni, Hokkaido"
+58,1,"Assabu, Hokkaido"
+59,1,"Otobe, Hokkaido"
+60,1,"Okushiri, Hokkaido"
+61,1,"Imakane, Hokkaido"
+62,1,"Setana, Hokkaido"
+63,1,"Shimamaki, Hokkaido"
+64,1,"Suttsu, Hokkaido"
+65,1,"Kuromatsunai, Hokkaido"
+66,1,"Rankoshi, Hokkaido"
+67,1,"Niseko, Hokkaido"
+68,1,"Makkari, Hokkaido"
+69,1,"Rusutsu, Hokkaido"
+70,1,"Kimobetsu, Hokkaido"
+71,1,"Kyōgoku, Hokkaido"
+72,1,"Kutchan, Hokkaido"
+73,1,"Kyōwa, Hokkaido"
+74,1,"Iwanai, Hokkaido"
+75,1,"Tomari, Hokkaido"
+76,1,"Kamoenai, Hokkaido"
+77,1,"Shakotan, Hokkaido"
+78,1,"Furubira, Hokkaido"
+79,1,"Niki, Hokkaido"
+80,1,"Yoichi, Hokkaido"
+81,1,"Akaigawa, Hokkaido"
+82,1,"Nanporo, Hokkaido"
+83,1,"Naie, Hokkaido"
+84,1,"Kamisunagawa, Hokkaido"
+85,1,"Yuni, Hokkaido"
+86,1,"Naganuma, Hokkaido"
+87,1,"Kuriyama, Hokkaido"
+88,1,"Tsukigata, Hokkaido"
+89,1,"Urausu, Hokkaido"
+90,1,"Shintotsukawa, Hokkaido"
+91,1,"Moseushi, Hokkaido"
+92,1,"Chippubetsu, Hokkaido"
+93,1,"Uryū, Hokkaido"
+94,1,"Hokuryū, Hokkaido"
+95,1,"Numata, Hokkaido"
+96,1,"Takasu, Hokkaido"
+97,1,"Higashikagura, Hokkaido"
+98,1,"Tōma, Hokkaido"
+99,1,"Pippu, Hokkaido"
+100,1,"Aibetsu, Hokkaido"
+101,1,"Kamikawa, Hokkaido"
+102,1,"Higashikawa, Hokkaido"
+103,1,"Biei, Hokkaido"
+104,1,"Kamifurano, Hokkaido"
+105,1,"Nakafurano, Hokkaido"
+106,1,"Minamifurano, Hokkaido"
+107,1,Shimukappu
+108,1,"Wassamu, Hokkaido"
+109,1,"Kenbuchi, Hokkaido"
+110,1,"Shimokawa, Hokkaido"
+111,1,"Bifuka, Hokkaido"
+112,1,"Otoineppu, Hokkaido"
+113,1,"Nakagawa, Hokkaido"
+114,1,"Horokanai, Hokkaido"
+115,1,"Mashike, Hokkaido"
+116,1,"Obira, Hokkaido"
+117,1,"Tomamae, Hokkaido"
+118,1,"Haboro, Hokkaido"
+119,1,"Shosanbetsu, Hokkaido"
+120,1,"Enbetsu, Hokkaido"
+121,1,"Teshio, Hokkaido"
+122,1,"Sarufutsu, Hokkaido"
+123,1,"Hamatonbetsu, Hokkaido"
+124,1,"Nakatonbetsu, Hokkaido"
+125,1,"Esashi, Hokkaido (Sōya)"
+126,1,"Toyotomi, Hokkaido"
+127,1,"Rebun, Hokkaido"
+128,1,"Rishiri, Hokkaido"
+129,1,"Rishirifuji, Hokkaido"
+130,1,"Horonobe, Hokkaido"
+131,1,"Bihoro, Hokkaido"
+132,1,"Tsubetsu, Hokkaido"
+133,1,"Shari, Hokkaido"
+134,1,"Kiyosato, Hokkaido"
+135,1,"Koshimizu, Hokkaido"
+136,1,"Kunneppu, Hokkaido"
+137,1,"Oketo, Hokkaido"
+138,1,"Saroma, Hokkaido"
+139,1,"Engaru, Hokkaido"
+140,1,"Yūbetsu, Hokkaido"
+141,1,"Takinoue, Hokkaido"
+142,1,"Okoppe, Hokkaido"
+143,1,"Nishiokoppe, Hokkaido"
+144,1,"Ōmu, Hokkaido"
+145,1,"Ōzora, Hokkaido"
+146,1,"Toyoura, Hokkaido"
+147,1,"Sōbetsu, Hokkaido"
+148,1,"Shiraoi, Hokkaido"
+149,1,"Atsuma, Hokkaido"
+150,1,"Tōyako, Hokkaido"
+151,1,"Abira, Hokkaido"
+152,1,"Mukawa, Hokkaido"
+153,1,"Hidaka, Hokkaido"
+154,1,"Biratori, Hokkaido"
+155,1,"Niikappu, Hokkaido"
+156,1,"Urakawa, Hokkaido"
+157,1,"Samani, Hokkaido"
+158,1,"Erimo, Hokkaido"
+159,1,"Shinhidaka, Hokkaido"
+160,1,"Otofuke, Hokkaido"
+161,1,"Shihoro, Hokkaido"
+162,1,"Kamishihoro, Hokkaido"
+163,1,"Shikaoi, Hokkaido"
+164,1,"Shintoku, Hokkaido"
+165,1,"Shimizu, Hokkaido"
+166,1,"Memuro, Hokkaido"
+167,1,"Nakasatsunai, Hokkaido"
+168,1,"Sarabetsu, Hokkaido"
+169,1,"Taiki, Hokkaido"
+170,1,"Hiroo, Hokkaido"
+171,1,"Makubetsu, Hokkaido"
+172,1,"Ikeda, Hokkaido"
+173,1,"Toyokoro, Hokkaido"
+174,1,"Honbetsu, Hokkaido"
+175,1,"Ashoro, Hokkaido"
+176,1,"Rikubetsu, Hokkaido"
+177,1,"Urahoro, Hokkaido"
+178,1,Kushiro (town)
+179,1,"Akkeshi, Hokkaido"
+180,1,"Hamanaka, Hokkaido"
+181,1,"Shibecha, Hokkaido"
+182,1,"Teshikaga, Hokkaido"
+183,1,Tsurui
+184,1,"Shiranuka, Hokkaido"
+185,1,"Betsukai, Hokkaido"
+186,1,"Nakashibetsu, Hokkaido"
+187,1,"Shibetsu, Hokkaido (Nemuro)"
+188,1,"Rausu, Hokkaido"
+189,1,"Shikotan, Hokkaido"
+190,1,"Tomari, Hokkaido"
+191,1,
+192,1,"Rubetsu, Hokkaido"
+193,1,"Shana, Hokkaido"
+194,1,
+195,2,Aomori
+196,2,Hirosaki
+197,2,Hachinohe
+198,2,"Kuroishi, Aomori"
+199,2,Goshogawara
+200,2,Towada
+201,2,"Misawa, Aomori"
+202,2,"Mutsu, Aomori"
+203,2,"Tsugaru, Aomori"
+204,2,"Hirakawa, Aomori"
+205,2,Hiranai
+206,2,Imabetsu
+207,2,Yomogita
+208,2,Sotogahama
+209,2,"Ajigasawa, Aomori"
+210,2,Fukaura
+211,2,Nishimeya
+212,2,"Fujisaki, Aomori"
+213,2,"Ōwani, Aomori"
+214,2,"Inakadate, Aomori"
+215,2,"Itayanagi, Aomori"
+216,2,"Tsuruta, Aomori"
+217,2,Nakadomari
+218,2,Noheji
+219,2,Shichinohe
+220,2,Rokunohe
+221,2,"Yokohama, Aomori"
+222,2,"Tōhoku, Aomori"
+223,2,Rokkasho
+224,2,Oirase
+225,2,Ōma
+226,2,Higashidōri
+227,2,Kazamaura
+228,2,"Sai, Aomori"
+229,2,Sannohe
+230,2,Gonohe
+231,2,Takko
+232,2,"Nanbu, Aomori"
+233,2,Hashikami
+234,2,"Shingō, Aomori"
+235,3,Morioka
+236,3,"Miyako, Iwate"
+237,3,Ōfunato
+238,3,"Hanamaki, Iwate"
+239,3,"Kitakami, Iwate"
+240,3,"Kuji, Iwate"
+241,3,"Tōno, Iwate"
+242,3,"Ichinoseki, Iwate"
+243,3,"Rikuzentakata, Iwate"
+244,3,"Kamaishi, Iwate"
+245,3,"Ninohe, Iwate"
+246,3,"Hachimantai, Iwate"
+247,3,"Ōshū, Iwate"
+248,3,"Takizawa, Iwate"
+249,3,Shizukuishi
+250,3,"Kuzumaki, Iwate"
+251,3,"Iwate, Iwate"
+252,3,"Shiwa, Iwate"
+253,3,"Yahaba, Iwate"
+254,3,Nishiwaga
+255,3,"Kanegasaki, Iwate"
+256,3,Hiraizumi
+257,3,"Sumita, Iwate"
+258,3,"Ōtsuchi, Iwate"
+259,3,"Yamada, Iwate"
+260,3,"Iwaizumi, Iwate"
+261,3,"Tanohata, Iwate"
+262,3,"Fudai, Iwate"
+263,3,"Karumai, Iwate"
+264,3,"Noda, Iwate"
+265,3,"Kunohe, Iwate"
+266,3,"Hirono, Iwate"
+267,3,"Ichinohe, Iwate"
+268,4,Sendai
+269,4,"Aoba-ku, Sendai"
+270,4,"Miyagino-ku, Sendai"
+271,4,"Wakabayashi-ku, Sendai"
+272,4,"Taihaku-ku, Sendai"
+273,4,"Izumi-ku, Sendai"
+274,4,Ishinomaki
+275,4,Shiogama
+276,4,Kesennuma
+277,4,"Shiroishi, Miyagi"
+278,4,"Natori, Miyagi"
+279,4,"Kakuda, Miyagi"
+280,4,Tagajō
+281,4,Iwanuma
+282,4,"Tome, Miyagi"
+283,4,"Kurihara, Miyagi"
+284,4,Higashimatsushima
+285,4,"Ōsaki, Miyagi"
+286,4,"Tomiya, Miyagi"
+287,4,"Zaō, Miyagi"
+288,4,"Shichikashuku, Miyagi"
+289,4,"Ōgawara, Miyagi"
+290,4,"Murata, Miyagi"
+291,4,"Shibata, Miyagi"
+292,4,"Kawasaki, Miyagi"
+293,4,"Marumori, Miyagi"
+294,4,"Watari, Miyagi"
+295,4,"Yamamoto, Miyagi"
+296,4,"Matsushima, Miyagi"
+297,4,Shichigahama
+298,4,Rifu
+299,4,"Taiwa, Miyagi"
+300,4,"Ōsato, Miyagi"
+301,4,"Ōhira, Miyagi"
+302,4,"Shikama, Miyagi"
+303,4,"Kami, Miyagi"
+304,4,Wakuya
+305,4,"Misato, Miyagi"
+306,4,"Onagawa, Miyagi"
+307,4,Minamisanriku
+308,5,Akita (city)
+309,5,"Noshiro, Akita"
+310,5,"Yokote, Akita"
+311,5,Ōdate
+312,5,"Oga, Akita"
+313,5,"Yuzawa, Akita"
+314,5,"Kazuno, Akita"
+315,5,Yurihonjō
+316,5,"Katagami, Akita"
+317,5,"Daisen, Akita"
+318,5,Kitaakita
+319,5,"Nikaho, Akita"
+320,5,"Semboku, Akita"
+321,5,"Kosaka, Akita"
+322,5,Kamikoani
+323,5,"Fujisato, Akita"
+324,5,"Mitane, Akita"
+325,5,"Happō, Akita"
+326,5,Gojōme
+327,5,"Hachirōgata, Akita"
+328,5,"Ikawa, Akita"
+329,5,"Ōgata, Akita"
+330,5,"Misato, Akita"
+331,5,"Ugo, Akita"
+332,5,"Higashinaruse, Akita"
+333,6,Yamagata (city)
+334,6,"Yonezawa, Yamagata"
+335,6,Tsuruoka
+336,6,"Sakata, Yamagata"
+337,6,"Shinjō, Yamagata"
+338,6,Sagae
+339,6,Kaminoyama
+340,6,"Murayama, Yamagata"
+341,6,"Nagai, Yamagata"
+342,6,"Tendō, Yamagata"
+343,6,Higashine
+344,6,Obanazawa
+345,6,"Nan'yō, Yamagata"
+346,6,"Yamanobe, Yamagata"
+347,6,"Nakayama, Yamagata"
+348,6,"Kahoku, Yamagata"
+349,6,"Nishikawa, Yamagata"
+350,6,"Asahi, Yamagata (Nishimurayama)"
+351,6,"Ōe, Yamagata"
+352,6,Ōishida
+353,6,"Kaneyama, Yamagata"
+354,6,"Mogami, Yamagata"
+355,6,"Funagata, Yamagata"
+356,6,Mamurogawa
+357,6,"Ōkura, Yamagata"
+358,6,Sakegawa
+359,6,"Tozawa, Yamagata"
+360,6,"Takahata, Yamagata"
+361,6,"Kawanishi, Yamagata"
+362,6,"Oguni, Yamagata"
+363,6,Shirataka
+364,6,"Iide, Yamagata"
+365,6,"Mikawa, Yamagata"
+366,6,"Shōnai, Yamagata"
+367,6,Yuza
+368,7,Fukushima (city)
+369,7,Aizuwakamatsu
+370,7,Kōriyama
+371,7,"Iwaki, Fukushima"
+372,7,"Shirakawa, Fukushima"
+373,7,"Sukagawa, Fukushima"
+374,7,"Kitakata, Fukushima"
+375,7,"Sōma, Fukushima"
+376,7,"Nihonmatsu, Fukushima"
+377,7,"Tamura, Fukushima"
+378,7,Minamisōma
+379,7,"Date, Fukushima"
+380,7,"Motomiya, Fukushima"
+381,7,"Koori, Fukushima"
+382,7,"Kunimi, Fukushima"
+383,7,"Kawamata, Fukushima"
+384,7,"Ōtama, Fukushima"
+385,7,"Kagamiishi, Fukushima"
+386,7,"Ten-ei, Fukushima"
+387,7,"Shimogō, Fukushima"
+388,7,"Hinoemata, Fukushima"
+389,7,"Tadami, Fukushima"
+390,7,Minamiaizu
+391,7,"Kitashiobara, Fukushima"
+392,7,"Nishiaizu, Fukushima"
+393,7,"Bandai, Fukushima"
+394,7,Inawashiro
+395,7,Aizubange
+396,7,"Yugawa, Fukushima"
+397,7,"Yanaizu, Fukushima"
+398,7,"Mishima, Fukushima"
+399,7,"Kaneyama, Fukushima"
+400,7,"Shōwa, Fukushima"
+401,7,Aizumisato
+402,7,"Nishigō, Fukushima"
+403,7,"Izumizaki, Fukushima"
+404,7,"Nakajima, Fukushima"
+405,7,"Yabuki, Fukushima"
+406,7,"Tanagura, Fukushima"
+407,7,"Yamatsuri, Fukushima"
+408,7,"Hanawa, Fukushima"
+409,7,"Samegawa, Fukushima"
+410,7,"Ishikawa, Fukushima"
+411,7,"Tamakawa, Fukushima"
+412,7,"Hirata, Fukushima"
+413,7,"Asakawa, Fukushima"
+414,7,"Furudono, Fukushima"
+415,7,"Miharu, Fukushima"
+416,7,"Ono, Fukushima"
+417,7,"Hirono, Fukushima"
+418,7,"Naraha, Fukushima"
+419,7,"Tomioka, Fukushima"
+420,7,"Kawauchi, Fukushima"
+421,7,"Ōkuma, Fukushima"
+422,7,"Futaba, Fukushima"
+423,7,"Namie, Fukushima"
+424,7,"Katsurao, Fukushima"
+425,7,"Shinchi, Fukushima"
+426,7,"Iitate, Fukushima"
+427,8,"Mito, Ibaraki"
+428,8,"Hitachi, Ibaraki"
+429,8,Tsuchiura
+430,8,"Koga, Ibaraki"
+431,8,"Ishioka, Ibaraki"
+432,8,"Yūki, Ibaraki"
+433,8,"Ryūgasaki, Ibaraki"
+434,8,"Shimotsuma, Ibaraki"
+435,8,Jōsō
+436,8,"Hitachiōta, Ibaraki"
+437,8,"Takahagi, Ibaraki"
+438,8,"Kitaibaraki, Ibaraki"
+439,8,"Kasama, Ibaraki"
+440,8,"Toride, Ibaraki"
+441,8,"Ushiku, Ibaraki"
+442,8,Tsukuba
+443,8,"Hitachinaka, Ibaraki"
+444,8,"Kashima, Ibaraki"
+445,8,"Itako, Ibaraki"
+446,8,"Moriya, Ibaraki"
+447,8,Hitachiōmiya
+448,8,"Naka, Ibaraki"
+449,8,Chikusei
+450,8,"Bandō, Ibaraki"
+451,8,Inashiki
+452,8,"Kasumigaura, Ibaraki"
+453,8,"Sakuragawa, Ibaraki"
+454,8,Kamisu
+455,8,Namegata
+456,8,"Hokota, Ibaraki"
+457,8,"Tsukubamirai, Ibaraki"
+458,8,Omitama
+459,8,"Ibaraki, Ibaraki"
+460,8,"Ōarai, Ibaraki"
+461,8,"Shirosato, Ibaraki"
+462,8,"Tōkai, Ibaraki"
+463,8,"Daigo, Ibaraki"
+464,8,"Miho, Ibaraki"
+465,8,"Ami, Ibaraki"
+466,8,"Kawachi, Ibaraki"
+467,8,"Yachiyo, Ibaraki"
+468,8,Goka
+469,8,"Sakai, Ibaraki"
+470,8,"Tone, Ibaraki"
+471,9,Utsunomiya
+472,9,"Ashikaga, Tochigi"
+473,9,Tochigi (city)
+474,9,"Sano, Tochigi"
+475,9,"Kanuma, Tochigi"
+476,9,Nikkō
+477,9,"Oyama, Tochigi"
+478,9,"Mooka, Tochigi"
+479,9,Ōtawara
+480,9,Yaita
+481,9,Nasushiobara
+482,9,"Sakura, Tochigi"
+483,9,Nasukarasuyama
+484,9,"Shimotsuke, Tochigi"
+485,9,"Kaminokawa, Tochigi"
+486,9,"Mashiko, Tochigi"
+487,9,"Motegi, Tochigi"
+488,9,"Ichikai, Tochigi"
+489,9,"Haga, Tochigi"
+490,9,"Mibu, Tochigi"
+491,9,"Nogi, Tochigi"
+492,9,"Shioya, Tochigi"
+493,9,"Takanezawa, Tochigi"
+494,9,"Nasu, Tochigi"
+495,9,"Nakagawa, Tochigi"
+496,10,Maebashi
+497,10,Takasaki
+498,10,"Kiryū, Gunma"
+499,10,Isesaki
+500,10,"Ōta, Gunma"
+501,10,"Numata, Gunma"
+502,10,"Tatebayashi, Gunma"
+503,10,"Shibukawa, Gunma"
+504,10,"Fujioka, Gunma"
+505,10,"Tomioka, Gunma"
+506,10,"Annaka, Gunma"
+507,10,"Midori, Gunma"
+508,10,"Shintō, Gunma"
+509,10,"Yoshioka, Gunma"
+510,10,"Ueno, Gunma"
+511,10,"Kanna, Gunma"
+512,10,"Shimonita, Gunma"
+513,10,"Nanmoku, Gunma"
+514,10,"Kanra, Gunma"
+515,10,"Nakanojō, Gunma"
+516,10,Naganohara
+517,10,Tsumagoi
+518,10,"Kusatsu, Gunma"
+519,10,"Takayama, Gunma"
+520,10,"Higashiagatsuma, Gunma"
+521,10,"Katashina, Gunma"
+522,10,"Kawaba, Gunma"
+523,10,"Shōwa, Gunma"
+524,10,"Minakami, Gunma"
+525,10,Tamamura
+526,10,"Itakura, Gunma"
+527,10,"Meiwa, Gunma"
+528,10,"Chiyoda, Gunma"
+529,10,"Ōizumi, Gunma"
+530,10,"Ōra, Gunma"
+531,11,Saitama (city)
+532,11,"Nishi-ku, Saitama"
+533,11,"Kita-ku, Saitama"
+534,11,"Ōmiya-ku, Saitama"
+535,11,"Minuma-ku, Saitama"
+536,11,"Chūō-ku, Saitama"
+537,11,"Sakura-ku, Saitama"
+538,11,"Urawa-ku, Saitama"
+539,11,"Minami-ku, Saitama"
+540,11,"Midori-ku, Saitama"
+541,11,"Iwatsuki-ku, Saitama"
+542,11,"Kawagoe, Saitama"
+543,11,Kumagaya
+544,11,"Kawaguchi, Saitama"
+545,11,Gyōda
+546,11,"Chichibu, Saitama"
+547,11,"Tokorozawa, Saitama"
+548,11,Hannō
+549,11,"Kazo, Saitama"
+550,11,"Honjō, Saitama"
+551,11,"Higashimatsuyama, Saitama"
+552,11,"Kasukabe, Saitama"
+553,11,Sayama
+554,11,"Hanyū, Saitama"
+555,11,Kōnosu
+556,11,"Fukaya, Saitama"
+557,11,Ageo
+558,11,Sōka
+559,11,Koshigaya
+560,11,"Warabi, Saitama"
+561,11,"Toda, Saitama"
+562,11,"Iruma, Saitama"
+563,11,"Asaka, Saitama"
+564,11,"Shiki, Saitama"
+565,11,"Wakō, Saitama"
+566,11,"Niiza, Saitama"
+567,11,"Okegawa, Saitama"
+568,11,"Kuki, Saitama"
+569,11,"Kitamoto, Saitama"
+570,11,"Yashio, Saitama"
+571,11,"Fujimi, Saitama"
+572,11,"Misato, Saitama (city)"
+573,11,"Hasuda, Saitama"
+574,11,"Sakado, Saitama"
+575,11,"Satte, Saitama"
+576,11,"Tsurugashima, Saitama"
+577,11,"Hidaka, Saitama"
+578,11,"Yoshikawa, Saitama"
+579,11,"Fujimino, Saitama"
+580,11,"Shiraoka, Saitama"
+581,11,"Ina, Saitama"
+582,11,"Miyoshi, Saitama"
+583,11,"Moroyama, Saitama"
+584,11,"Ogose, Saitama"
+585,11,"Namegawa, Saitama"
+586,11,"Ranzan, Saitama"
+587,11,"Ogawa, Saitama"
+588,11,"Kawajima, Saitama"
+589,11,"Yoshimi, Saitama"
+590,11,"Hatoyama, Saitama"
+591,11,"Tokigawa, Saitama"
+592,11,"Yokoze, Saitama"
+593,11,"Minano, Saitama"
+594,11,"Nagatoro, Saitama"
+595,11,"Ogano, Saitama"
+596,11,"Higashichichibu, Saitama"
+597,11,"Misato, Saitama (town)"
+598,11,"Kamikawa, Saitama"
+599,11,"Kamisato, Saitama"
+600,11,"Yorii, Saitama"
+601,11,"Miyashiro, Saitama"
+602,11,"Sugito, Saitama"
+603,11,"Matsubushi, Saitama"
+604,12,Chiba (city)
+605,12,"Chūō-ku, Chiba"
+606,12,Hanamigawa-ku
+607,12,Inage-ku
+608,12,Wakaba-ku
+609,12,"Midori-ku, Chiba"
+610,12,Mihama-ku
+611,12,Chōshi
+612,12,"Ichikawa, Chiba"
+613,12,Funabashi
+614,12,"Tateyama, Chiba"
+615,12,Kisarazu
+616,12,Matsudo
+617,12,"Noda, Chiba"
+618,12,Mobara
+619,12,"Narita, Chiba"
+620,12,"Sakura, Chiba"
+621,12,Tōgane
+622,12,"Asahi, Chiba"
+623,12,Narashino
+624,12,Kashiwa
+625,12,"Katsuura, Chiba"
+626,12,"Ichihara, Chiba"
+627,12,Nagareyama
+628,12,"Yachiyo, Chiba"
+629,12,"Abiko, Chiba"
+630,12,"Kamogawa, Chiba"
+631,12,Kamagaya
+632,12,Kimitsu
+633,12,Futtsu
+634,12,Urayasu
+635,12,Yotsukaidō
+636,12,Sodegaura
+637,12,Yachimata
+638,12,Inzai
+639,12,Shiroi
+640,12,Tomisato
+641,12,Minamibōsō
+642,12,Sōsa
+643,12,"Katori, Chiba"
+644,12,Sanmu
+645,12,Isumi
+646,12,Ōamishirasato
+647,12,Shisui
+648,12,"Sakae, Chiba"
+649,12,Kōzaki
+650,12,"Tako, Chiba"
+651,12,"Tōnoshō, Chiba"
+652,12,Kujūkuri
+653,12,"Shibayama, Chiba"
+654,12,Yokoshibahikari
+655,12,"Ichinomiya, Chiba"
+656,12,Mutsuzawa
+657,12,Chōsei
+658,12,Shirako
+659,12,"Nagara, Chiba"
+660,12,Chōnan
+661,12,"Ōtaki, Chiba"
+662,12,Onjuku
+663,12,Kyonan
+664,13,"Chiyoda, Tokyo"
+665,13,"Chūō, Tokyo"
+666,13,"Minato, Tokyo"
+667,13,Shinjuku
+668,13,Bunkyō
+669,13,Taitō
+670,13,"Sumida, Tokyo"
+671,13,Kōtō
+672,13,Shinagawa
+673,13,Meguro
+674,13,"Ōta, Tokyo"
+675,13,Setagaya
+676,13,Shibuya
+677,13,"Nakano, Tokyo"
+678,13,Suginami
+679,13,Toshima
+680,13,"Kita, Tokyo"
+681,13,"Arakawa, Tokyo"
+682,13,Itabashi
+683,13,Nerima
+684,13,"Adachi, Tokyo"
+685,13,Katsushika
+686,13,"Edogawa, Tokyo"
+687,13,Hachiōji
+688,13,"Tachikawa, Tokyo"
+689,13,"Musashino, Tokyo"
+690,13,"Mitaka, Tokyo"
+691,13,"Ōme, Tokyo"
+692,13,"Fuchū, Tokyo"
+693,13,"Akishima, Tokyo"
+694,13,Chōfu
+695,13,"Machida, Tokyo"
+696,13,"Koganei, Tokyo"
+697,13,"Kodaira, Tokyo"
+698,13,"Hino, Tokyo"
+699,13,"Higashimurayama, Tokyo"
+700,13,"Kokubunji, Tokyo"
+701,13,"Kunitachi, Tokyo"
+702,13,"Fussa, Tokyo"
+703,13,"Komae, Tokyo"
+704,13,"Higashiyamato, Tokyo"
+705,13,"Kiyose, Tokyo"
+706,13,"Higashikurume, Tokyo"
+707,13,"Musashimurayama, Tokyo"
+708,13,"Tama, Tokyo"
+709,13,Inagi
+710,13,"Hamura, Tokyo"
+711,13,"Akiruno, Tokyo"
+712,13,Nishitokyo
+713,13,"Mizuho, Tokyo"
+714,13,"Hinode, Tokyo"
+715,13,Hinohara
+716,13,"Okutama, Tokyo"
+717,13,"Ōshima, Tokyo"
+718,13,"To-shima, Tokyo"
+719,13,"Niijima, Tokyo"
+720,13,"Kōzushima, Tokyo"
+721,13,"Miyake, Tokyo"
+722,13,"Mikurajima, Tokyo"
+723,13,"Hachijō, Tokyo"
+724,13,"Aogashima, Tokyo"
+725,13,"Ogasawara, Tokyo"
+726,14,Yokohama
+727,14,"Tsurumi-ku, Yokohama"
+728,14,"Kanagawa-ku, Yokohama"
+729,14,"Nishi-ku, Yokohama"
+730,14,"Naka-ku, Yokohama"
+731,14,"Minami-ku, Yokohama"
+732,14,"Hodogaya-ku, Yokohama"
+733,14,"Isogo-ku, Yokohama"
+734,14,"Kanazawa-ku, Yokohama"
+735,14,"Kōhoku-ku, Yokohama"
+736,14,"Totsuka-ku, Yokohama"
+737,14,"Kōnan-ku, Yokohama"
+738,14,"Asahi-ku, Yokohama"
+739,14,"Midori-ku, Yokohama"
+740,14,"Seya-ku, Yokohama"
+741,14,"Sakae-ku, Yokohama"
+742,14,"Izumi-ku, Yokohama"
+743,14,"Aoba-ku, Yokohama"
+744,14,"Tsuzuki-ku, Yokohama"
+745,14,"Kawasaki, Kanagawa"
+746,14,"Kawasaki-ku, Kawasaki"
+747,14,"Saiwai-ku, Kawasaki"
+748,14,"Nakahara-ku, Kawasaki"
+749,14,"Takatsu-ku, Kawasaki"
+750,14,"Tama-ku, Kawasaki"
+751,14,"Miyamae-ku, Kawasaki"
+752,14,"Asao-ku, Kawasaki"
+753,14,Sagamihara
+754,14,"Midori-ku, Sagamihara"
+755,14,"Chūō-ku, Sagamihara"
+756,14,"Minami-ku, Sagamihara"
+757,14,Yokosuka
+758,14,Hiratsuka
+759,14,Kamakura
+760,14,"Fujisawa, Kanagawa"
+761,14,Odawara
+762,14,"Chigasaki, Kanagawa"
+763,14,"Zushi, Kanagawa"
+764,14,"Miura, Kanagawa"
+765,14,"Hadano, Kanagawa"
+766,14,Atsugi
+767,14,"Yamato, Kanagawa"
+768,14,"Isehara, Kanagawa"
+769,14,"Ebina, Kanagawa"
+770,14,"Zama, Kanagawa"
+771,14,"Minamiashigara, Kanagawa"
+772,14,"Ayase, Kanagawa"
+773,14,"Hayama, Kanagawa"
+774,14,Samukawa
+775,14,Ōiso
+776,14,"Ninomiya, Kanagawa"
+777,14,"Nakai, Kanagawa"
+778,14,"Ōi, Kanagawa"
+779,14,"Matsuda, Kanagawa"
+780,14,"Yamakita, Kanagawa"
+781,14,"Kaisei, Kanagawa"
+782,14,Hakone
+783,14,"Manazuru, Kanagawa"
+784,14,Yugawara
+785,14,"Aikawa, Kanagawa"
+786,14,"Kiyokawa, Kanagawa"
+787,15,Niigata (city)
+788,15,"Kita-ku, Niigata"
+789,15,"Higashi-ku, Niigata"
+790,15,"Chūō-ku, Niigata"
+791,15,"Kōnan-ku, Niigata"
+792,15,"Akiha-ku, Niigata"
+793,15,"Minami-ku, Niigata"
+794,15,"Nishi-ku, Niigata"
+795,15,"Nishikan-ku, Niigata"
+796,15,"Nagaoka, Niigata"
+797,15,"Sanjō, Niigata"
+798,15,"Kashiwazaki, Niigata"
+799,15,"Shibata, Niigata"
+800,15,"Ojiya, Niigata"
+801,15,"Kamo, Niigata"
+802,15,Tōkamachi
+803,15,Mitsuke
+804,15,"Murakami, Niigata"
+805,15,"Tsubame, Niigata"
+806,15,Itoigawa
+807,15,"Myōkō, Niigata"
+808,15,"Gosen, Niigata"
+809,15,"Jōetsu, Niigata"
+810,15,"Agano, Niigata"
+811,15,"Sado, Niigata"
+812,15,Uonuma
+813,15,Minamiuonuma
+814,15,Tainai
+815,15,"Seirō, Niigata"
+816,15,"Yahiko, Niigata"
+817,15,"Tagami, Niigata"
+818,15,"Aga, Niigata"
+819,15,Izumozaki
+820,15,"Yuzawa, Niigata"
+821,15,Tsunan
+822,15,Kariwa
+823,15,Sekikawa
+824,15,Awashimaura
+825,16,Toyama (city)
+826,16,"Takaoka, Toyama"
+827,16,"Uozu, Toyama"
+828,16,"Himi, Toyama"
+829,16,"Namerikawa, Toyama"
+830,16,"Kurobe, Toyama"
+831,16,"Tonami, Toyama"
+832,16,"Oyabe, Toyama"
+833,16,"Nanto, Toyama"
+834,16,Imizu
+835,16,Funahashi
+836,16,"Kamiichi, Toyama"
+837,16,"Tateyama, Toyama"
+838,16,Nyūzen
+839,16,"Asahi, Toyama"
+840,17,Kanazawa
+841,17,"Nanao, Ishikawa"
+842,17,"Komatsu, Ishikawa"
+843,17,"Wajima, Ishikawa"
+844,17,"Suzu, Ishikawa"
+845,17,"Kaga, Ishikawa"
+846,17,"Hakui, Ishikawa"
+847,17,"Kahoku, Ishikawa"
+848,17,"Hakusan, Ishikawa"
+849,17,"Nomi, Ishikawa"
+850,17,"Nonoichi, Ishikawa"
+851,17,"Kawakita, Ishikawa"
+852,17,"Tsubata, Ishikawa"
+853,17,"Uchinada, Ishikawa"
+854,17,"Shika, Ishikawa"
+855,17,"Hōdatsushimizu, Ishikawa"
+856,17,"Nakanoto, Ishikawa"
+857,17,"Anamizu, Ishikawa"
+858,17,"Noto, Ishikawa"
+859,18,Fukui (city)
+860,18,"Tsuruga, Fukui"
+861,18,"Obama, Fukui"
+862,18,"Ōno, Fukui"
+863,18,"Katsuyama, Fukui"
+864,18,"Sabae, Fukui"
+865,18,"Awara, Fukui"
+866,18,"Echizen, Fukui"
+867,18,"Sakai, Fukui"
+868,18,"Eiheiji, Fukui"
+869,18,"Ikeda, Fukui"
+870,18,"Minamiechizen, Fukui"
+871,18,"Echizen, Fukui (town)"
+872,18,"Mihama, Fukui"
+873,18,"Takahama, Fukui"
+874,18,"Ōi, Fukui"
+875,18,"Wakasa, Fukui"
+876,19,Kōfu
+877,19,Fujiyoshida
+878,19,"Tsuru, Yamanashi"
+879,19,"Yamanashi, Yamanashi"
+880,19,"Ōtsuki, Yamanashi"
+881,19,"Nirasaki, Yamanashi"
+882,19,"Minami-Alps, Yamanashi"
+883,19,"Hokuto, Yamanashi"
+884,19,"Kai, Yamanashi"
+885,19,Fuefuki
+886,19,Uenohara
+887,19,"Kōshū, Yamanashi"
+888,19,"Chūō, Yamanashi"
+889,19,Ichikawamisato
+890,19,"Hayakawa, Yamanashi"
+891,19,"Minobu, Yamanashi"
+892,19,"Nanbu, Yamanashi"
+893,19,"Fujikawa, Yamanashi"
+894,19,"Shōwa, Yamanashi"
+895,19,Dōshi
+896,19,Nishikatsura
+897,19,"Oshino, Yamanashi"
+898,19,Yamanakako
+899,19,"Narusawa, Yamanashi"
+900,19,Fujikawaguchiko
+901,19,Kosuge
+902,19,Tabayama
+903,20,Nagano (city)
+904,20,"Matsumoto, Nagano"
+905,20,"Ueda, Nagano"
+906,20,"Okaya, Nagano"
+907,20,"Iida, Nagano"
+908,20,"Suwa, Nagano"
+909,20,"Suzaka, Nagano"
+910,20,"Komoro, Nagano"
+911,20,"Ina, Nagano"
+912,20,"Komagane, Nagano"
+913,20,"Nakano, Nagano"
+914,20,"Ōmachi, Nagano"
+915,20,"Iiyama, Nagano"
+916,20,"Chino, Nagano"
+917,20,"Shiojiri, Nagano"
+918,20,"Saku, Nagano"
+919,20,"Chikuma, Nagano"
+920,20,"Tōmi, Nagano"
+921,20,Azumino
+922,20,"Koumi, Nagano"
+923,20,"Kawakami, Nagano"
+924,20,"Minamimaki, Nagano"
+925,20,"Minamiaiki, Nagano"
+926,20,Kitaaiki
+927,20,"Sakuho, Nagano"
+928,20,"Karuizawa, Nagano"
+929,20,"Miyota, Nagano"
+930,20,"Tateshina, Nagano"
+931,20,"Aoki, Nagano"
+932,20,"Nagawa, Nagano"
+933,20,Shimosuwa
+934,20,"Fujimi, Nagano"
+935,20,"Hara, Nagano"
+936,20,"Tatsuno, Nagano"
+937,20,"Minowa, Nagano"
+938,20,"Iijima, Nagano"
+939,20,Minamiminowa
+940,20,"Nakagawa, Nagano"
+941,20,Miyada
+942,20,"Matsukawa, Nagano (Shimoina)"
+943,20,"Takamori, Nagano"
+944,20,"Anan, Nagano"
+945,20,"Achi, Nagano"
+946,20,"Hiraya, Nagano"
+947,20,"Neba, Nagano"
+948,20,Shimojō
+949,20,Urugi
+950,20,"Tenryū, Nagano"
+951,20,"Yasuoka, Nagano"
+952,20,"Takagi, Nagano"
+953,20,"Toyooka, Nagano"
+954,20,"Ōshika, Nagano"
+955,20,Agematsu
+956,20,Nagiso
+957,20,"Kiso, Nagano (village)"
+958,20,"Ōtaki, Nagano"
+959,20,Ōkuwa
+960,20,"Kiso, Nagano (town)"
+961,20,"Omi, Nagano"
+962,20,Ikusaka
+963,20,"Yamagata, Nagano"
+964,20,"Asahi, Nagano"
+965,20,Chikuhoku
+966,20,"Ikeda, Nagano"
+967,20,"Matsukawa, Nagano (Kitaazumi)"
+968,20,Hakuba
+969,20,"Otari, Nagano"
+970,20,"Sakaki, Nagano"
+971,20,Obuse
+972,20,"Takayama, Nagano"
+973,20,"Yamanouchi, Nagano"
+974,20,Kijimadaira
+975,20,Nozawaonsen
+976,20,"Shinano, Nagano"
+977,20,"Ogawa, Nagano"
+978,20,Iizuna
+979,20,"Sakae, Nagano"
+980,21,Gifu
+981,21,Ōgaki
+982,21,"Takayama, Gifu"
+983,21,Tajimi
+984,21,"Seki, Gifu"
+985,21,Nakatsugawa
+986,21,"Mino, Gifu"
+987,21,"Mizunami, Gifu"
+988,21,"Hashima, Gifu"
+989,21,"Ena, Gifu"
+990,21,"Minokamo, Gifu"
+991,21,"Toki, Gifu"
+992,21,Kakamigahara
+993,21,"Kani, Gifu"
+994,21,"Yamagata, Gifu"
+995,21,"Mizuho, Gifu"
+996,21,"Hida, Gifu"
+997,21,"Motosu, Gifu"
+998,21,"Gujō, Gifu"
+999,21,"Gero, Gifu"
+1000,21,Kaizu
+1001,21,"Ginan, Gifu"
+1002,21,"Kasamatsu, Gifu"
+1003,21,"Yōrō, Gifu"
+1004,21,"Tarui, Gifu"
+1005,21,"Sekigahara, Gifu"
+1006,21,"Gōdo, Gifu"
+1007,21,"Wanouchi, Gifu"
+1008,21,"Anpachi, Gifu"
+1009,21,Ibigawa
+1010,21,"Ōno, Gifu"
+1011,21,"Ikeda, Gifu"
+1012,21,"Kitagata, Gifu"
+1013,21,"Sakahogi, Gifu"
+1014,21,"Tomika, Gifu"
+1015,21,"Kawabe, Gifu"
+1016,21,"Hichisō, Gifu"
+1017,21,"Yaotsu, Gifu"
+1018,21,"Shirakawa, Gifu (town)"
+1019,21,"Higashishirakawa, Gifu"
+1020,21,"Mitake, Gifu"
+1021,21,"Shirakawa, Gifu (village)"
+1022,22,Shizuoka (city)
+1023,22,"Aoi-ku, Shizuoka"
+1024,22,"Suruga-ku, Shizuoka"
+1025,22,"Shimizu-ku, Shizuoka"
+1026,22,Hamamatsu
+1027,22,Chūō-ku
+1028,22,
+1029,22,Tenryū Ward
+1030,22,Numazu
+1031,22,Atami
+1032,22,"Mishima, Shizuoka"
+1033,22,"Fujinomiya, Shizuoka"
+1034,22,"Itō, Shizuoka"
+1035,22,"Shimada, Shizuoka"
+1036,22,"Fuji, Shizuoka"
+1037,22,"Iwata, Shizuoka"
+1038,22,Yaizu
+1039,22,"Kakegawa, Shizuoka"
+1040,22,"Fujieda, Shizuoka"
+1041,22,"Gotemba, Shizuoka"
+1042,22,"Fukuroi, Shizuoka"
+1043,22,"Shimoda, Shizuoka"
+1044,22,"Susono, Shizuoka"
+1045,22,"Kosai, Shizuoka"
+1046,22,"Izu, Shizuoka"
+1047,22,Omaezaki
+1048,22,Kikugawa
+1049,22,Izunokuni
+1050,22,Makinohara
+1051,22,Higashiizu
+1052,22,"Kawazu, Shizuoka"
+1053,22,Minamiizu
+1054,22,"Matsuzaki, Shizuoka"
+1055,22,Nishiizu
+1056,22,Kannami
+1057,22,"Shimizu, Shizuoka"
+1058,22,Nagaizumi
+1059,22,"Oyama, Shizuoka"
+1060,22,"Yoshida, Shizuoka"
+1061,22,Kawanehon
+1062,22,"Mori, Shizuoka"
+1063,23,Nagoya
+1064,23,"Chikusa-ku, Nagoya"
+1065,23,"Higashi-ku, Nagoya"
+1066,23,"Kita-ku, Nagoya"
+1067,23,"Nishi-ku, Nagoya"
+1068,23,"Nakamura-ku, Nagoya"
+1069,23,"Naka-ku, Nagoya"
+1070,23,Shōwa-ku
+1071,23,"Mizuho-ku, Nagoya"
+1072,23,"Atsuta-ku, Nagoya"
+1073,23,"Nakagawa-ku, Nagoya"
+1074,23,"Minato-ku, Nagoya"
+1075,23,"Minami-ku, Nagoya"
+1076,23,"Moriyama-ku, Nagoya"
+1077,23,"Midori-ku, Nagoya"
+1078,23,"Meitō-ku, Nagoya"
+1079,23,Tenpaku-ku
+1080,23,Toyohashi
+1081,23,"Okazaki, Aichi"
+1082,23,"Ichinomiya, Aichi"
+1083,23,"Seto, Aichi"
+1084,23,"Handa, Aichi"
+1085,23,"Kasugai, Aichi"
+1086,23,"Toyokawa, Aichi"
+1087,23,"Tsushima, Aichi"
+1088,23,Hekinan
+1089,23,"Kariya, Aichi"
+1090,23,"Toyota, Aichi"
+1091,23,Anjō
+1092,23,Nishio
+1093,23,Gamagōri
+1094,23,"Inuyama, Aichi"
+1095,23,Tokoname
+1096,23,"Kōnan, Aichi"
+1097,23,Komaki
+1098,23,Inazawa
+1099,23,Shinshiro
+1100,23,"Tōkai, Aichi"
+1101,23,Ōbu
+1102,23,"Chita, Aichi"
+1103,23,Chiryū
+1104,23,Owariasahi
+1105,23,"Takahama, Aichi"
+1106,23,"Iwakura, Aichi"
+1107,23,Toyoake
+1108,23,"Nisshin, Aichi"
+1109,23,"Tahara, Aichi"
+1110,23,Aisai
+1111,23,Kiyosu
+1112,23,Kitanagoya
+1113,23,Yatomi
+1114,23,"Miyoshi, Aichi"
+1115,23,"Ama, Aichi"
+1116,23,Nagakute
+1117,23,"Tōgō, Aichi"
+1118,23,Toyoyama
+1119,23,Ōguchi
+1120,23,"Fusō, Aichi"
+1121,23,Ōharu
+1122,23,Kanie
+1123,23,Tobishima
+1124,23,"Agui, Aichi"
+1125,23,Higashiura
+1126,23,Minamichita
+1127,23,"Mihama, Aichi"
+1128,23,Taketoyo
+1129,23,"Kōta, Aichi"
+1130,23,"Shitara, Aichi"
+1131,23,"Tōei, Aichi"
+1132,23,Toyone
+1133,24,"Tsu, Mie"
+1134,24,Yokkaichi
+1135,24,"Ise, Mie"
+1136,24,Matsusaka
+1137,24,"Kuwana, Mie"
+1138,24,"Suzuka, Mie"
+1139,24,"Nabari, Mie"
+1140,24,Owase
+1141,24,"Kameyama, Mie"
+1142,24,"Toba, Mie"
+1143,24,"Kumano, Mie"
+1144,24,Inabe
+1145,24,"Shima, Mie"
+1146,24,"Iga, Mie"
+1147,24,Kisosaki
+1148,24,"Tōin, Mie"
+1149,24,Komono
+1150,24,"Asahi, Mie"
+1151,24,"Kawagoe, Mie"
+1152,24,"Taki, Mie"
+1153,24,"Meiwa, Mie"
+1154,24,Ōdai
+1155,24,"Tamaki, Mie"
+1156,24,Watarai
+1157,24,"Taiki, Mie"
+1158,24,"Minamiise, Mie"
+1159,24,"Kihoku, Mie"
+1160,24,"Mihama, Mie"
+1161,24,Kihō
+1162,25,Ōtsu
+1163,25,"Hikone, Shiga"
+1164,25,"Nagahama, Shiga"
+1165,25,Ōmihachiman
+1166,25,"Kusatsu, Shiga"
+1167,25,"Moriyama, Shiga"
+1168,25,"Rittō, Shiga"
+1169,25,"Kōka, Shiga"
+1170,25,"Yasu, Shiga"
+1171,25,"Konan, Shiga"
+1172,25,"Takashima, Shiga"
+1173,25,Higashiōmi
+1174,25,"Maibara, Shiga"
+1175,25,"Hino, Shiga"
+1176,25,"Ryūō, Shiga"
+1177,25,"Aishō, Shiga"
+1178,25,"Toyosato, Shiga"
+1179,25,"Kōra, Shiga"
+1180,25,"Taga, Shiga"
+1181,26,Kyoto
+1182,26,"Kita-ku, Kyoto"
+1183,26,"Kamigyō-ku, Kyoto"
+1184,26,"Sakyō-ku, Kyoto"
+1185,26,"Nakagyō-ku, Kyoto"
+1186,26,"Higashiyama-ku, Kyoto"
+1187,26,"Shimogyō-ku, Kyoto"
+1188,26,"Minami-ku, Kyoto"
+1189,26,"Ukyō-ku, Kyoto"
+1190,26,"Fushimi-ku, Kyoto"
+1191,26,"Yamashina-ku, Kyoto"
+1192,26,"Nishikyō-ku, Kyoto"
+1193,26,"Fukuchiyama, Kyoto"
+1194,26,Maizuru
+1195,26,"Ayabe, Kyoto"
+1196,26,Uji
+1197,26,"Miyazu, Kyoto"
+1198,26,"Kameoka, Kyoto"
+1199,26,"Jōyō, Kyoto"
+1200,26,Mukō
+1201,26,"Nagaokakyō, Kyoto"
+1202,26,Yawata
+1203,26,"Kyōtanabe, Kyoto"
+1204,26,Kyōtango
+1205,26,"Nantan, Kyoto"
+1206,26,"Kizugawa, Kyoto"
+1207,26,"Ōyamazaki, Kyoto"
+1208,26,"Kumiyama, Kyoto"
+1209,26,"Ide, Kyoto"
+1210,26,Ujitawara
+1211,26,"Kasagi, Kyoto"
+1212,26,Wazuka
+1213,26,"Seika, Kyoto"
+1214,26,"Minamiyamashiro, Kyoto"
+1215,26,"Kyōtamba, Kyoto"
+1216,26,"Ine, Kyoto"
+1217,26,"Yosano, Kyoto"
+1218,27,Osaka
+1219,27,"Miyakojima-ku, Osaka"
+1220,27,"Fukushima-ku, Osaka"
+1221,27,"Konohana-ku, Osaka"
+1222,27,"Nishi-ku, Osaka"
+1223,27,"Minato-ku, Osaka"
+1224,27,"Taishō-ku, Osaka"
+1225,27,"Tennōji-ku, Osaka"
+1226,27,"Naniwa-ku, Osaka"
+1227,27,"Nishiyodogawa-ku, Osaka"
+1228,27,"Higashiyodogawa-ku, Osaka"
+1229,27,"Higashinari-ku, Osaka"
+1230,27,"Ikuno-ku, Osaka"
+1231,27,"Asahi-ku, Osaka"
+1232,27,"Jōtō-ku, Osaka"
+1233,27,"Abeno-ku, Osaka"
+1234,27,"Sumiyoshi-ku, Osaka"
+1235,27,"Higashisumiyoshi-ku, Osaka"
+1236,27,"Nishinari-ku, Osaka"
+1237,27,"Yodogawa-ku, Osaka"
+1238,27,"Tsurumi-ku, Osaka"
+1239,27,"Suminoe-ku, Osaka"
+1240,27,"Hirano-ku, Osaka"
+1241,27,"Kita-ku, Osaka"
+1242,27,"Chūō-ku, Osaka"
+1243,27,Sakai
+1244,27,"Sakai-ku, Sakai"
+1245,27,"Naka-ku, Sakai"
+1246,27,"Higashi-ku, Sakai"
+1247,27,"Nishi-ku, Sakai"
+1248,27,"Minami-ku, Sakai"
+1249,27,"Kita-ku, Sakai"
+1250,27,"Mihara-ku, Sakai"
+1251,27,"Kishiwada, Osaka"
+1252,27,Toyonaka
+1253,27,"Ikeda, Osaka"
+1254,27,Suita
+1255,27,Izumiōtsu
+1256,27,Takatsuki
+1257,27,"Kaizuka, Osaka"
+1258,27,"Moriguchi, Osaka"
+1259,27,Hirakata
+1260,27,"Ibaraki, Osaka"
+1261,27,"Yao, Osaka"
+1262,27,Izumisano
+1263,27,Tondabayashi
+1264,27,"Neyagawa, Osaka"
+1265,27,Kawachinagano
+1266,27,Matsubara
+1267,27,"Daitō, Osaka"
+1268,27,"Izumi, Osaka"
+1269,27,Minoh
+1270,27,Kashiwara
+1271,27,Habikino
+1272,27,"Kadoma, Osaka"
+1273,27,"Settsu, Osaka"
+1274,27,"Takaishi, Osaka"
+1275,27,Fujiidera
+1276,27,Higashiōsaka
+1277,27,"Sennan, Osaka"
+1278,27,Shijōnawate
+1279,27,Katano
+1280,27,Ōsakasayama
+1281,27,"Hannan, Osaka"
+1282,27,"Shimamoto, Osaka"
+1283,27,"Toyono, Osaka"
+1284,27,"Nose, Osaka"
+1285,27,"Tadaoka, Osaka"
+1286,27,"Kumatori, Osaka"
+1287,27,"Tajiri, Osaka"
+1288,27,"Misaki, Osaka"
+1289,27,"Taishi, Osaka"
+1290,27,"Kanan, Osaka"
+1291,27,Chihayaakasaka
+1292,28,Kobe
+1293,28,"Higashinada-ku, Kobe"
+1294,28,"Nada-ku, Kobe"
+1295,28,"Hyōgo-ku, Kobe"
+1296,28,"Nagata-ku, Kobe"
+1297,28,"Suma-ku, Kobe"
+1298,28,"Tarumi-ku, Kobe"
+1299,28,"Kita-ku, Kobe"
+1300,28,"Chūō-ku, Kobe"
+1301,28,"Nishi-ku, Kobe"
+1302,28,Himeji
+1303,28,Amagasaki
+1304,28,"Akashi, Hyōgo"
+1305,28,Nishinomiya
+1306,28,"Sumoto, Hyōgo"
+1307,28,"Ashiya, Hyōgo"
+1308,28,Itami
+1309,28,"Aioi, Hyōgo"
+1310,28,"Toyooka, Hyōgo"
+1311,28,"Kakogawa, Hyōgo"
+1312,28,"Akō, Hyōgo"
+1313,28,"Nishiwaki, Hyōgo"
+1314,28,"Takarazuka, Hyōgo"
+1315,28,"Miki, Hyōgo"
+1316,28,"Takasago, Hyōgo"
+1317,28,"Kawanishi, Hyōgo"
+1318,28,"Ono, Hyōgo"
+1319,28,"Sanda, Hyōgo"
+1320,28,"Kasai, Hyōgo"
+1321,28,Tamba-Sasayama
+1322,28,"Yabu, Hyōgo"
+1323,28,"Tamba, Hyōgo"
+1324,28,Minamiawaji
+1325,28,"Asago, Hyōgo"
+1326,28,"Awaji, Hyōgo"
+1327,28,"Shisō, Hyōgo"
+1328,28,"Katō, Hyōgo"
+1329,28,"Tatsuno, Hyōgo"
+1330,28,"Inagawa, Hyōgo"
+1331,28,"Taka, Hyōgo"
+1332,28,"Inami, Hyōgo"
+1333,28,"Harima, Hyōgo"
+1334,28,"Ichikawa, Hyōgo"
+1335,28,"Fukusaki, Hyōgo"
+1336,28,"Kamikawa, Hyōgo"
+1337,28,"Taishi, Hyōgo"
+1338,28,"Kamigōri, Hyōgo"
+1339,28,"Sayō, Hyōgo"
+1340,28,"Kami, Hyōgo (Mikata)"
+1341,28,"Shin'onsen, Hyōgo"
+1342,29,Nara (city)
+1343,29,"Yamatotakada, Nara"
+1344,29,Yamatokōriyama
+1345,29,"Tenri, Nara"
+1346,29,"Kashihara, Nara"
+1347,29,"Sakurai, Nara"
+1348,29,"Gojō, Nara"
+1349,29,"Gose, Nara"
+1350,29,"Ikoma, Nara"
+1351,29,"Kashiba, Nara"
+1352,29,"Katsuragi, Nara"
+1353,29,"Uda, Nara"
+1354,29,Yamazoe
+1355,29,"Heguri, Nara"
+1356,29,"Sangō, Nara"
+1357,29,"Ikaruga, Nara"
+1358,29,"Ando, Nara"
+1359,29,"Kawanishi, Nara"
+1360,29,"Miyake, Nara"
+1361,29,"Tawaramoto, Nara"
+1362,29,"Soni, Nara"
+1363,29,"Mitsue, Nara"
+1364,29,"Takatori, Nara"
+1365,29,"Asuka, Nara"
+1366,29,"Kanmaki, Nara"
+1367,29,"Ōji, Nara"
+1368,29,"Kōryō, Nara"
+1369,29,"Kawai, Nara"
+1370,29,"Yoshino, Nara"
+1371,29,"Ōyodo, Nara"
+1372,29,"Shimoichi, Nara"
+1373,29,"Kurotaki, Nara"
+1374,29,"Tenkawa, Nara"
+1375,29,"Nosegawa, Nara"
+1376,29,Totsukawa
+1377,29,"Shimokitayama, Nara"
+1378,29,Kamikitayama
+1379,29,"Kawakami, Nara"
+1380,29,"Higashiyoshino, Nara"
+1381,30,Wakayama (city)
+1382,30,"Kainan, Wakayama"
+1383,30,"Hashimoto, Wakayama"
+1384,30,"Arida, Wakayama"
+1385,30,"Gobō, Wakayama"
+1386,30,"Tanabe, Wakayama"
+1387,30,"Shingū, Wakayama"
+1388,30,"Kinokawa, Wakayama"
+1389,30,"Iwade, Wakayama"
+1390,30,"Kimino, Wakayama"
+1391,30,"Katsuragi, Wakayama"
+1392,30,Kudoyama
+1393,30,"Kōya, Wakayama"
+1394,30,"Yuasa, Wakayama"
+1395,30,"Hirogawa, Wakayama"
+1396,30,"Aridagawa, Wakayama"
+1397,30,"Mihama, Wakayama"
+1398,30,"Hidaka, Wakayama"
+1399,30,"Yura, Wakayama"
+1400,30,"Inami, Wakayama"
+1401,30,"Minabe, Wakayama"
+1402,30,"Hidakagawa, Wakayama"
+1403,30,"Shirahama, Wakayama"
+1404,30,"Kamitonda, Wakayama"
+1405,30,"Susami, Wakayama"
+1406,30,Nachikatsuura
+1407,30,"Taiji, Wakayama"
+1408,30,"Kozagawa, Wakayama"
+1409,30,"Kitayama, Wakayama"
+1410,30,"Kushimoto, Wakayama"
+1411,31,Tottori (city)
+1412,31,Yonago
+1413,31,"Kurayoshi, Tottori"
+1414,31,"Sakaiminato, Tottori"
+1415,31,"Iwami, Tottori"
+1416,31,"Wakasa, Tottori"
+1417,31,"Chizu, Tottori"
+1418,31,Yazu
+1419,31,"Misasa, Tottori"
+1420,31,"Yurihama, Tottori"
+1421,31,"Kotoura, Tottori"
+1422,31,"Hokuei, Tottori"
+1423,31,"Hiezu, Tottori"
+1424,31,"Daisen, Tottori"
+1425,31,"Nanbu, Tottori"
+1426,31,"Hōki, Tottori"
+1427,31,"Nichinan, Tottori"
+1428,31,"Hino, Tottori"
+1429,31,"Kōfu, Tottori"
+1430,32,Matsue
+1431,32,"Hamada, Shimane"
+1432,32,"Izumo, Shimane"
+1433,32,"Masuda, Shimane"
+1434,32,"Ōda, Shimane"
+1435,32,"Yasugi, Shimane"
+1436,32,"Gōtsu, Shimane"
+1437,32,Unnan
+1438,32,Okuizumo
+1439,32,"Iinan, Shimane"
+1440,32,"Kawamoto, Shimane"
+1441,32,"Misato, Shimane"
+1442,32,"Ōnan, Shimane"
+1443,32,"Tsuwano, Shimane"
+1444,32,"Yoshika, Shimane"
+1445,32,"Ama, Shimane"
+1446,32,"Nishinoshima, Shimane"
+1447,32,"Chibu, Shimane"
+1448,32,"Okinoshima, Shimane"
+1449,33,Okayama
+1450,33,"Kita-ku, Okayama"
+1451,33,"Naka-ku, Okayama"
+1452,33,"Higashi-ku, Okayama"
+1453,33,"Minami-ku, Okayama"
+1454,33,Kurashiki
+1455,33,Tsuyama
+1456,33,Tamano
+1457,33,Kasaoka
+1458,33,Ibara
+1459,33,Sōja
+1460,33,"Takahashi, Okayama"
+1461,33,Niimi
+1462,33,"Bizen, Okayama"
+1463,33,"Setouchi, Okayama"
+1464,33,Akaiwa
+1465,33,Maniwa
+1466,33,"Mimasaka, Okayama"
+1467,33,Asakuchi
+1468,33,"Wake, Okayama"
+1469,33,Hayashima
+1470,33,Satoshō
+1471,33,"Yakage, Okayama"
+1472,33,"Shinjō, Okayama"
+1473,33,Kagamino
+1474,33,Shōō
+1475,33,"Nagi, Okayama"
+1476,33,Nishiawakura
+1477,33,Kumenan
+1478,33,"Misaki, Okayama"
+1479,33,Kibichūō
+1480,34,Hiroshima
+1481,34,"Naka-ku, Hiroshima"
+1482,34,"Higashi-ku, Hiroshima"
+1483,34,"Minami-ku, Hiroshima"
+1484,34,"Nishi-ku, Hiroshima"
+1485,34,"Asaminami-ku, Hiroshima"
+1486,34,"Asakita-ku, Hiroshima"
+1487,34,"Aki-ku, Hiroshima"
+1488,34,"Saeki-ku, Hiroshima"
+1489,34,"Kure, Hiroshima"
+1490,34,"Takehara, Hiroshima"
+1491,34,"Mihara, Hiroshima"
+1492,34,Onomichi
+1493,34,"Fukuyama, Hiroshima"
+1494,34,"Fuchū, Hiroshima"
+1495,34,"Miyoshi, Hiroshima"
+1496,34,"Shōbara, Hiroshima"
+1497,34,"Ōtake, Hiroshima"
+1498,34,Higashihiroshima
+1499,34,Hatsukaichi
+1500,34,"Akitakata, Hiroshima"
+1501,34,"Etajima, Hiroshima"
+1502,34,"Fuchū, Hiroshima (town)"
+1503,34,"Kaita, Hiroshima"
+1504,34,"Kumano, Hiroshima"
+1505,34,"Saka, Hiroshima"
+1506,34,"Akiōta, Hiroshima"
+1507,34,"Kitahiroshima, Hiroshima"
+1508,34,"Ōsakikamijima, Hiroshima"
+1509,34,"Sera, Hiroshima"
+1510,34,"Jinsekikōgen, Hiroshima"
+1511,35,Shimonoseki
+1512,35,"Ube, Yamaguchi"
+1513,35,Yamaguchi (city)
+1514,35,"Hagi, Yamaguchi"
+1515,35,Hōfu
+1516,35,Kudamatsu
+1517,35,Iwakuni
+1518,35,"Hikari, Yamaguchi"
+1519,35,"Nagato, Yamaguchi"
+1520,35,"Yanai, Yamaguchi"
+1521,35,"Mine, Yamaguchi"
+1522,35,Shūnan
+1523,35,San'yō-Onoda
+1524,35,Suō-Ōshima
+1525,35,"Waki, Yamaguchi"
+1526,35,Kaminoseki
+1527,35,Tabuse
+1528,35,Hirao
+1529,35,"Abu, Yamaguchi"
+1530,36,Tokushima (city)
+1531,36,"Naruto, Tokushima"
+1532,36,"Komatsushima, Tokushima"
+1533,36,"Anan, Tokushima"
+1534,36,"Yoshinogawa, Tokushima"
+1535,36,"Awa, Tokushima"
+1536,36,"Mima, Tokushima"
+1537,36,"Miyoshi, Tokushima"
+1538,36,"Katsuura, Tokushima"
+1539,36,"Kamikatsu, Tokushima"
+1540,36,"Sanagōchi, Tokushima"
+1541,36,"Ishii, Tokushima"
+1542,36,"Kamiyama, Tokushima"
+1543,36,"Naka, Tokushima"
+1544,36,"Mugi, Tokushima"
+1545,36,"Minami, Tokushima"
+1546,36,"Kaiyō, Tokushima"
+1547,36,"Matsushige, Tokushima"
+1548,36,"Kitajima, Tokushima"
+1549,36,"Aizumi, Tokushima"
+1550,36,"Itano, Tokushima"
+1551,36,"Kamiita, Tokushima"
+1552,36,"Tsurugi, Tokushima"
+1553,36,Higashimiyoshi
+1554,37,Takamatsu
+1555,37,"Marugame, Kagawa"
+1556,37,"Sakaide, Kagawa"
+1557,37,"Zentsūji, Kagawa"
+1558,37,"Kan'onji, Kagawa"
+1559,37,"Sanuki, Kagawa"
+1560,37,"Higashikagawa, Kagawa"
+1561,37,"Mitoyo, Kagawa"
+1562,37,"Tonoshō, Kagawa"
+1563,37,"Shōdoshima, Kagawa"
+1564,37,"Miki, Kagawa"
+1565,37,"Naoshima, Kagawa"
+1566,37,Utazu
+1567,37,"Ayagawa, Kagawa"
+1568,37,"Kotohira, Kagawa"
+1569,37,"Tadotsu, Kagawa"
+1570,37,"Mannō, Kagawa"
+1571,38,Matsuyama
+1572,38,"Imabari, Ehime"
+1573,38,"Uwajima, Ehime"
+1574,38,Yawatahama
+1575,38,Niihama
+1576,38,"Saijō, Ehime"
+1577,38,"Ōzu, Ehime"
+1578,38,"Iyo, Ehime"
+1579,38,Shikokuchūō
+1580,38,"Seiyo, Ehime"
+1581,38,"Tōon, Ehime"
+1582,38,"Kamijima, Ehime"
+1583,38,"Kumakōgen, Ehime"
+1584,38,"Masaki, Ehime"
+1585,38,"Tobe, Ehime"
+1586,38,"Uchiko, Ehime"
+1587,38,Ikata
+1588,38,"Matsuno, Ehime"
+1589,38,"Kihoku, Ehime"
+1590,38,"Ainan, Ehime"
+1591,39,"Kōchi, Kōchi"
+1592,39,"Muroto, Kōchi"
+1593,39,"Aki, Kōchi"
+1594,39,"Nankoku, Kōchi"
+1595,39,"Tosa, Kōchi"
+1596,39,"Susaki, Kōchi"
+1597,39,"Sukumo, Kōchi"
+1598,39,"Tosashimizu, Kōchi"
+1599,39,"Shimanto, Kōchi (city)"
+1600,39,"Kōnan, Kōchi"
+1601,39,"Kami, Kōchi"
+1602,39,"Tōyō, Kōchi"
+1603,39,"Nahari, Kōchi"
+1604,39,"Tano, Kōchi"
+1605,39,"Yasuda, Kōchi"
+1606,39,"Kitagawa, Kōchi"
+1607,39,"Umaji, Kōchi"
+1608,39,"Geisei, Kōchi"
+1609,39,"Motoyama, Kōchi"
+1610,39,"Ōtoyo, Kōchi"
+1611,39,"Tosa, Kōchi (town)"
+1612,39,"Ōkawa, Kōchi"
+1613,39,"Ino, Kōchi"
+1614,39,Niyodogawa
+1615,39,Nakatosa
+1616,39,"Sakawa, Kōchi"
+1617,39,"Ochi, Kōchi"
+1618,39,Yusuhara
+1619,39,"Hidaka, Kōchi"
+1620,39,"Tsuno, Kōchi"
+1621,39,"Shimanto, Kōchi (town)"
+1622,39,"Ōtsuki, Kōchi"
+1623,39,"Mihara, Kōchi"
+1624,39,"Kuroshio, Kōchi"
+1625,40,Kitakyushu
+1626,40,"Moji-ku, Kitakyūshū"
+1627,40,"Wakamatsu-ku, Kitakyūshū"
+1628,40,"Tobata-ku, Kitakyūshū"
+1629,40,"Kokurakita-ku, Kitakyūshū"
+1630,40,"Kokuraminami-ku, Kitakyūshū"
+1631,40,"Yahatahigashi-ku, Kitakyūshū"
+1632,40,"Yahatanishi-ku, Kitakyūshū"
+1633,40,Fukuoka
+1634,40,"Higashi-ku, Fukuoka"
+1635,40,"Hakata-ku, Fukuoka"
+1636,40,"Chūō-ku, Fukuoka"
+1637,40,"Minami-ku, Fukuoka"
+1638,40,"Nishi-ku, Fukuoka"
+1639,40,"Jōnan-ku, Fukuoka"
+1640,40,"Sawara-ku, Fukuoka"
+1641,40,"Ōmuta, Fukuoka"
+1642,40,Kurume
+1643,40,"Nōgata, Fukuoka"
+1644,40,"Iizuka, Fukuoka"
+1645,40,"Tagawa, Fukuoka"
+1646,40,"Yanagawa, Fukuoka"
+1647,40,Yame
+1648,40,"Chikugo, Fukuoka"
+1649,40,"Ōkawa, Fukuoka"
+1650,40,"Yukuhashi, Fukuoka"
+1651,40,"Buzen, Fukuoka"
+1652,40,"Nakama, Fukuoka"
+1653,40,"Ogōri, Fukuoka"
+1654,40,"Chikushino, Fukuoka"
+1655,40,"Kasuga, Fukuoka"
+1656,40,Ōnojō
+1657,40,"Munakata, Fukuoka"
+1658,40,"Dazaifu, Fukuoka"
+1659,40,"Koga, Fukuoka"
+1660,40,"Fukutsu, Fukuoka"
+1661,40,"Ukiha, Fukuoka"
+1662,40,Miyawaka
+1663,40,"Kama, Fukuoka"
+1664,40,"Asakura, Fukuoka"
+1665,40,"Miyama, Fukuoka"
+1666,40,"Itoshima, Fukuoka"
+1667,40,"Nakagawa, Fukuoka"
+1668,40,"Umi, Fukuoka"
+1669,40,"Sasaguri, Fukuoka"
+1670,40,"Shime, Fukuoka"
+1671,40,"Sue, Fukuoka"
+1672,40,"Shingū, Fukuoka"
+1673,40,"Hisayama, Fukuoka"
+1674,40,"Kasuya, Fukuoka"
+1675,40,"Ashiya, Fukuoka"
+1676,40,"Mizumaki, Fukuoka"
+1677,40,"Okagaki, Fukuoka"
+1678,40,"Onga, Fukuoka"
+1679,40,"Kotake, Fukuoka"
+1680,40,"Kurate, Fukuoka"
+1681,40,"Keisen, Fukuoka"
+1682,40,"Chikuzen, Fukuoka"
+1683,40,"Tōhō, Fukuoka"
+1684,40,"Tachiarai, Fukuoka"
+1685,40,"Ōki, Fukuoka"
+1686,40,"Hirokawa, Fukuoka"
+1687,40,"Kawara, Fukuoka"
+1688,40,"Soeda, Fukuoka"
+1689,40,"Itoda, Fukuoka"
+1690,40,"Kawasaki, Fukuoka"
+1691,40,"Ōtō, Fukuoka"
+1692,40,"Aka, Fukuoka"
+1693,40,"Fukuchi, Fukuoka"
+1694,40,"Kanda, Fukuoka"
+1695,40,"Miyako, Fukuoka"
+1696,40,"Yoshitomi, Fukuoka"
+1697,40,"Kōge, Fukuoka"
+1698,40,"Chikujō, Fukuoka"
+1699,41,Saga (city)
+1700,41,"Karatsu, Saga"
+1701,41,"Tosu, Saga"
+1702,41,"Taku, Saga"
+1703,41,"Imari, Saga"
+1704,41,"Takeo, Saga"
+1705,41,"Kashima, Saga"
+1706,41,"Ogi, Saga"
+1707,41,"Ureshino, Saga"
+1708,41,"Kanzaki, Saga"
+1709,41,"Yoshinogari, Saga"
+1710,41,"Kiyama, Saga"
+1711,41,"Kamimine, Saga"
+1712,41,"Miyaki, Saga"
+1713,41,"Genkai, Saga"
+1714,41,"Arita, Saga"
+1715,41,"Ōmachi, Saga"
+1716,41,"Kōhoku, Saga"
+1717,41,"Shiroishi, Saga"
+1718,41,"Tara, Saga"
+1719,42,Nagasaki
+1720,42,Sasebo
+1721,42,"Shimabara, Nagasaki"
+1722,42,"Isahaya, Nagasaki"
+1723,42,"Ōmura, Nagasaki"
+1724,42,"Hirado, Nagasaki"
+1725,42,"Matsuura, Nagasaki"
+1726,42,"Tsushima, Nagasaki"
+1727,42,"Iki, Nagasaki"
+1728,42,"Gotō, Nagasaki"
+1729,42,"Saikai, Nagasaki"
+1730,42,"Unzen, Nagasaki"
+1731,42,Minamishimabara
+1732,42,"Nagayo, Nagasaki"
+1733,42,"Togitsu, Nagasaki"
+1734,42,"Higashisonogi, Nagasaki"
+1735,42,"Kawatana, Nagasaki"
+1736,42,"Hasami, Nagasaki"
+1737,42,"Ojika, Nagasaki"
+1738,42,"Saza, Nagasaki"
+1739,42,Shin-Kamigotō
+1740,43,Kumamoto
+1741,43,"Chūō-ku, Kumamoto"
+1742,43,"Higashi-ku, Kumamoto"
+1743,43,"Nishi-ku, Kumamoto"
+1744,43,"Minami-ku, Kumamoto"
+1745,43,"Kita-ku, Kumamoto"
+1746,43,Yatsushiro
+1747,43,"Hitoyoshi, Kumamoto"
+1748,43,"Arao, Kumamoto"
+1749,43,"Minamata, Kumamoto"
+1750,43,"Tamana, Kumamoto"
+1751,43,"Yamaga, Kumamoto"
+1752,43,"Kikuchi, Kumamoto"
+1753,43,"Uto, Kumamoto"
+1754,43,Kami-Amakusa
+1755,43,"Uki, Kumamoto"
+1756,43,"Aso, Kumamoto"
+1757,43,"Amakusa, Kumamoto"
+1758,43,"Kōshi, Kumamoto"
+1759,43,"Misato, Kumamoto"
+1760,43,"Gyokutō, Kumamoto"
+1761,43,"Nankan, Kumamoto"
+1762,43,"Nagasu, Kumamoto"
+1763,43,"Nagomi, Kumamoto"
+1764,43,"Ōzu, Kumamoto"
+1765,43,"Kikuyō, Kumamoto"
+1766,43,"Minamioguni, Kumamoto"
+1767,43,"Oguni, Kumamoto"
+1768,43,"Ubuyama, Kumamoto"
+1769,43,"Takamori, Kumamoto"
+1770,43,"Nishihara, Kumamoto"
+1771,43,"Minamiaso, Kumamoto"
+1772,43,"Mifune, Kumamoto"
+1773,43,"Kashima, Kumamoto"
+1774,43,"Mashiki, Kumamoto"
+1775,43,"Kōsa, Kumamoto"
+1776,43,"Yamato, Kumamoto"
+1777,43,"Hikawa, Kumamoto"
+1778,43,"Ashikita, Kumamoto"
+1779,43,"Tsunagi, Kumamoto"
+1780,43,"Nishiki, Kumamoto"
+1781,43,"Taragi, Kumamoto"
+1782,43,"Yunomae, Kumamoto"
+1783,43,"Mizukami, Kumamoto"
+1784,43,"Sagara, Kumamoto"
+1785,43,"Itsuki, Kumamoto"
+1786,43,"Yamae, Kumamoto"
+1787,43,"Kuma, Kumamoto"
+1788,43,"Asagiri, Kumamoto"
+1789,43,"Reihoku, Kumamoto"
+1790,44,Ōita (city)
+1791,44,Beppu
+1792,44,"Nakatsu, Ōita"
+1793,44,"Hita, Ōita"
+1794,44,"Saiki, Ōita"
+1795,44,"Usuki, Ōita"
+1796,44,"Tsukumi, Ōita"
+1797,44,"Taketa, Ōita"
+1798,44,"Bungotakada, Ōita"
+1799,44,"Kitsuki, Ōita"
+1800,44,"Usa, Ōita"
+1801,44,Bungo-Ōno
+1802,44,Yufu
+1803,44,Kunisaki
+1804,44,"Himeshima, Ōita"
+1805,44,Hiji
+1806,44,"Kokonoe, Ōita"
+1807,44,"Kusu, Ōita"
+1808,45,Miyazaki (city)
+1809,45,Miyakonojō
+1810,45,Nobeoka
+1811,45,"Nichinan, Miyazaki"
+1812,45,"Kobayashi, Miyazaki"
+1813,45,"Hyūga, Miyazaki"
+1814,45,"Kushima, Miyazaki"
+1815,45,"Saito, Miyazaki"
+1816,45,"Ebino, Miyazaki"
+1817,45,"Mimata, Miyazaki"
+1818,45,"Takaharu, Miyazaki"
+1819,45,"Kunitomi, Miyazaki"
+1820,45,"Aya, Miyazaki"
+1821,45,"Takanabe, Miyazaki"
+1822,45,"Shintomi, Miyazaki"
+1823,45,"Nishimera, Miyazaki"
+1824,45,"Kijō, Miyazaki"
+1825,45,"Kawaminami, Miyazaki"
+1826,45,"Tsuno, Miyazaki"
+1827,45,"Kadogawa, Miyazaki"
+1828,45,"Morotsuka, Miyazaki"
+1829,45,"Shiiba, Miyazaki"
+1830,45,"Misato, Miyazaki"
+1831,45,"Takachiho, Miyazaki"
+1832,45,"Hinokage, Miyazaki"
+1833,45,"Gokase, Miyazaki"
+1834,46,Kagoshima
+1835,46,"Kanoya, Kagoshima"
+1836,46,"Makurazaki, Kagoshima"
+1837,46,"Akune, Kagoshima"
+1838,46,"Izumi, Kagoshima"
+1839,46,"Ibusuki, Kagoshima"
+1840,46,"Nishinoomote, Kagoshima"
+1841,46,"Tarumizu, Kagoshima"
+1842,46,"Satsumasendai, Kagoshima"
+1843,46,"Hioki, Kagoshima"
+1844,46,"Soo, Kagoshima"
+1845,46,"Kirishima, Kagoshima"
+1846,46,Ichikikushikino
+1847,46,Minamisatsuma
+1848,46,"Shibushi, Kagoshima"
+1849,46,"Amami, Kagoshima"
+1850,46,Minamikyūshū
+1851,46,"Isa, Kagoshima"
+1852,46,"Aira, Kagoshima"
+1853,46,"Mishima, Kagoshima"
+1854,46,"Toshima, Kagoshima"
+1855,46,"Satsuma, Kagoshima"
+1856,46,"Nagashima, Kagoshima"
+1857,46,"Yūsui, Kagoshima"
+1858,46,"Ōsaki, Kagoshima"
+1859,46,"Higashikushira, Kagoshima"
+1860,46,"Kinkō, Kagoshima"
+1861,46,"Minamiōsumi, Kagoshima"
+1862,46,"Kimotsuki, Kagoshima"
+1863,46,"Nakatane, Kagoshima"
+1864,46,"Minamitane, Kagoshima"
+1865,46,"Yakushima, Kagoshima"
+1866,46,"Yamato, Kagoshima"
+1867,46,Uken
+1868,46,"Setouchi, Kagoshima"
+1869,46,"Tatsugō, Kagoshima"
+1870,46,"Kikai, Kagoshima"
+1871,46,"Tokunoshima, Kagoshima"
+1872,46,"Amagi, Kagoshima"
+1873,46,"Isen, Kagoshima"
+1874,46,"Wadomari, Kagoshima"
+1875,46,"China, Kagoshima"
+1876,46,"Yoron, Kagoshima"
+1877,47,Naha
+1878,47,"Ginowan, Okinawa"
+1879,47,"Ishigaki, Okinawa"
+1880,47,"Urasoe, Okinawa"
+1881,47,Nago
+1882,47,"Itoman, Okinawa"
+1883,47,Okinawa (city)
+1884,47,"Tomigusuku, Okinawa"
+1885,47,Uruma
+1886,47,"Miyakojima, Okinawa"
+1887,47,Nanjō
+1888,47,"Kunigami, Okinawa"
+1889,47,Ōgimi
+1890,47,"Higashi, Okinawa"
+1891,47,"Nakijin, Okinawa"
+1892,47,"Motobu, Okinawa"
+1893,47,"Onna, Okinawa"
+1894,47,"Ginoza, Okinawa"
+1895,47,"Kin, Okinawa"
+1896,47,"Ie, Okinawa"
+1897,47,Yomitan
+1898,47,"Kadena, Okinawa"
+1899,47,"Chatan, Okinawa"
+1900,47,"Kitanakagusuku, Okinawa"
+1901,47,"Nakagusuku, Okinawa"
+1902,47,"Nishihara, Okinawa"
+1903,47,"Yonabaru, Okinawa"
+1904,47,"Haebaru, Okinawa"
+1905,47,"Tokashiki, Okinawa"
+1906,47,"Zamami, Okinawa"
+1907,47,"Aguni, Okinawa"
+1908,47,"Tonaki, Okinawa"
+1909,47,"Minamidaitō, Okinawa"
+1910,47,"Kitadaitō, Okinawa"
+1911,47,"Iheya, Okinawa"
+1912,47,"Izena, Okinawa"
+1913,47,"Kumejima, Okinawa"
+1914,47,"Yaese, Okinawa"
+1915,47,"Tarama, Okinawa"
+1916,47,"Taketomi, Okinawa"
+1917,47,"Yonaguni, Okinawa"
