@@ -1,0 +1,47 @@
+body {
+    background-color:lightblue;
+}
+h1{
+    color: red;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 400%;
+    text-align: center;
+    text-decoration: wavy underline;
+}
+p{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:150%;
+    text-align: center;
+    text-decoration:overline underline;
+}
+h2{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif ;
+    font-size: 125%;
+    text-align: left;
+}
+h3{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif ;
+    font-size: 100%;
+    text-align: left;
+}
+h4{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif ;
+    font-size: 150%;
+    text-align: center;
+}
+h5{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif ;
+    font-size: 150%;
+    text-align: center;
+}
+h6{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif ;
+    font-size: 150%;
+    text-align: center;
+}
