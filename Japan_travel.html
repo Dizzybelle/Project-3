@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- This section of code is from the leaflet-challenge starter code -->
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Japan Travel</title>
+
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+    crossorigin="" />
+
+  <!-- Our CSS -->
+  <link rel="stylesheet" type="text/css" href="static/css/style.css">
+</head>
+
+<body>
+    <div class="page-title">
+        <div class="title">
+            <h1>Thinking About Moving to Japan?</h1>
+            <p>Use the information below to help you decide where in Japan you want to move</p>
+          </div>
+        </div>
+    </div>
+    <!-- The section of code for the dropdown menu is from the belly-button-challenge starter code -->
+    <div class="row">
+        <div class="col-md-2">
+          <div class="well">
+            <h2>Select Prefecture for More Info</h2>
+            <select id="selDataset" onchange="optionChanged(this.value)"></select>
+          </div>
+          <div class="panel panel-primary">
+            <div class="panel-heading">
+              <h3 class="panel-title">Prefecture Info</h3>
+            </div>
+            <div id="sample-metadata" class="panel-body"></div>
+          </div>
+        </div>
+        <div class="col-md-5">
+            <h4>Life Expectancy by Prefecture</h4>
+            <div id="bar-life-exp"></div>
+        </div>
+        <div class="col-md-5">
+            <h5>Population by Prefecture</h5>
+            <div id="bar-pop"></div>
+        </div>
+    </div>
+    <div class="map">
+        <h6>Click on a Map Pin for More Info</h6>
+        <div id="map">
+    </div>
+
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+        integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+        crossorigin=""></script>
+    <!-- D3 JavaScript -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <!-- plotly JavaScript -->
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <!-- Connection to JavaScript -->
+    <script type="text/javascript" src="static/js/app.js"></script>
+</body>
+</html>
