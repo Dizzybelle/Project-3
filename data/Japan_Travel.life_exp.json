@@ -1,0 +1,423 @@
+[{
+  "_id": {
+    "$oid": "65b844df03221086de29deaf"
+  },
+  "": 0,
+  "pref_id": 23,
+  "Prefecture": "Aichi",
+  "Life_expectancy": 84.65
+},
+{
+  "_id": {
+    "$oid": "65b844df03221086de29deb0"
+  },
+  "": 1,
+  "pref_id": 5,
+  "Prefecture": "Akita",
+  "Life_expectancy": 83.79
+},
+{
+  "_id": {
+    "$oid": "65b844df03221086de29deb1"
+  },
+  "": 2,
+  "pref_id": 2,
+  "Prefecture": "Aomori",
+  "Life_expectancy": 82.8
+},
+{
+  "_id": {
+    "$oid": "65b844df03221086de29deb2"
+  },
+  "": 3,
+  "pref_id": 12,
+  "Prefecture": "Chiba",
+  "Life_expectancy": 84.48
+},
+{
+  "_id": {
+    "$oid": "65b844df03221086de29deb3"
+  },
+  "": 4,
+  "pref_id": 38,
+  "Prefecture": "Ehime",
+  "Life_expectancy": 84.24
+},
+{
+  "_id": {
+    "$oid": "65b844df03221086de29deb4"
+  },
+  "": 5,
+  "pref_id": 18,
+  "Prefecture": "Fukui",
+  "Life_expectancy": 84.91
+},
+{
+  "_id": {
+    "$oid": "65b844df03221086de29deb5"
+  },
+  "": 6,
+  "pref_id": 40,
+  "Prefecture": "Fukuoka",
+  "Life_expectancy": 84.54
+},
+{
+  "_id": {
+    "$oid": "65b844df03221086de29deb6"
+  },
+  "": 7,
+  "pref_id": 7,
+  "Prefecture": "Fukushima",
+  "Life_expectancy": 83.71
+},
+{
+  "_id": {
+    "$oid": "65b844df03221086de29deb7"
+  },
+  "": 8,
+  "pref_id": 21,
+  "Prefecture": "Gifu",
+  "Life_expectancy": 84.71
+},
+{
+  "_id": {
+    "$oid": "65b844df03221086de29deb8"
+  },
+  "": 9,
+  "pref_id": 10,
+  "Prefecture": "Gunma",
+  "Life_expectancy": 84.16
+},
+{
+  "_id": {
+    "$oid": "65b844df03221086de29deb9"
+  },
+  "": 10,
+  "pref_id": 34,
+  "Prefecture": "Hiroshima",
+  "Life_expectancy": 85.06
+},
+{
+  "_id": {
+    "$oid": "65b844df03221086de29deba"
+  },
+  "": 11,
+  "pref_id": 1,
+  "Prefecture": "Hokkaido",
+  "Life_expectancy": 84
+},
+{
+  "_id": {
+    "$oid": "65b844df03221086de29debb"
+  },
+  "": 12,
+  "pref_id": 28,
+  "Prefecture": "Hyogo",
+  "Life_expectancy": 84.81
+},
+{
+  "_id": {
+    "$oid": "65b844df03221086de29debc"
+  },
+  "": 13,
+  "pref_id": 8,
+  "Prefecture": "Ibaraki",
+  "Life_expectancy": 83.92
+},
+{
+  "_id": {
+    "$oid": "65b844df03221086de29debd"
+  },
+  "": 14,
+  "pref_id": 17,
+  "Prefecture": "Ishikawa",
+  "Life_expectancy": 85.06
+},
+{
+  "_id": {
+    "$oid": "65b844df03221086de29debe"
+  },
+  "": 15,
+  "pref_id": 3,
+  "Prefecture": "Iwate",
+  "Life_expectancy": 83.85
+},
+{
+  "_id": {
+    "$oid": "65b844df03221086de29debf"
+  },
+  "": 16,
+  "pref_id": 37,
+  "Prefecture": "Kagawa",
+  "Life_expectancy": 84.6
+},
+{
+  "_id": {
+    "$oid": "65b844df03221086de29dec0"
+  },
+  "": 17,
+  "pref_id": 46,
+  "Prefecture": "Kagoshima",
+  "Life_expectancy": 84.24
+},
+{
+  "_id": {
+    "$oid": "65b844df03221086de29dec1"
+  },
+  "": 18,
+  "pref_id": 14,
+  "Prefecture": "Kanagawa",
+  "Life_expectancy": 84.97
+},
+{
+  "_id": {
+    "$oid": "65b844df03221086de29dec2"
+  },
+  "": 19,
+  "pref_id": 39,
+  "Prefecture": "Kochi",
+  "Life_expectancy": 84.32
+},
+{
+  "_id": {
+    "$oid": "65b844df03221086de29dec3"
+  },
+  "": 20,
+  "pref_id": 43,
+  "Prefecture": "Kumamoto",
+  "Life_expectancy": 85.07
+},
+{
+  "_id": {
+    "$oid": "65b844df03221086de29dec4"
+  },
+  "": 21,
+  "pref_id": 26,
+  "Prefecture": "Kyoto",
+  "Life_expectancy": 85.25
+},
+{
+  "_id": {
+    "$oid": "65b844df03221086de29dec5"
+  },
+  "": 22,
+  "pref_id": 24,
+  "Prefecture": "Mie",
+  "Life_expectancy": 84.64
+},
+{
+  "_id": {
+    "$oid": "65b844df03221086de29dec6"
+  },
+  "": 23,
+  "pref_id": 4,
+  "Prefecture": "Miyagi",
+  "Life_expectancy": 84.61
+},
+{
+  "_id": {
+    "$oid": "65b844df03221086de29dec7"
+  },
+  "": 24,
+  "pref_id": 45,
+  "Prefecture": "Miyazaki",
+  "Life_expectancy": 84.38
+},
+{
+  "_id": {
+    "$oid": "65b844df03221086de29dec8"
+  },
+  "": 25,
+  "pref_id": 20,
+  "Prefecture": "Nagano",
+  "Life_expectancy": 85.46
+},
+{
+  "_id": {
+    "$oid": "65b844df03221086de29dec9"
+  },
+  "": 26,
+  "pref_id": 42,
+  "Prefecture": "Nagasaki",
+  "Life_expectancy": 84.21
+},
+{
+  "_id": {
+    "$oid": "65b844df03221086de29deca"
+  },
+  "": 27,
+  "pref_id": 29,
+  "Prefecture": "Nara",
+  "Life_expectancy": 85.18
+},
+{
+  "_id": {
+    "$oid": "65b844df03221086de29decb"
+  },
+  "": 28,
+  "pref_id": 15,
+  "Prefecture": "Niigata",
+  "Life_expectancy": 84.43
+},
+{
+  "_id": {
+    "$oid": "65b844df03221086de29decc"
+  },
+  "": 29,
+  "pref_id": 44,
+  "Prefecture": "Oita",
+  "Life_expectancy": 84.91
+},
+{
+  "_id": {
+    "$oid": "65b844df03221086de29decd"
+  },
+  "": 30,
+  "pref_id": 33,
+  "Prefecture": "Okayama",
+  "Life_expectancy": 85.1
+},
+{
+  "_id": {
+    "$oid": "65b844df03221086de29dece"
+  },
+  "": 31,
+  "pref_id": 47,
+  "Prefecture": "Okinawa",
+  "Life_expectancy": 84.31
+},
+{
+  "_id": {
+    "$oid": "65b844df03221086de29decf"
+  },
+  "": 32,
+  "pref_id": 27,
+  "Prefecture": "Osaka",
+  "Life_expectancy": 84.09
+},
+{
+  "_id": {
+    "$oid": "65b844df03221086de29ded0"
+  },
+  "": 33,
+  "pref_id": 41,
+  "Prefecture": "Saga",
+  "Life_expectancy": 84.6
+},
+{
+  "_id": {
+    "$oid": "65b844df03221086de29ded1"
+  },
+  "": 34,
+  "pref_id": 11,
+  "Prefecture": "Saitama",
+  "Life_expectancy": 84.38
+},
+{
+  "_id": {
+    "$oid": "65b844df03221086de29ded2"
+  },
+  "": 35,
+  "pref_id": 25,
+  "Prefecture": "Shiga",
+  "Life_expectancy": 85.5
+},
+{
+  "_id": {
+    "$oid": "65b844df03221086de29ded3"
+  },
+  "": 36,
+  "pref_id": 32,
+  "Prefecture": "Shimane",
+  "Life_expectancy": 84.92
+},
+{
+  "_id": {
+    "$oid": "65b844df03221086de29ded4"
+  },
+  "": 37,
+  "pref_id": 22,
+  "Prefecture": "Shizuoka",
+  "Life_expectancy": 84.54
+},
+{
+  "_id": {
+    "$oid": "65b844df03221086de29ded5"
+  },
+  "": 38,
+  "pref_id": 9,
+  "Prefecture": "Tochigi",
+  "Life_expectancy": 83.95
+},
+{
+  "_id": {
+    "$oid": "65b844df03221086de29ded6"
+  },
+  "": 39,
+  "pref_id": 36,
+  "Prefecture": "Tokushima",
+  "Life_expectancy": 84.35
+},
+{
+  "_id": {
+    "$oid": "65b844df03221086de29ded7"
+  },
+  "": 40,
+  "pref_id": 13,
+  "Prefecture": "Tokyo",
+  "Life_expectancy": 84.82
+},
+{
+  "_id": {
+    "$oid": "65b844df03221086de29ded8"
+  },
+  "": 41,
+  "pref_id": 31,
+  "Prefecture": "Tottori",
+  "Life_expectancy": 84.63
+},
+{
+  "_id": {
+    "$oid": "65b844df03221086de29ded9"
+  },
+  "": 42,
+  "pref_id": 16,
+  "Prefecture": "Toyama",
+  "Life_expectancy": 84.86
+},
+{
+  "_id": {
+    "$oid": "65b844df03221086de29deda"
+  },
+  "": 43,
+  "pref_id": 30,
+  "Prefecture": "Wakayama",
+  "Life_expectancy": 84.2
+},
+{
+  "_id": {
+    "$oid": "65b844df03221086de29dedb"
+  },
+  "": 44,
+  "pref_id": 6,
+  "Prefecture": "Yamagata",
+  "Life_expectancy": 84.39
+},
+{
+  "_id": {
+    "$oid": "65b844df03221086de29dedc"
+  },
+  "": 45,
+  "pref_id": 35,
+  "Prefecture": "Yamaguchi",
+  "Life_expectancy": 84.28
+},
+{
+  "_id": {
+    "$oid": "65b844df03221086de29dedd"
+  },
+  "": 46,
+  "pref_id": 19,
+  "Prefecture": "Yamanashi",
+  "Life_expectancy": 84.83
+}]

@@ -1,0 +1,8056 @@
+[{
+  "_id": {
+    "$oid": "65b8458c03221086de29dfdd"
+  },
+  "": 0,
+  "name": "Hokkaido University",
+  "state": "Hokaido",
+  "review_rating": 4.16,
+  "difficulty_rank": "A"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29dfde"
+  },
+  "": 1,
+  "name": "Hokkaido University of Education",
+  "state": "Hokaido",
+  "review_rating": 3.79,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29dfdf"
+  },
+  "": 2,
+  "name": "Muroran Institute of Technology",
+  "state": "Hokaido",
+  "review_rating": 3.66,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29dfe0"
+  },
+  "": 3,
+  "name": "Otaru University of Commerce",
+  "state": "Hokaido",
+  "review_rating": 3.8,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29dfe1"
+  },
+  "": 4,
+  "name": "Obihiro University of Agriculture And Veterinary Medicine",
+  "state": "Hokaido",
+  "review_rating": 4.2,
+  "difficulty_rank": "B"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29dfe2"
+  },
+  "": 5,
+  "name": "Asahikawa Medical University",
+  "state": "Hokaido",
+  "review_rating": 3.93,
+  "difficulty_rank": "B"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29dfe3"
+  },
+  "": 6,
+  "name": "Kitami Institute of Technology",
+  "state": "Hokaido",
+  "review_rating": 3.66,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29dfe4"
+  },
+  "": 7,
+  "name": "Hirosaki University",
+  "state": "Aomori",
+  "review_rating": 3.84,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29dfe5"
+  },
+  "": 8,
+  "name": "Iwate University",
+  "state": "Iwate",
+  "review_rating": 3.89,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29dfe6"
+  },
+  "": 9,
+  "name": "Tohoku University",
+  "state": "Miyagi",
+  "review_rating": 4.18,
+  "difficulty_rank": "A"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29dfe7"
+  },
+  "": 10,
+  "name": "Miyagi University of Education",
+  "state": "Miyagi",
+  "review_rating": 3.95,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29dfe8"
+  },
+  "": 11,
+  "name": "Akita University",
+  "state": "Akita",
+  "review_rating": 3.8,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29dfe9"
+  },
+  "": 12,
+  "name": "Yamagata University",
+  "state": "Yamagata",
+  "review_rating": 3.76,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29dfea"
+  },
+  "": 13,
+  "name": "Fukushima University",
+  "state": "Fukushima",
+  "review_rating": 3.72,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29dfeb"
+  },
+  "": 14,
+  "name": "Ibaraki University",
+  "state": "Ibaraki",
+  "review_rating": 3.81,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29dfec"
+  },
+  "": 15,
+  "name": "University of Tsukuba",
+  "state": "Ibaraki",
+  "review_rating": 4.17,
+  "difficulty_rank": "A"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29dfed"
+  },
+  "": 16,
+  "name": "Tsukuba University of Technology",
+  "state": "Ibaraki",
+  "review_rating": 4.12,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29dfee"
+  },
+  "": 17,
+  "name": "Utsunomiya University",
+  "state": "Tochigi",
+  "review_rating": 3.95,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29dfef"
+  },
+  "": 18,
+  "name": "Gunma University",
+  "state": "Gunma",
+  "review_rating": 3.88,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29dff0"
+  },
+  "": 19,
+  "name": "Saitama University",
+  "state": "Saitama",
+  "review_rating": 3.88,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29dff1"
+  },
+  "": 20,
+  "name": "Chiba University",
+  "state": "Chiba",
+  "review_rating": 4.07,
+  "difficulty_rank": "B"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29dff2"
+  },
+  "": 21,
+  "name": "The University of Tokyo",
+  "state": "Tokyo",
+  "review_rating": 4.34,
+  "difficulty_rank": "S"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29dff3"
+  },
+  "": 22,
+  "name": "Tokyo Medical And Dental University",
+  "state": "Tokyo",
+  "review_rating": 4.23,
+  "difficulty_rank": "A"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29dff4"
+  },
+  "": 23,
+  "name": "Tokyo University of Foreign Studies",
+  "state": "Tokyo",
+  "review_rating": 4.19,
+  "difficulty_rank": "A"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29dff5"
+  },
+  "": 24,
+  "name": "Tokyo Gakugei University",
+  "state": "Tokyo",
+  "review_rating": 4.08,
+  "difficulty_rank": "B"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29dff6"
+  },
+  "": 25,
+  "name": "Tokyo University of Agriculture And Technology",
+  "state": "Tokyo",
+  "review_rating": 4,
+  "difficulty_rank": "B"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29dff7"
+  },
+  "": 26,
+  "name": "Tokyo University of The Arts",
+  "state": "Tokyo",
+  "review_rating": 4.25,
+  "difficulty_rank": "B"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29dff8"
+  },
+  "": 27,
+  "name": "Tokyo Institute of Technology",
+  "state": "Tokyo",
+  "review_rating": 4.25,
+  "difficulty_rank": "S"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29dff9"
+  },
+  "": 28,
+  "name": "Tokyo University of Marine Science And Technology",
+  "state": "Tokyo",
+  "review_rating": 4.16,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29dffa"
+  },
+  "": 29,
+  "name": "Ochanomizu University",
+  "state": "Tokyo",
+  "review_rating": 4.3,
+  "difficulty_rank": "A"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29dffb"
+  },
+  "": 30,
+  "name": "The University of Electro - Communications",
+  "state": "Tokyo",
+  "review_rating": 3.92,
+  "difficulty_rank": "B"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29dffc"
+  },
+  "": 31,
+  "name": "Hitotsubashi University",
+  "state": "Tokyo",
+  "review_rating": 4.26,
+  "difficulty_rank": "S"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29dffd"
+  },
+  "": 32,
+  "name": "Yokohama National University",
+  "state": "Kanagawa",
+  "review_rating": 3.9,
+  "difficulty_rank": "A"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29dffe"
+  },
+  "": 33,
+  "name": "Niigata University",
+  "state": "Niigata",
+  "review_rating": 3.86,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29dfff"
+  },
+  "": 34,
+  "name": "Nagaoka University of Technology",
+  "state": "Niigata",
+  "review_rating": 3.95,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e000"
+  },
+  "": 35,
+  "name": "Joetsu University of Education",
+  "state": "Niigata",
+  "review_rating": 4.09,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e001"
+  },
+  "": 36,
+  "name": "University of Toyama",
+  "state": "Toyama",
+  "review_rating": 3.81,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e002"
+  },
+  "": 37,
+  "name": "Kanazawa University",
+  "state": "Ishikawa",
+  "review_rating": 3.76,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e003"
+  },
+  "": 38,
+  "name": "University of Fukui",
+  "state": "Fukui",
+  "review_rating": 3.83,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e004"
+  },
+  "": 39,
+  "name": "University of Yamanashi",
+  "state": "Yamanashi",
+  "review_rating": 3.82,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e005"
+  },
+  "": 40,
+  "name": "Shinshu University",
+  "state": "Nagano",
+  "review_rating": 3.93,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e006"
+  },
+  "": 41,
+  "name": "Gifu University",
+  "state": "Gifu",
+  "review_rating": 3.93,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e007"
+  },
+  "": 42,
+  "name": "National University Corporation Shizuoka University",
+  "state": "Shizuoka",
+  "review_rating": 3.94,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e008"
+  },
+  "": 43,
+  "name": "Hamamatsu University School of Medicine",
+  "state": "Shizuoka",
+  "review_rating": 3.89,
+  "difficulty_rank": "S"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e009"
+  },
+  "": 44,
+  "name": "Nagoya University",
+  "state": "Aichi",
+  "review_rating": 4.22,
+  "difficulty_rank": "A"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e00a"
+  },
+  "": 45,
+  "name": "Aichi University of Education",
+  "state": "Aichi",
+  "review_rating": 3.87,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e00b"
+  },
+  "": 46,
+  "name": "Nagoya Institute of Technology",
+  "state": "Aichi",
+  "review_rating": 4.01,
+  "difficulty_rank": "B"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e00c"
+  },
+  "": 47,
+  "name": "Toyohashi University of Technology",
+  "state": "Aichi",
+  "review_rating": 3.87,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e00d"
+  },
+  "": 48,
+  "name": "Mie University",
+  "state": "Mie",
+  "review_rating": 3.94,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e00e"
+  },
+  "": 49,
+  "name": "Shiga University",
+  "state": "Shiga",
+  "review_rating": 3.83,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e00f"
+  },
+  "": 50,
+  "name": "Shiga University of Medical Science",
+  "state": "Shiga",
+  "review_rating": 3.88,
+  "difficulty_rank": "A"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e010"
+  },
+  "": 51,
+  "name": "Kyoto University",
+  "state": "Kyoto",
+  "review_rating": 4.2,
+  "difficulty_rank": "S"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e011"
+  },
+  "": 52,
+  "name": "Kyoto University of Education",
+  "state": "Kyoto",
+  "review_rating": 3.99,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e012"
+  },
+  "": 53,
+  "name": "Kyoto Institute of Technology",
+  "state": "Kyoto",
+  "review_rating": 4.04,
+  "difficulty_rank": "B"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e013"
+  },
+  "": 54,
+  "name": "Osaka University",
+  "state": "Osaka",
+  "review_rating": 4.12,
+  "difficulty_rank": "A"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e014"
+  },
+  "": 55,
+  "name": "Osaka Kyoiku University",
+  "state": "Osaka",
+  "review_rating": 3.99,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e015"
+  },
+  "": 56,
+  "name": "Hyogo University of Teacher Education",
+  "state": "Hyogo",
+  "review_rating": 3.83,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e016"
+  },
+  "": 57,
+  "name": "Kobe University",
+  "state": "Hyogo",
+  "review_rating": 3.99,
+  "difficulty_rank": "A"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e017"
+  },
+  "": 58,
+  "name": "Nara University of Education",
+  "state": "Nara",
+  "review_rating": 3.91,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e018"
+  },
+  "": 59,
+  "name": "Nara Women’s University",
+  "state": "Nara",
+  "review_rating": 4.06,
+  "difficulty_rank": "B"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e019"
+  },
+  "": 60,
+  "name": "Wakayama University",
+  "state": "Wakayama",
+  "review_rating": 3.86,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e01a"
+  },
+  "": 61,
+  "name": "Tottori University",
+  "state": "Tottori",
+  "review_rating": 3.83,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e01b"
+  },
+  "": 62,
+  "name": "Shimane University",
+  "state": "Shimane",
+  "review_rating": 3.84,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e01c"
+  },
+  "": 63,
+  "name": "Okayama University",
+  "state": "Okayama",
+  "review_rating": 4.02,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e01d"
+  },
+  "": 64,
+  "name": "Hiroshima University",
+  "state": "Hiroshima",
+  "review_rating": 4.04,
+  "difficulty_rank": "B"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e01e"
+  },
+  "": 65,
+  "name": "Yamaguchi University",
+  "state": "Yamaguchi",
+  "review_rating": 3.83,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e01f"
+  },
+  "": 66,
+  "name": "Tokushima University",
+  "state": "Tokushima",
+  "review_rating": 3.81,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e020"
+  },
+  "": 67,
+  "name": "Naruto University of Education",
+  "state": "Tokushima",
+  "review_rating": 4.16,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e021"
+  },
+  "": 68,
+  "name": "Kagawa University",
+  "state": "Kagawa",
+  "review_rating": 3.89,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e022"
+  },
+  "": 69,
+  "name": "Ehime University",
+  "state": "Ehime",
+  "review_rating": 3.93,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e023"
+  },
+  "": 70,
+  "name": "Kochi University",
+  "state": "Kochi",
+  "review_rating": 3.98,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e024"
+  },
+  "": 71,
+  "name": "University of Teacher Education Fukuoka",
+  "state": "Fukuoka",
+  "review_rating": 3.86,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e025"
+  },
+  "": 72,
+  "name": "Kyushu University",
+  "state": "Fukuoka",
+  "review_rating": 4.04,
+  "difficulty_rank": "A"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e026"
+  },
+  "": 73,
+  "name": "Kyushu Institute of Technology",
+  "state": "Fukuoka",
+  "review_rating": 3.83,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e027"
+  },
+  "": 74,
+  "name": "Saga University",
+  "state": "Saga",
+  "review_rating": 3.82,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e028"
+  },
+  "": 75,
+  "name": "Nagasaki University",
+  "state": "Nagasaki",
+  "review_rating": 3.88,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e029"
+  },
+  "": 76,
+  "name": "Kumamoto University",
+  "state": "Kumamoto",
+  "review_rating": 3.93,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e02a"
+  },
+  "": 77,
+  "name": "Oita University",
+  "state": "Oita",
+  "review_rating": 3.89,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e02b"
+  },
+  "": 78,
+  "name": "University of Miyazaki",
+  "state": "Miyazaki",
+  "review_rating": 3.92,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e02c"
+  },
+  "": 79,
+  "name": "Kagoshima University",
+  "state": "Kagoshima",
+  "review_rating": 4.02,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e02d"
+  },
+  "": 80,
+  "name": "National Institute of Fitness And Sports In Kanoya",
+  "state": "Kagoshima",
+  "review_rating": 4.05,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e02e"
+  },
+  "": 81,
+  "name": "University of The Ryukyus",
+  "state": "Okinawa",
+  "review_rating": 3.91,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e02f"
+  },
+  "": 82,
+  "name": "National Graduate Institute For Policy Studies",
+  "state": "Tokyo",
+  "review_rating": 5
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e030"
+  },
+  "": 83,
+  "name": "The Graduate University for Advanced Studies, SOKENDAI",
+  "state": "Kanagawa",
+  "review_rating": 4.58
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e031"
+  },
+  "": 84,
+  "name": "Japan Advanced Institute of Science And Technology",
+  "state": "Ishikawa",
+  "review_rating": 3.58
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e032"
+  },
+  "": 85,
+  "name": "Nara Institute of Science And Technology",
+  "state": "Nara",
+  "review_rating": 4.12
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e033"
+  },
+  "": 86,
+  "name": "Sapporo Medical University",
+  "state": "Hokaido",
+  "review_rating": 4.09,
+  "difficulty_rank": "B"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e034"
+  },
+  "": 87,
+  "name": "Future University Hakodate",
+  "state": "Hokaido",
+  "review_rating": 4.01,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e035"
+  },
+  "": 88,
+  "name": "Kushiro Public University of Economics",
+  "state": "Hokaido",
+  "review_rating": 3.47,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e036"
+  },
+  "": 89,
+  "name": "Nayoro City University",
+  "state": "Hokaido",
+  "review_rating": 4.05,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e037"
+  },
+  "": 90,
+  "name": "SAPPORO CITY UNIVERSITY",
+  "state": "Hokaido",
+  "review_rating": 3.94,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e038"
+  },
+  "": 91,
+  "name": "Chitose Institute of Science And Technology",
+  "state": "Hokaido",
+  "review_rating": 3.89,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e039"
+  },
+  "": 92,
+  "name": "Aomori Public University",
+  "state": "Aomori",
+  "review_rating": 3.8,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e03a"
+  },
+  "": 93,
+  "name": "Aomori University of Health And Welfare",
+  "state": "Aomori",
+  "review_rating": 4.26,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e03b"
+  },
+  "": 94,
+  "name": "Iwate Prefectural University",
+  "state": "Iwate",
+  "review_rating": 3.95,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e03c"
+  },
+  "": 95,
+  "name": "Miyagi Akita Prefectural University",
+  "state": "Miyagi",
+  "review_rating": 3.8,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e03d"
+  },
+  "": 96,
+  "name": "Akita Prefectural University",
+  "state": "Akita",
+  "review_rating": 3.93,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e03e"
+  },
+  "": 97,
+  "name": "Akita International University",
+  "state": "Akita",
+  "review_rating": 4.18,
+  "difficulty_rank": "S"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e03f"
+  },
+  "": 98,
+  "name": "Akita University of Art",
+  "state": "Akita",
+  "review_rating": 3.75,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e040"
+  },
+  "": 99,
+  "name": "Yamagata Prefectural University of Health Sciences",
+  "state": "Yamagata",
+  "review_rating": 4.03
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e041"
+  },
+  "": 100,
+  "name": "Yamagata Prefectural Yonezawa University of Nutrition Sciences",
+  "state": "Yamagata",
+  "review_rating": 3.9,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e042"
+  },
+  "": 101,
+  "name": "Fukushima Medical University",
+  "state": "Fukushima",
+  "review_rating": 3.96,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e043"
+  },
+  "": 102,
+  "name": "The University of Aizu",
+  "state": "Fukushima",
+  "review_rating": 4.06,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e044"
+  },
+  "": 103,
+  "name": "Ibaraki Prefectural University of Health Sciences",
+  "state": "Ibaraki",
+  "review_rating": 4.09,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e045"
+  },
+  "": 104,
+  "name": "Takasaki City University of Economics",
+  "state": "Gunma",
+  "review_rating": 3.67,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e046"
+  },
+  "": 105,
+  "name": "Maebashi Institute of Technology",
+  "state": "Gunma",
+  "review_rating": 3.69,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e047"
+  },
+  "": 106,
+  "name": "Gunma Prefectural Women’s University",
+  "state": "Gunma",
+  "review_rating": 4.17,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e048"
+  },
+  "": 107,
+  "name": "Gunma Prefectural College of Health Sciences",
+  "state": "Gunma",
+  "review_rating": 4.23,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e049"
+  },
+  "": 108,
+  "name": "Saitama Prefectural University",
+  "state": "Saitama",
+  "review_rating": 4.13,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e04a"
+  },
+  "": 109,
+  "name": "Chiba Prefectural University of Health Sciences",
+  "state": "Chiba",
+  "review_rating": 3.66
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e04b"
+  },
+  "": 110,
+  "name": "Tokyo Metropolitan University",
+  "state": "Tokyo",
+  "review_rating": 4.06,
+  "difficulty_rank": "B"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e04c"
+  },
+  "": 111,
+  "name": "Advanced Institute of Industrial Technology",
+  "state": "Tokyo",
+  "review_rating": 3.65
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e04d"
+  },
+  "": 112,
+  "name": "Yokohama City University",
+  "state": "Kanagawa",
+  "review_rating": 3.87,
+  "difficulty_rank": "A"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e04e"
+  },
+  "": 113,
+  "name": "Kanagawa University of Human Services",
+  "state": "Kanagawa",
+  "review_rating": 4.14,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e04f"
+  },
+  "": 114,
+  "name": "Niigata College of Nursing",
+  "state": "Niigata",
+  "review_rating": 4.05,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e050"
+  },
+  "": 115,
+  "name": "University of Niigata Prefecture",
+  "state": "Niigata",
+  "review_rating": 4.04,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e051"
+  },
+  "": 116,
+  "name": "Nagaoka Institute of Design",
+  "state": "Niigata",
+  "review_rating": 4.1,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e052"
+  },
+  "": 117,
+  "name": "SANJO CITY UNIVERSITY",
+  "state": "Niigata",
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e053"
+  },
+  "": 118,
+  "name": "Toyama Prefectural University",
+  "state": "Toyama",
+  "review_rating": 3.72,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e054"
+  },
+  "": 119,
+  "name": "Komatsu University",
+  "state": "Ishikawa",
+  "review_rating": 3.55,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e055"
+  },
+  "": 120,
+  "name": "Ishikawa Prefectural University",
+  "state": "Ishikawa",
+  "review_rating": 3.78,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e056"
+  },
+  "": 121,
+  "name": "Kanazawa College of Art",
+  "state": "Ishikawa",
+  "review_rating": 4,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e057"
+  },
+  "": 122,
+  "name": "Ishikawa Prefectural Nursing University",
+  "state": "Ishikawa",
+  "review_rating": 3.82,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e058"
+  },
+  "": 123,
+  "name": "Fukui Prefectural University",
+  "state": "Fukui",
+  "review_rating": 3.66,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e059"
+  },
+  "": 124,
+  "name": "Tsuruga Nursing University",
+  "state": "Fukui",
+  "review_rating": 3.89,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e05a"
+  },
+  "": 125,
+  "name": "Tsuru University",
+  "state": "Yamanashi",
+  "review_rating": 3.83,
+  "difficulty_rank": "B"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e05b"
+  },
+  "": 126,
+  "name": "Yamanashi Prefectural University",
+  "state": "Yamanashi",
+  "review_rating": 3.8,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e05c"
+  },
+  "": 127,
+  "name": "Suwa University of Science",
+  "state": "Nagano",
+  "review_rating": 3.85,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e05d"
+  },
+  "": 128,
+  "name": "The University of Nagano",
+  "state": "Nagano",
+  "review_rating": 3.82,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e05e"
+  },
+  "": 129,
+  "name": "Nagano College of Nursing",
+  "state": "Nagano",
+  "review_rating": 3.87,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e05f"
+  },
+  "": 130,
+  "name": "Nagano University",
+  "state": "Nagano",
+  "review_rating": 3.57,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e060"
+  },
+  "": 131,
+  "name": "Gifu Pharmaceutical University",
+  "state": "Gifu",
+  "review_rating": 3.83,
+  "difficulty_rank": "B"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e061"
+  },
+  "": 132,
+  "name": "Gifu College of Nursing",
+  "state": "Gifu",
+  "review_rating": 3.79,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e062"
+  },
+  "": 133,
+  "name": "Institute of Advanced Media Arts and Sciences",
+  "state": "Gifu",
+  "review_rating": 4
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e063"
+  },
+  "": 134,
+  "name": "Shizuoka Professional University of Agriculture",
+  "state": "Shizuoka",
+  "review_rating": 3,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e064"
+  },
+  "": 135,
+  "name": "University of Shizuoka",
+  "state": "Shizuoka",
+  "review_rating": 3.96,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e065"
+  },
+  "": 136,
+  "name": "Shizuoka University of Art And Culture",
+  "state": "Shizuoka",
+  "review_rating": 4.15,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e066"
+  },
+  "": 137,
+  "name": "Shizuoka Graduate University of Public Health",
+  "state": "Shizuoka"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e067"
+  },
+  "": 138,
+  "name": "Nagoya City University",
+  "state": "Aichi",
+  "review_rating": 3.9,
+  "difficulty_rank": "B"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e068"
+  },
+  "": 139,
+  "name": "Aichi University of The Arts",
+  "state": "Aichi",
+  "review_rating": 3.93,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e069"
+  },
+  "": 140,
+  "name": "Aichi Prefectural University",
+  "state": "Aichi",
+  "review_rating": 3.99,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e06a"
+  },
+  "": 141,
+  "name": "Mie Prefectural College of Nursing",
+  "state": "Mie",
+  "review_rating": 3.92,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e06b"
+  },
+  "": 142,
+  "name": "The University of Shiga Prefecture",
+  "state": "Shiga",
+  "review_rating": 3.96,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e06c"
+  },
+  "": 143,
+  "name": "Kyoto City University of Arts",
+  "state": "Kyoto",
+  "review_rating": 4.04,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e06d"
+  },
+  "": 144,
+  "name": "Kyoto Prefectural University",
+  "state": "Kyoto",
+  "review_rating": 4.03,
+  "difficulty_rank": "B"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e06e"
+  },
+  "": 145,
+  "name": "Kyoto Prefectural University of Medicine",
+  "state": "Kyoto",
+  "review_rating": 4,
+  "difficulty_rank": "A"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e06f"
+  },
+  "": 146,
+  "name": "The University of Fukuchiyama",
+  "state": "Kyoto",
+  "review_rating": 3.46,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e070"
+  },
+  "": 147,
+  "name": "Osaka Metropolitan University",
+  "state": "Osaka",
+  "review_rating": 4.03
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e071"
+  },
+  "": 148,
+  "name": "Osaka City University",
+  "state": "Osaka",
+  "review_rating": 3.95
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e072"
+  },
+  "": 149,
+  "name": "Osaka Prefecture University",
+  "state": "Osaka",
+  "review_rating": 3.89
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e073"
+  },
+  "": 150,
+  "name": "Kobe City University of Foreign Studies",
+  "state": "Hyogo",
+  "review_rating": 4.03,
+  "difficulty_rank": "B"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e074"
+  },
+  "": 151,
+  "name": "Kobe City College of Nursing",
+  "state": "Hyogo",
+  "review_rating": 4.15,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e075"
+  },
+  "": 152,
+  "name": "University of Hyogo",
+  "state": "Hyogo",
+  "review_rating": 3.72,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e076"
+  },
+  "": 153,
+  "name": "Professional College of Arts and Tourism",
+  "state": "Hyogo",
+  "review_rating": 3,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e077"
+  },
+  "": 154,
+  "name": "Nara Medical University",
+  "state": "Nara",
+  "review_rating": 3.63,
+  "difficulty_rank": "A"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e078"
+  },
+  "": 155,
+  "name": "Nara Prefectural University",
+  "state": "Nara",
+  "review_rating": 3.54,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e079"
+  },
+  "": 156,
+  "name": "Wakayama Medical University",
+  "state": "Wakayama",
+  "review_rating": 3.98,
+  "difficulty_rank": "B"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e07a"
+  },
+  "": 157,
+  "name": "Tottori University of Environmental Studies",
+  "state": "Tottori",
+  "review_rating": 3.86,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e07b"
+  },
+  "": 158,
+  "name": "The University of Shimane",
+  "state": "Shimane",
+  "review_rating": 3.8,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e07c"
+  },
+  "": 159,
+  "name": "Okayama Prefectural University",
+  "state": "Okayama",
+  "review_rating": 3.96,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e07d"
+  },
+  "": 160,
+  "name": "Niimi University",
+  "state": "Okayama",
+  "review_rating": 4.28,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e07e"
+  },
+  "": 161,
+  "name": "Prefectural University of Hiroshima",
+  "state": "Hiroshima",
+  "review_rating": 4,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e07f"
+  },
+  "": 162,
+  "name": "Onomichi City University",
+  "state": "Hiroshima",
+  "review_rating": 3.76,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e080"
+  },
+  "": 163,
+  "name": "Hiroshima City University",
+  "state": "Hiroshima",
+  "review_rating": 3.87,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e081"
+  },
+  "": 164,
+  "name": "Fukuyama City University",
+  "state": "Hiroshima",
+  "review_rating": 3.66,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e082"
+  },
+  "": 165,
+  "name": "Eikei University of Hiroshima",
+  "state": "Hiroshima",
+  "review_rating": 4,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e083"
+  },
+  "": 166,
+  "name": "Shimonoseki City University",
+  "state": "Yamaguchi",
+  "review_rating": 3.62,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e084"
+  },
+  "": 167,
+  "name": "Yamaguchi Prefectural University",
+  "state": "Yamaguchi",
+  "review_rating": 3.99,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e085"
+  },
+  "": 168,
+  "name": "Sanyo-Onoda City University",
+  "state": "Yamaguchi",
+  "review_rating": 3.71,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e086"
+  },
+  "": 169,
+  "name": "Kagawa Prefectural University of Health Sciences",
+  "state": "Kagawa",
+  "review_rating": 4.15,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e087"
+  },
+  "": 170,
+  "name": "Ehime Prefectural University of Health Sciences",
+  "state": "Ehime",
+  "review_rating": 4.18,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e088"
+  },
+  "": 171,
+  "name": "University of Kochi",
+  "state": "Kochi",
+  "review_rating": 4.01,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e089"
+  },
+  "": 172,
+  "name": "Kochi University of Technology",
+  "state": "Kochi",
+  "review_rating": 4.02,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e08a"
+  },
+  "": 173,
+  "name": "The University of Kitakyushu",
+  "state": "Fukuoka",
+  "review_rating": 3.83,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e08b"
+  },
+  "": 174,
+  "name": "Kyushu Dental University",
+  "state": "Fukuoka",
+  "review_rating": 3.82,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e08c"
+  },
+  "": 175,
+  "name": "Fukuoka Women's University",
+  "state": "Fukuoka",
+  "review_rating": 4.09,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e08d"
+  },
+  "": 176,
+  "name": "Fukuoka Prefectural University",
+  "state": "Fukuoka",
+  "review_rating": 3.88,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e08e"
+  },
+  "": 177,
+  "name": "University of Nagasaki",
+  "state": "Nagasaki",
+  "review_rating": 3.74,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e08f"
+  },
+  "": 178,
+  "name": "Prefectural University of Kumamoto",
+  "state": "Kumamoto",
+  "review_rating": 3.8,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e090"
+  },
+  "": 179,
+  "name": "Oita University of Nursing And Health Sciences",
+  "state": "Oita",
+  "review_rating": 3.73
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e091"
+  },
+  "": 180,
+  "name": "Miyazaki Municipal University",
+  "state": "Miyazaki",
+  "review_rating": 3.9,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e092"
+  },
+  "": 181,
+  "name": "Miyazaki Prefectural Nursing University",
+  "state": "Miyazaki",
+  "review_rating": 4.21,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e093"
+  },
+  "": 182,
+  "name": "Meio University",
+  "state": "Okinawa",
+  "review_rating": 3.87,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e094"
+  },
+  "": 183,
+  "name": "Okinawa Prefectural University of Arts",
+  "state": "Okinawa",
+  "review_rating": 3.92,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e095"
+  },
+  "": 184,
+  "name": "Okinawa Prefectural College of Nursing",
+  "state": "Okinawa",
+  "review_rating": 4.08,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e096"
+  },
+  "": 185,
+  "name": "Shunan　University",
+  "state": "Yamaguchi",
+  "review_rating": 3.4,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e097"
+  },
+  "": 186,
+  "name": "Kawasaki City College of Nursing",
+  "state": "Kanagawa",
+  "review_rating": 3,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e098"
+  },
+  "": 187,
+  "name": "Sapporo　University",
+  "state": "Hokaido",
+  "review_rating": 3.79,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e099"
+  },
+  "": 188,
+  "name": "Sapporo　Gakuin　University",
+  "state": "Hokaido",
+  "review_rating": 3.85,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e09a"
+  },
+  "": 189,
+  "name": "Hakodate　University",
+  "state": "Hokaido",
+  "review_rating": 3.55,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e09b"
+  },
+  "": 190,
+  "name": "Fuji　Women’s　University",
+  "state": "Hokaido",
+  "review_rating": 3.98,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e09c"
+  },
+  "": 191,
+  "name": "Hokusei　Gakuen　University",
+  "state": "Hokaido",
+  "review_rating": 3.9,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e09d"
+  },
+  "": 192,
+  "name": "Hokkai　-　Gakuen　University",
+  "state": "Hokaido",
+  "review_rating": 3.81,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e09e"
+  },
+  "": 193,
+  "name": "Hokkaido　University　of　Science",
+  "state": "Hokaido",
+  "review_rating": 3.77,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e09f"
+  },
+  "": 194,
+  "name": "Rakuno　Gakuen　University",
+  "state": "Hokaido",
+  "review_rating": 3.77,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0a0"
+  },
+  "": 195,
+  "name": "AsahikawaUniversity",
+  "state": "Hokaido",
+  "review_rating": 3.74
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0a1"
+  },
+  "": 196,
+  "name": "Health　Sciences　University　of　Hokkaido",
+  "state": "Hokaido",
+  "review_rating": 3.89,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0a2"
+  },
+  "": 197,
+  "name": "Hokkai　School　of　Commerce",
+  "state": "Hokaido",
+  "review_rating": 3.61,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0a3"
+  },
+  "": 198,
+  "name": "Seisa　Dohto　University",
+  "state": "Hokaido",
+  "review_rating": 3.87,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0a4"
+  },
+  "": 199,
+  "name": "Hokkaido　Information　University",
+  "state": "Hokaido",
+  "review_rating": 3.83,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0a5"
+  },
+  "": 200,
+  "name": "Sapporo　International　University",
+  "state": "Hokaido",
+  "review_rating": 3.85,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0a6"
+  },
+  "": 201,
+  "name": "Hokusho　University",
+  "state": "Hokaido",
+  "review_rating": 3.96,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0a7"
+  },
+  "": 202,
+  "name": "Hokuyo University",
+  "state": "Hokaido",
+  "review_rating": 3.97,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0a8"
+  },
+  "": 203,
+  "name": "Japanese　Red　Cross　Hokkaido　College　of　Nursing",
+  "state": "Hokaido",
+  "review_rating": 3.94,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0a9"
+  },
+  "": 204,
+  "name": "Hokkaido　Bunkyo　University",
+  "state": "Hokaido",
+  "review_rating": 3.62,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0aa"
+  },
+  "": 205,
+  "name": "Tenshi　College",
+  "state": "Hokaido",
+  "review_rating": 4.02,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0ab"
+  },
+  "": 206,
+  "name": "Ikueikan　University",
+  "state": "Hokaido",
+  "review_rating": 4.43,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0ac"
+  },
+  "": 207,
+  "name": "Sapporo　Otani　University",
+  "state": "Hokaido",
+  "review_rating": 3.94,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0ad"
+  },
+  "": 208,
+  "name": "Sapporo　University　of　Health　Sciences",
+  "state": "Hokaido",
+  "review_rating": 3.63,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0ae"
+  },
+  "": 209,
+  "name": "Japan　HealthCare　University",
+  "state": "Hokaido",
+  "review_rating": 3.54,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0af"
+  },
+  "": 210,
+  "name": "Hokkaido　Chitose　College　of　Rehabilitation",
+  "state": "Hokaido",
+  "review_rating": 3.69,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0b0"
+  },
+  "": 211,
+  "name": "Aomori　University",
+  "state": "Aomori",
+  "review_rating": 3.5,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0b1"
+  },
+  "": 212,
+  "name": "Shibata Gakuen University",
+  "state": "Aomori",
+  "review_rating": 3.92,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0b2"
+  },
+  "": 213,
+  "name": "Hirosaki　Gakuin　University",
+  "state": "Aomori",
+  "review_rating": 3.41,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0b3"
+  },
+  "": 214,
+  "name": "Hachinohe　Institute　of　Technology",
+  "state": "Aomori",
+  "review_rating": 3.61,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0b4"
+  },
+  "": 215,
+  "name": "Hachinohe　Gakuin　University",
+  "state": "Aomori",
+  "review_rating": 3.69,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0b5"
+  },
+  "": 216,
+  "name": "Aomori　Chuo　Gakuin　University",
+  "state": "Aomori",
+  "review_rating": 3.66,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0b6"
+  },
+  "": 217,
+  "name": "Hirosaki　University　of　Health　and　Welfare",
+  "state": "Aomori",
+  "review_rating": 3.71,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0b7"
+  },
+  "": 218,
+  "name": "Iwate　Medical　University",
+  "state": "Iwate",
+  "review_rating": 3.57,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0b8"
+  },
+  "": 219,
+  "name": "Fuji　University",
+  "state": "Iwate",
+  "review_rating": 3.63,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0b9"
+  },
+  "": 220,
+  "name": "The　University　of　Morioka",
+  "state": "Iwate",
+  "review_rating": 3.78,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0ba"
+  },
+  "": 221,
+  "name": "Iwate　University　of　Health　and　Medical　Sciences",
+  "state": "Iwate",
+  "review_rating": 3.33,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0bb"
+  },
+  "": 222,
+  "name": "Sendai　University",
+  "state": "Miyagi",
+  "review_rating": 3.63,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0bc"
+  },
+  "": 223,
+  "name": "Tohoku　Gakuin　University",
+  "state": "Miyagi",
+  "review_rating": 3.75,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0bd"
+  },
+  "": 224,
+  "name": "Tohoku　Institute　of　Technology",
+  "state": "Miyagi",
+  "review_rating": 3.62,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0be"
+  },
+  "": 225,
+  "name": "Tohoku　Fukushi　University",
+  "state": "Miyagi",
+  "review_rating": 3.78,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0bf"
+  },
+  "": 226,
+  "name": "Tohoku　Medical　And　Pharmaceutical　University",
+  "state": "Miyagi",
+  "review_rating": 3.74,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0c0"
+  },
+  "": 227,
+  "name": "Tohoku　Seikatsu　Bunka　University",
+  "state": "Miyagi",
+  "review_rating": 3.64,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0c1"
+  },
+  "": 228,
+  "name": "Miyagi　Gakuin　Women’s　University",
+  "state": "Miyagi",
+  "review_rating": 3.9,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0c2"
+  },
+  "": 229,
+  "name": "Ishinomaki　Senshu　University",
+  "state": "Miyagi",
+  "review_rating": 3.65,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0c3"
+  },
+  "": 230,
+  "name": "Sendai　Shirayuri　Women’s　College",
+  "state": "Miyagi",
+  "review_rating": 3.58,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0c4"
+  },
+  "": 231,
+  "name": "Tohoku　Bunka　Gakuen　University",
+  "state": "Miyagi",
+  "review_rating": 3.69,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0c5"
+  },
+  "": 232,
+  "name": "Shokei　Gakuin　University",
+  "state": "Miyagi",
+  "review_rating": 3.82,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0c6"
+  },
+  "": 233,
+  "name": "North　Asia　University",
+  "state": "Akita",
+  "review_rating": 3.26,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0c7"
+  },
+  "": 234,
+  "name": "Akita　University　of　Nursing　And　Welfare",
+  "state": "Akita",
+  "review_rating": 4.15,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0c8"
+  },
+  "": 235,
+  "name": "Japanese　Red　Cross　Akita　College　of　Nursing",
+  "state": "Akita",
+  "review_rating": 3.84,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0c9"
+  },
+  "": 236,
+  "name": "Tohoku　University　of　Art　&　Design",
+  "state": "Yamagata",
+  "review_rating": 4.12,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0ca"
+  },
+  "": 237,
+  "name": "Tohoku　University　of　Community　Service　And　Science",
+  "state": "Yamagata",
+  "review_rating": 3.48,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0cb"
+  },
+  "": 238,
+  "name": "Tohoku　Bunkyo　College",
+  "state": "Yamagata",
+  "review_rating": 3.82,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0cc"
+  },
+  "": 239,
+  "name": "Koriyama　Women’s　University",
+  "state": "Fukushima",
+  "review_rating": 3.76,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0cd"
+  },
+  "": 240,
+  "name": "Ohu　University",
+  "state": "Fukushima",
+  "review_rating": 3.55,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0ce"
+  },
+  "": 241,
+  "name": "Iryo Sosei University",
+  "state": "Fukushima",
+  "review_rating": 3.46,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0cf"
+  },
+  "": 242,
+  "name": "Higashi　Nippon　International　University",
+  "state": "Fukushima",
+  "review_rating": 3.85,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0d0"
+  },
+  "": 243,
+  "name": "Fukushima　College",
+  "state": "Fukushima",
+  "review_rating": 3.86,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0d1"
+  },
+  "": 244,
+  "name": "Ibaraki　Christian　University",
+  "state": "Ibaraki",
+  "review_rating": 3.87,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0d2"
+  },
+  "": 245,
+  "name": "Ryutsu　Keizai　University",
+  "state": "Ibaraki",
+  "review_rating": 3.71,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0d3"
+  },
+  "": 246,
+  "name": "Tokiwa　University",
+  "state": "Ibaraki",
+  "review_rating": 3.75,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0d4"
+  },
+  "": 247,
+  "name": "Tsukuba　International　University",
+  "state": "Ibaraki",
+  "review_rating": 3.68,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0d5"
+  },
+  "": 248,
+  "name": "Tsukuba　Gakuin　University",
+  "state": "Ibaraki",
+  "review_rating": 3.53
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0d6"
+  },
+  "": 249,
+  "name": "Nihon　Wellness　Sports　University",
+  "state": "Ibaraki",
+  "review_rating": 3.58,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0d7"
+  },
+  "": 250,
+  "name": "Ashikaga　University",
+  "state": "Tochigi",
+  "review_rating": 3.66,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0d8"
+  },
+  "": 251,
+  "name": "Hakuoh　University",
+  "state": "Tochigi",
+  "review_rating": 3.9,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0d9"
+  },
+  "": 252,
+  "name": "Sakushin　Gakuin　University",
+  "state": "Tochigi",
+  "review_rating": 3.83,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0da"
+  },
+  "": 253,
+  "name": "International　University　of　Health　And　Welfare",
+  "state": "Tochigi",
+  "review_rating": 3.92,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0db"
+  },
+  "": 254,
+  "name": "Utsunomiya　Kyowa　University",
+  "state": "Tochigi",
+  "review_rating": 3.87,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0dc"
+  },
+  "": 255,
+  "name": "Bunsei　University　of　Art",
+  "state": "Tochigi",
+  "review_rating": 3.8,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0dd"
+  },
+  "": 256,
+  "name": "Jichi　Medical　University",
+  "state": "Tochigi",
+  "review_rating": 4.1,
+  "difficulty_rank": "B"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0de"
+  },
+  "": 257,
+  "name": "Dokkyo　Medical　University",
+  "state": "Tochigi",
+  "review_rating": 3.95,
+  "difficulty_rank": "B"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0df"
+  },
+  "": 258,
+  "name": "Ikuei　University",
+  "state": "Gunma",
+  "review_rating": 3.81,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0e0"
+  },
+  "": 259,
+  "name": "Kiryu　University",
+  "state": "Gunma",
+  "review_rating": 3.43,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0e1"
+  },
+  "": 260,
+  "name": "Gunma　Paz　University",
+  "state": "Gunma",
+  "review_rating": 3.79,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0e2"
+  },
+  "": 261,
+  "name": "Gunma　University　of　Health　And　Welfare",
+  "state": "Gunma",
+  "review_rating": 3.49,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0e3"
+  },
+  "": 262,
+  "name": "Takasaki　University　of　Health　And　Welfare",
+  "state": "Gunma",
+  "review_rating": 3.76,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0e4"
+  },
+  "": 263,
+  "name": "Takasaki　University　of　Commerce",
+  "state": "Gunma",
+  "review_rating": 3.85,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0e5"
+  },
+  "": 264,
+  "name": "Jobu　University",
+  "state": "Gunma",
+  "review_rating": 3.6,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0e6"
+  },
+  "": 265,
+  "name": "Kanto　Gakuen　University",
+  "state": "Gunma",
+  "review_rating": 3.72,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0e7"
+  },
+  "": 266,
+  "name": "KYOAI　GAKUEN　UNIVERSITY",
+  "state": "Gunma",
+  "review_rating": 3.96,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0e8"
+  },
+  "": 267,
+  "name": "Nihon　Institute　of　Medical　Science",
+  "state": "Saitama",
+  "review_rating": 3.16,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0e9"
+  },
+  "": 268,
+  "name": "Nihon　Pharmaceutical　University",
+  "state": "Saitama",
+  "review_rating": 3.44,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0ea"
+  },
+  "": 269,
+  "name": "Musashino　Gakuin　University",
+  "state": "Saitama",
+  "review_rating": 3.71,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0eb"
+  },
+  "": 270,
+  "name": "Urawa　University",
+  "state": "Saitama",
+  "review_rating": 4.04,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0ec"
+  },
+  "": 271,
+  "name": "Institute　of　Technologists",
+  "state": "Saitama",
+  "review_rating": 3.83,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0ed"
+  },
+  "": 272,
+  "name": "Kyoei　University",
+  "state": "Saitama",
+  "review_rating": 3.53,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0ee"
+  },
+  "": 273,
+  "name": "Saitama　Gakuen　University",
+  "state": "Saitama",
+  "review_rating": 3.65,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0ef"
+  },
+  "": 274,
+  "name": "Shobi　University",
+  "state": "Saitama",
+  "review_rating": 3.65,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0f0"
+  },
+  "": 275,
+  "name": "University　of　Human　Arts　And　Sciences",
+  "state": "Saitama",
+  "review_rating": 3.61,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0f1"
+  },
+  "": 276,
+  "name": "Bunri　University　of　Hospitality",
+  "state": "Saitama",
+  "review_rating": 3.49,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0f2"
+  },
+  "": 277,
+  "name": "Jumonji　University",
+  "state": "Saitama",
+  "review_rating": 3.81,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0f3"
+  },
+  "": 278,
+  "name": "Heisei　International　University",
+  "state": "Saitama",
+  "review_rating": 3.74,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0f4"
+  },
+  "": 279,
+  "name": "Tokyo International University",
+  "state": "Saitama",
+  "review_rating": 3.96,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0f5"
+  },
+  "": 280,
+  "name": "Josai　University",
+  "state": "Saitama",
+  "review_rating": 3.52,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0f6"
+  },
+  "": 281,
+  "name": "Toho　College　of　Music",
+  "state": "Saitama",
+  "review_rating": 4.02
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0f7"
+  },
+  "": 282,
+  "name": "Dokkyo　University",
+  "state": "Saitama",
+  "review_rating": 3.95,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0f8"
+  },
+  "": 283,
+  "name": "Nippon　Institute　of　Technology",
+  "state": "Saitama",
+  "review_rating": 3.66,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0f9"
+  },
+  "": 284,
+  "name": "Meikai　University",
+  "state": "Saitama",
+  "review_rating": 3.77,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0fa"
+  },
+  "": 285,
+  "name": "Saitama　Medical　University",
+  "state": "Saitama",
+  "review_rating": 3.8,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0fb"
+  },
+  "": 286,
+  "name": "Saitama　Institute　of　Technology",
+  "state": "Saitama",
+  "review_rating": 3.59,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0fc"
+  },
+  "": 287,
+  "name": "Surugadai　University",
+  "state": "Saitama",
+  "review_rating": 3.75,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0fd"
+  },
+  "": 288,
+  "name": "Seigakuin　University",
+  "state": "Saitama",
+  "review_rating": 3.7,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0fe"
+  },
+  "": 289,
+  "name": "Kagawa　Nutrition　University",
+  "state": "Saitama",
+  "review_rating": 4.12,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e0ff"
+  },
+  "": 290,
+  "name": "Tohto　University",
+  "state": "Saitama",
+  "review_rating": 3.46,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e100"
+  },
+  "": 291,
+  "name": "Japan　University　of　Health　Sciences",
+  "state": "Saitama",
+  "review_rating": 3.33,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e101"
+  },
+  "": 292,
+  "name": "Chiba　Institute　of　Science",
+  "state": "Chiba",
+  "review_rating": 3.31,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e102"
+  },
+  "": 293,
+  "name": "Aikoku　Gakuen　University",
+  "state": "Chiba",
+  "review_rating": 3.68,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e103"
+  },
+  "": 294,
+  "name": "Kaichi　International　University",
+  "state": "Chiba",
+  "review_rating": 4.07,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e104"
+  },
+  "": 295,
+  "name": "Seiwa　University",
+  "state": "Chiba",
+  "review_rating": 3.19,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e105"
+  },
+  "": 296,
+  "name": "Josai　International　University",
+  "state": "Chiba",
+  "review_rating": 3.61,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e106"
+  },
+  "": 297,
+  "name": "Shukutoku　University",
+  "state": "Chiba",
+  "review_rating": 3.81,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e107"
+  },
+  "": 298,
+  "name": "Keiai　University",
+  "state": "Chiba",
+  "review_rating": 3.74,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e108"
+  },
+  "": 299,
+  "name": "Chiba　Institute　of　Technology",
+  "state": "Chiba",
+  "review_rating": 3.75,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e109"
+  },
+  "": 300,
+  "name": "Chiba　University　of　Commerce",
+  "state": "Chiba",
+  "review_rating": 3.69,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e10a"
+  },
+  "": 301,
+  "name": "Chuogakuin　University",
+  "state": "Chiba",
+  "review_rating": 3.76,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e10b"
+  },
+  "": 302,
+  "name": "Reitaku　University",
+  "state": "Chiba",
+  "review_rating": 3.81,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e10c"
+  },
+  "": 303,
+  "name": "Wayo　Women’s　University",
+  "state": "Chiba",
+  "review_rating": 4.05,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e10d"
+  },
+  "": 304,
+  "name": "International　Budo　University",
+  "state": "Chiba",
+  "review_rating": 3.59,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e10e"
+  },
+  "": 305,
+  "name": "Kanda　University　of　International　Studies",
+  "state": "Chiba",
+  "review_rating": 4.05,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e10f"
+  },
+  "": 306,
+  "name": "Chiba　Keizai　University",
+  "state": "Chiba",
+  "review_rating": 3.65,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e110"
+  },
+  "": 307,
+  "name": "Shumei　University",
+  "state": "Chiba",
+  "review_rating": 3.93,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e111"
+  },
+  "": 308,
+  "name": "Kawamura　Gakuen　Woman’s　University",
+  "state": "Chiba",
+  "review_rating": 3.51,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e112"
+  },
+  "": 309,
+  "name": "Tokyo　University　of　Information　Sciences",
+  "state": "Chiba",
+  "review_rating": 3.83,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e113"
+  },
+  "": 310,
+  "name": "Tokyo　Christian　University",
+  "state": "Chiba",
+  "review_rating": 4.23
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e114"
+  },
+  "": 311,
+  "name": "Seitoku　University",
+  "state": "Chiba",
+  "review_rating": 3.6,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e115"
+  },
+  "": 312,
+  "name": "Edogawa　University",
+  "state": "Chiba",
+  "review_rating": 3.57,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e116"
+  },
+  "": 313,
+  "name": "Ryotokuji　University",
+  "state": "Chiba",
+  "review_rating": 3.66,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e117"
+  },
+  "": 314,
+  "name": "Uekusa　Gakuen　University",
+  "state": "Chiba",
+  "review_rating": 3.88,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e118"
+  },
+  "": 315,
+  "name": "Saniku　Gakuin　College",
+  "state": "Chiba",
+  "review_rating": 4.08,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e119"
+  },
+  "": 316,
+  "name": "Kameda University　of　Health　Sciences",
+  "state": "Chiba",
+  "review_rating": 3.31,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e11a"
+  },
+  "": 317,
+  "name": "Tokyo　University　of　Social　Welfare",
+  "state": "Gunma",
+  "review_rating": 3.82,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e11b"
+  },
+  "": 318,
+  "name": "Atomi　University",
+  "state": "Tokyo",
+  "review_rating": 3.83,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e11c"
+  },
+  "": 319,
+  "name": "Bunkyo　University",
+  "state": "Tokyo",
+  "review_rating": 3.89,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e11d"
+  },
+  "": 320,
+  "name": "Bunkyo　Gakuin　University",
+  "state": "Tokyo",
+  "review_rating": 3.74,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e11e"
+  },
+  "": 321,
+  "name": "Mejiro　University",
+  "state": "Tokyo",
+  "review_rating": 3.51,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e11f"
+  },
+  "": 322,
+  "name": "Tokyo　Seitoku　University",
+  "state": "Tokyo",
+  "review_rating": 3.87,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e120"
+  },
+  "": 323,
+  "name": "Toyo　Gakuen　University",
+  "state": "Tokyo",
+  "review_rating": 3.54,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e121"
+  },
+  "": 324,
+  "name": "Teikyo　Heisei　University",
+  "state": "Tokyo",
+  "review_rating": 3.8,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e122"
+  },
+  "": 325,
+  "name": "Aoyama　Gakuin　University",
+  "state": "Tokyo",
+  "review_rating": 4.03,
+  "difficulty_rank": "A"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e123"
+  },
+  "": 326,
+  "name": "Ueno　Gakuen　University",
+  "state": "Tokyo",
+  "review_rating": 3.69
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e124"
+  },
+  "": 327,
+  "name": "Otsuma　Women’s　University",
+  "state": "Tokyo",
+  "review_rating": 3.95,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e125"
+  },
+  "": 328,
+  "name": "Gakushuin　University",
+  "state": "Tokyo",
+  "review_rating": 4.11,
+  "difficulty_rank": "B"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e126"
+  },
+  "": 329,
+  "name": "Kitasato University",
+  "state": "Tokyo",
+  "review_rating": 3.98,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e127"
+  },
+  "": 330,
+  "name": "Kyoritsu　Women’s　University",
+  "state": "Tokyo",
+  "review_rating": 3.92,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e128"
+  },
+  "": 331,
+  "name": "Keio　University",
+  "state": "Tokyo",
+  "review_rating": 4.19,
+  "difficulty_rank": "S"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e129"
+  },
+  "": 332,
+  "name": "Kogakuin　University",
+  "state": "Tokyo",
+  "review_rating": 3.64,
+  "difficulty_rank": "B"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e12a"
+  },
+  "": 333,
+  "name": "Kokugakuin　University",
+  "state": "Tokyo",
+  "review_rating": 3.91
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e12b"
+  },
+  "": 334,
+  "name": "Kokushikan　University",
+  "state": "Tokyo",
+  "review_rating": 3.75,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e12c"
+  },
+  "": 335,
+  "name": "Komazawa　University",
+  "state": "Tokyo",
+  "review_rating": 3.73,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e12d"
+  },
+  "": 336,
+  "name": "Jissen　Women’s　University",
+  "state": "Tokyo",
+  "review_rating": 3.92,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e12e"
+  },
+  "": 337,
+  "name": "Shibaura　Institute　of　Technology",
+  "state": "Tokyo",
+  "review_rating": 3.94,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e12f"
+  },
+  "": 338,
+  "name": "Juntendo　University",
+  "state": "Tokyo",
+  "review_rating": 4.07,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e130"
+  },
+  "": 339,
+  "name": "Sophia　University",
+  "state": "Tokyo",
+  "review_rating": 4.2,
+  "difficulty_rank": "A"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e131"
+  },
+  "": 340,
+  "name": "Showa　University",
+  "state": "Tokyo",
+  "review_rating": 3.91,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e132"
+  },
+  "": 341,
+  "name": "Showa　Women’s　University",
+  "state": "Tokyo",
+  "review_rating": 3.94,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e133"
+  },
+  "": 342,
+  "name": "Showa　Pharmaceutical　University",
+  "state": "Tokyo",
+  "review_rating": 3.55,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e134"
+  },
+  "": 343,
+  "name": "Joshibi　University　of　Art　And　Design",
+  "state": "Tokyo",
+  "review_rating": 4,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e135"
+  },
+  "": 344,
+  "name": "Sugino　Fashion　College",
+  "state": "Tokyo",
+  "review_rating": 3.51,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e136"
+  },
+  "": 345,
+  "name": "Seijo　University",
+  "state": "Tokyo",
+  "review_rating": 3.81,
+  "difficulty_rank": "B"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e137"
+  },
+  "": 346,
+  "name": "University　of　The　Sacred　Heart,　Tokyo",
+  "state": "Tokyo",
+  "review_rating": 4.33,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e138"
+  },
+  "": 347,
+  "name": "Seisen　University",
+  "state": "Tokyo",
+  "review_rating": 4.15,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e139"
+  },
+  "": 348,
+  "name": "St.Luke’s　International　University",
+  "state": "Tokyo",
+  "review_rating": 4.41,
+  "difficulty_rank": "A"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e13a"
+  },
+  "": 349,
+  "name": "Senshu　University",
+  "state": "Tokyo",
+  "review_rating": 3.74,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e13b"
+  },
+  "": 350,
+  "name": "Taisho　University",
+  "state": "Tokyo",
+  "review_rating": 3.8,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e13c"
+  },
+  "": 351,
+  "name": "Daito　Bunka　University",
+  "state": "Tokyo",
+  "review_rating": 3.69,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e13d"
+  },
+  "": 352,
+  "name": "Takachiho　University",
+  "state": "Tokyo",
+  "review_rating": 3.56,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e13e"
+  },
+  "": 353,
+  "name": "Takushoku　University",
+  "state": "Tokyo",
+  "review_rating": 3.64,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e13f"
+  },
+  "": 354,
+  "name": "Tama　Art　University",
+  "state": "Tokyo",
+  "review_rating": 3.95,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e140"
+  },
+  "": 355,
+  "name": "Chuo　University",
+  "state": "Tokyo",
+  "review_rating": 3.91,
+  "difficulty_rank": "B"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e141"
+  },
+  "": 356,
+  "name": "Tokai　University",
+  "state": "Kanagawa",
+  "review_rating": 3.8,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e142"
+  },
+  "": 357,
+  "name": "Tokyo　Medical　University",
+  "state": "Tokyo",
+  "review_rating": 3.9,
+  "difficulty_rank": "A"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e143"
+  },
+  "": 358,
+  "name": "Tokyo　Kasei　University",
+  "state": "Tokyo",
+  "review_rating": 3.95,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e144"
+  },
+  "": 359,
+  "name": "Tokyo　Kasei　Gakuin　University",
+  "state": "Tokyo",
+  "review_rating": 3.57,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e145"
+  },
+  "": 360,
+  "name": "Tokyo　Dental　College",
+  "state": "Tokyo",
+  "review_rating": 4.16,
+  "difficulty_rank": "B"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e146"
+  },
+  "": 361,
+  "name": "The　Jikei　University　School　of　Medicine",
+  "state": "Tokyo",
+  "review_rating": 4.28,
+  "difficulty_rank": "A"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e147"
+  },
+  "": 362,
+  "name": "Tokyo　Woman's　Christian　University",
+  "state": "Tokyo",
+  "review_rating": 3.93,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e148"
+  },
+  "": 363,
+  "name": "Tokyo　Women’s　Medical　University",
+  "state": "Tokyo",
+  "review_rating": 4.29,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e149"
+  },
+  "": 364,
+  "name": "Tokyo　Denki　University",
+  "state": "Tokyo",
+  "review_rating": 3.68,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e14a"
+  },
+  "": 365,
+  "name": "Tokyo　University　of　Agriculture",
+  "state": "Tokyo",
+  "review_rating": 3.94,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e14b"
+  },
+  "": 366,
+  "name": "Tokyo　University　of　Pharmacy　And　Life　Sciences",
+  "state": "Tokyo",
+  "review_rating": 3.82,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e14c"
+  },
+  "": 367,
+  "name": "Tokyo　University　of　Science",
+  "state": "Tokyo",
+  "review_rating": 3.85,
+  "difficulty_rank": "B"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e14d"
+  },
+  "": 368,
+  "name": "Toho　University",
+  "state": "Tokyo",
+  "review_rating": 3.98,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e14e"
+  },
+  "": 369,
+  "name": "Toyo University",
+  "state": "Tokyo",
+  "review_rating": 3.83,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e14f"
+  },
+  "": 370,
+  "name": "Tokyo　College　of　Music",
+  "state": "Tokyo",
+  "review_rating": 4.14,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e150"
+  },
+  "": 371,
+  "name": "Nishogakusha　University",
+  "state": "Tokyo",
+  "review_rating": 3.67
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e151"
+  },
+  "": 372,
+  "name": "Nihon　University",
+  "state": "Tokyo",
+  "review_rating": 3.71,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e152"
+  },
+  "": 373,
+  "name": "Nippon　Medical　School",
+  "state": "Tokyo",
+  "review_rating": 3.99,
+  "difficulty_rank": "S"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e153"
+  },
+  "": 374,
+  "name": "The　Nippon　Dental　University",
+  "state": "Tokyo",
+  "review_rating": 3.16,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e154"
+  },
+  "": 375,
+  "name": "Japan　College　of　Social　Work",
+  "state": "Tokyo",
+  "review_rating": 3.86,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e155"
+  },
+  "": 376,
+  "name": "Japan Women’s University",
+  "state": "Tokyo",
+  "review_rating": 4.09,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e156"
+  },
+  "": 377,
+  "name": "Japan　Women’s　College　of　Physical　Education",
+  "state": "Tokyo",
+  "review_rating": 4,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e157"
+  },
+  "": 378,
+  "name": "Nippon　Sport　Science　University",
+  "state": "Tokyo",
+  "review_rating": 4.03,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e158"
+  },
+  "": 379,
+  "name": "Japan　Lutheran　College",
+  "state": "Tokyo",
+  "review_rating": 3.97,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e159"
+  },
+  "": 380,
+  "name": "Bunka　Gakuen　University",
+  "state": "Tokyo",
+  "review_rating": 4.08,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e15a"
+  },
+  "": 381,
+  "name": "Hosei　University",
+  "state": "Tokyo",
+  "review_rating": 3.89,
+  "difficulty_rank": "B"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e15b"
+  },
+  "": 382,
+  "name": "Hoshi　University",
+  "state": "Tokyo",
+  "review_rating": 3.9,
+  "difficulty_rank": "B"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e15c"
+  },
+  "": 383,
+  "name": "Musashi　University",
+  "state": "Tokyo",
+  "review_rating": 3.96,
+  "difficulty_rank": "B"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e15d"
+  },
+  "": 384,
+  "name": "Tokyo　City　University",
+  "state": "Tokyo",
+  "review_rating": 3.88,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e15e"
+  },
+  "": 385,
+  "name": "Musashino　Academia　Musicae",
+  "state": "Tokyo",
+  "review_rating": 3.86,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e15f"
+  },
+  "": 386,
+  "name": "Meiji　University",
+  "state": "Tokyo",
+  "review_rating": 4.01,
+  "difficulty_rank": "A"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e160"
+  },
+  "": 387,
+  "name": "Meiji　Gakuin　University",
+  "state": "Tokyo",
+  "review_rating": 3.9,
+  "difficulty_rank": "B"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e161"
+  },
+  "": 388,
+  "name": "Meiji　Pharmaceutical　University",
+  "state": "Tokyo",
+  "review_rating": 3.93,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e162"
+  },
+  "": 389,
+  "name": "Rikkyo　University",
+  "state": "Tokyo",
+  "review_rating": 4.09,
+  "difficulty_rank": "A"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e163"
+  },
+  "": 390,
+  "name": "Rissho　University",
+  "state": "Tokyo",
+  "review_rating": 3.76,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e164"
+  },
+  "": 391,
+  "name": "Waseda　University",
+  "state": "Tokyo",
+  "review_rating": 4.14,
+  "difficulty_rank": "S"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e165"
+  },
+  "": 392,
+  "name": "International　College　For　Postgraduate　Buddhist　Studies",
+  "state": "Tokyo",
+  "review_rating": 5
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e166"
+  },
+  "": 393,
+  "name": "Gakushuin　Women’s　College",
+  "state": "Tokyo",
+  "review_rating": 4.19,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e167"
+  },
+  "": 394,
+  "name": "International Professional University of Technology in Tokyo",
+  "state": "Tokyo",
+  "review_rating": 4
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e168"
+  },
+  "": 395,
+  "name": "Tokyo Professional University of Health Sciences",
+  "state": "Tokyo",
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e169"
+  },
+  "": 396,
+  "name": "Professional University of Information and Management for Innovation",
+  "state": "Tokyo",
+  "review_rating": 3.5,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e16a"
+  },
+  "": 397,
+  "name": "Graduate School of Leadership and Innovation, Shizenkan University",
+  "state": "Tokyo"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e16b"
+  },
+  "": 398,
+  "name": "Tokyo　Online　University",
+  "state": "Tokyo",
+  "review_rating": 3.78
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e16c"
+  },
+  "": 399,
+  "name": "Professional Institute of International Fashion",
+  "state": "Tokyo",
+  "review_rating": 4
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e16d"
+  },
+  "": 400,
+  "name": "Komazawa　Women’s　University",
+  "state": "Tokyo",
+  "review_rating": 3.74,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e16e"
+  },
+  "": 401,
+  "name": "Asia　University",
+  "state": "Tokyo",
+  "review_rating": 3.75,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e16f"
+  },
+  "": 402,
+  "name": "J.F.Oberlin　University",
+  "state": "Tokyo",
+  "review_rating": 3.8,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e170"
+  },
+  "": 403,
+  "name": "Kunitachi　College　of　Music",
+  "state": "Tokyo",
+  "review_rating": 4.09,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e171"
+  },
+  "": 404,
+  "name": "International　Christian　University",
+  "state": "Tokyo",
+  "review_rating": 4.43,
+  "difficulty_rank": "S"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e172"
+  },
+  "": 405,
+  "name": "Shirayuri　University",
+  "state": "Tokyo",
+  "review_rating": 3.92,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e173"
+  },
+  "": 406,
+  "name": "Seikei　University",
+  "state": "Tokyo",
+  "review_rating": 3.95,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e174"
+  },
+  "": 407,
+  "name": "Tamagawa　University",
+  "state": "Tokyo",
+  "review_rating": 3.78,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e175"
+  },
+  "": 408,
+  "name": "Tsuda　University",
+  "state": "Tokyo",
+  "review_rating": 4.11,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e176"
+  },
+  "": 409,
+  "name": "Teikyo　University",
+  "state": "Tokyo",
+  "review_rating": 3.71,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e177"
+  },
+  "": 410,
+  "name": "Tokyo　Keizai　University",
+  "state": "Tokyo",
+  "review_rating": 3.87,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e178"
+  },
+  "": 411,
+  "name": "Tokyo　Women’s　College　of　Physical　Education",
+  "state": "Tokyo",
+  "review_rating": 3.8,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e179"
+  },
+  "": 412,
+  "name": "Tokyo　Union　Theological　Seminary",
+  "state": "Tokyo",
+  "review_rating": 2.86
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e17a"
+  },
+  "": 413,
+  "name": "Tokyo　Zokei　University",
+  "state": "Tokyo",
+  "review_rating": 3.86,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e17b"
+  },
+  "": 414,
+  "name": "Toho　Gakuen　School　of　Music",
+  "state": "Tokyo",
+  "review_rating": 4.35,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e17c"
+  },
+  "": 415,
+  "name": "Nippon　Veterinary　And　Life　Science　University",
+  "state": "Tokyo",
+  "review_rating": 4.03
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e17d"
+  },
+  "": 416,
+  "name": "Musashino　University",
+  "state": "Tokyo",
+  "review_rating": 3.7,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e17e"
+  },
+  "": 417,
+  "name": "Musashino　Art　University",
+  "state": "Tokyo",
+  "review_rating": 4.01,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e17f"
+  },
+  "": 418,
+  "name": "Meisei　University",
+  "state": "Tokyo",
+  "review_rating": 3.75,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e180"
+  },
+  "": 419,
+  "name": "WAKO　UNIVERSITY",
+  "state": "Tokyo",
+  "review_rating": 3.59,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e181"
+  },
+  "": 420,
+  "name": "Kyorin　University",
+  "state": "Tokyo",
+  "review_rating": 3.77,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e182"
+  },
+  "": 421,
+  "name": "Soka　University",
+  "state": "Tokyo",
+  "review_rating": 4.35,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e183"
+  },
+  "": 422,
+  "name": "Nihon　Bunka　University",
+  "state": "Tokyo",
+  "review_rating": 3.22,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e184"
+  },
+  "": 423,
+  "name": "Tokyo　University　of　Technology",
+  "state": "Tokyo",
+  "review_rating": 3.56,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e185"
+  },
+  "": 424,
+  "name": "Japanese　Red　Cross　College　of　Nursing",
+  "state": "Tokyo",
+  "review_rating": 4.38,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e186"
+  },
+  "": 425,
+  "name": "Keisen　University",
+  "state": "Tokyo",
+  "review_rating": 3.79,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e187"
+  },
+  "": 426,
+  "name": "Tama　University",
+  "state": "Tokyo",
+  "review_rating": 3.34,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e188"
+  },
+  "": 427,
+  "name": "Tokyo　Junshin　University",
+  "state": "Tokyo",
+  "review_rating": 3.58,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e189"
+  },
+  "": 428,
+  "name": "Kaetsu　University",
+  "state": "Tokyo",
+  "review_rating": 3.2,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e18a"
+  },
+  "": 429,
+  "name": "Tokyo　Fuji　University",
+  "state": "Tokyo",
+  "review_rating": 3.48,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e18b"
+  },
+  "": 430,
+  "name": "LEC Graduate University",
+  "state": "Tokyo"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e18c"
+  },
+  "": 431,
+  "name": "Digital Hollywood University",
+  "state": "Tokyo",
+  "review_rating": 4.25,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e18d"
+  },
+  "": 432,
+  "name": "Shiraume　Gakuen　University",
+  "state": "Tokyo",
+  "review_rating": 3.95,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e18e"
+  },
+  "": 433,
+  "name": "Tokyo　Healthcare　University",
+  "state": "Tokyo",
+  "review_rating": 3.65,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e18f"
+  },
+  "": 434,
+  "name": "Tokyo　Seiei　College",
+  "state": "Tokyo",
+  "review_rating": 3.79,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e190"
+  },
+  "": 435,
+  "name": "Business Breakthrough University",
+  "state": "Tokyo",
+  "review_rating": 4.23
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e191"
+  },
+  "": 436,
+  "name": "Graduate　School　of　Management,　GLOBIS　University",
+  "state": "Tokyo",
+  "review_rating": 5
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e192"
+  },
+  "": 437,
+  "name": "Bunka　Fashion　Graduate　University",
+  "state": "Tokyo"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e193"
+  },
+  "": 438,
+  "name": "Ohara　Graduate　School　of　Accounting",
+  "state": "Tokyo",
+  "review_rating": 3.82
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e194"
+  },
+  "": 439,
+  "name": "Tokyo　Future　University",
+  "state": "Tokyo",
+  "review_rating": 3.87,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e195"
+  },
+  "": 440,
+  "name": "Hollywood　Graduate　School　of　Beauty　Business",
+  "state": "Tokyo",
+  "review_rating": 3.67
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e196"
+  },
+  "": 441,
+  "name": "Sbi　Graduate　School",
+  "state": "Tokyo"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e197"
+  },
+  "": 442,
+  "name": "Hosen　College　of　Childhood　Education",
+  "state": "Tokyo",
+  "review_rating": 3.63,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e198"
+  },
+  "": 443,
+  "name": "Tokyo　Ariake　University　of　Medical　And　Health　Sciences",
+  "state": "Tokyo",
+  "review_rating": 3.71,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e199"
+  },
+  "": 444,
+  "name": "Tokyo　Polytechnic　University",
+  "state": "Tokyo",
+  "review_rating": 3.65,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e19a"
+  },
+  "": 445,
+  "name": "Sanno　University",
+  "state": "Tokyo",
+  "review_rating": 3.83,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e19b"
+  },
+  "": 446,
+  "name": "Yamazaki　University　of　Animal　Health　Technology",
+  "state": "Tokyo",
+  "review_rating": 3.57,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e19c"
+  },
+  "": 447,
+  "name": "University　of　Tokyo　Health　Sciences",
+  "state": "Tokyo",
+  "review_rating": 3.39,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e19d"
+  },
+  "": 448,
+  "name": "The　Graduate　School　of　Project　Design",
+  "state": "Tokyo"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e19e"
+  },
+  "": 449,
+  "name": "The　Graduate　School　of　Social Design",
+  "state": "Tokyo"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e19f"
+  },
+  "": 450,
+  "name": "Teikyo　University　of　Science",
+  "state": "Tokyo",
+  "review_rating": 3.58,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1a0"
+  },
+  "": 451,
+  "name": "Seisa　University",
+  "state": "Kanagawa",
+  "review_rating": 4.15
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1a1"
+  },
+  "": 452,
+  "name": "Kanagawa　University",
+  "state": "Kanagawa",
+  "review_rating": 3.68,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1a2"
+  },
+  "": 453,
+  "name": "Kanto　Gakuin　University",
+  "state": "Kanagawa",
+  "review_rating": 3.54,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1a3"
+  },
+  "": 454,
+  "name": "Tsurumi　University",
+  "state": "Kanagawa",
+  "review_rating": 3.75,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1a4"
+  },
+  "": 455,
+  "name": "Ferris　University",
+  "state": "Kanagawa",
+  "review_rating": 4.06,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1a5"
+  },
+  "": 456,
+  "name": "Yokohama　College　of　Commerce",
+  "state": "Kanagawa",
+  "review_rating": 3.51,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1a6"
+  },
+  "": 457,
+  "name": "Yashima　Gakuen　University",
+  "state": "Kanagawa",
+  "review_rating": 3.42
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1a7"
+  },
+  "": 458,
+  "name": "Institute　of　Information　Security",
+  "state": "Kanagawa",
+  "review_rating": 3.28
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1a8"
+  },
+  "": 459,
+  "name": "Yokohama　University　of　Pharmacy",
+  "state": "Kanagawa",
+  "review_rating": 3.68,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1a9"
+  },
+  "": 460,
+  "name": "Azabu　University",
+  "state": "Kanagawa",
+  "review_rating": 3.83,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1aa"
+  },
+  "": 461,
+  "name": "Kanagawa　Dentaluniversity",
+  "state": "Kanagawa",
+  "review_rating": 3.11,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1ab"
+  },
+  "": 462,
+  "name": "Kamakura　Women’s　University",
+  "state": "Kanagawa",
+  "review_rating": 3.9,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1ac"
+  },
+  "": 463,
+  "name": "Shonan　Institute　of　Technology",
+  "state": "Kanagawa",
+  "review_rating": 3.76,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1ad"
+  },
+  "": 464,
+  "name": "Sagami　Women’s　University",
+  "state": "Kanagawa",
+  "review_rating": 3.76,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1ae"
+  },
+  "": 465,
+  "name": "Senzoku　Gakuen　College　of　Music",
+  "state": "Kanagawa",
+  "review_rating": 3.86
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1af"
+  },
+  "": 466,
+  "name": "St.Marianna　University　School　of　Medicine",
+  "state": "Kanagawa",
+  "review_rating": 3.76,
+  "difficulty_rank": "A"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1b0"
+  },
+  "": 467,
+  "name": "Kanagawa　Institute of　Technology",
+  "state": "Kanagawa",
+  "review_rating": 3.59,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1b1"
+  },
+  "": 468,
+  "name": "Showa　University　of　Music",
+  "state": "Kanagawa",
+  "review_rating": 4.06,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1b2"
+  },
+  "": 469,
+  "name": "Toin　University　of　Yokohama",
+  "state": "Kanagawa",
+  "review_rating": 3.71,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1b3"
+  },
+  "": 470,
+  "name": "Toyo　Eiwa　University",
+  "state": "Kanagawa",
+  "review_rating": 3.78,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1b4"
+  },
+  "": 471,
+  "name": "Shoin　University",
+  "state": "Kanagawa",
+  "review_rating": 3.47,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1b5"
+  },
+  "": 472,
+  "name": "Den-En　Chofu　University",
+  "state": "Kanagawa",
+  "review_rating": 3.64,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1b6"
+  },
+  "": 473,
+  "name": "Yokohama　University　of　Art　&　Design",
+  "state": "Kanagawa",
+  "review_rating": 3.92,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1b7"
+  },
+  "": 474,
+  "name": "Japan　Institute　of　The　Moving　Image",
+  "state": "Kanagawa",
+  "review_rating": 3.73,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1b8"
+  },
+  "": 475,
+  "name": "Yokohama　Soei　University",
+  "state": "Kanagawa",
+  "review_rating": 3.56,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1b9"
+  },
+  "": 476,
+  "name": "Shonan　University　of　Medical　Sciences",
+  "state": "Kanagawa",
+  "review_rating": 3.72,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1ba"
+  },
+  "": 477,
+  "name": "SHONAN KAMAKURA UNIVERSITY OF MEDICAL SCIENCES",
+  "state": "Kanagawa",
+  "review_rating": 3.67,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1bb"
+  },
+  "": 478,
+  "name": "Nagaoka　University",
+  "state": "Niigata",
+  "review_rating": 3.44,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1bc"
+  },
+  "": 479,
+  "name": "Niigata　University　of　Health　And　Welfare",
+  "state": "Niigata",
+  "review_rating": 3.89,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1bd"
+  },
+  "": 480,
+  "name": "Niigata　Seiryo　University",
+  "state": "Niigata",
+  "review_rating": 3.94,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1be"
+  },
+  "": 481,
+  "name": "Niigata　Institute　of　Technology",
+  "state": "Niigata",
+  "review_rating": 3.62,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1bf"
+  },
+  "": 482,
+  "name": "Niigata　University　of　Management",
+  "state": "Niigata",
+  "review_rating": 3.73,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1c0"
+  },
+  "": 483,
+  "name": "Niigata　University　of　International　And　Information　Studies",
+  "state": "Niigata",
+  "review_rating": 3.69,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1c1"
+  },
+  "": 484,
+  "name": "Keiwa　College",
+  "state": "Niigata",
+  "review_rating": 3.45,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1c2"
+  },
+  "": 485,
+  "name": "Niigata　University　of　Pharmacy　and　Applied　Life　Sciences",
+  "state": "Niigata",
+  "review_rating": 3.51,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1c3"
+  },
+  "": 486,
+  "name": "International　University　of　Japan",
+  "state": "Niigata",
+  "review_rating": 3
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1c4"
+  },
+  "": 487,
+  "name": "Niigata　Sangyo　University",
+  "state": "Niigata",
+  "review_rating": 3.73,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1c5"
+  },
+  "": 488,
+  "name": "Graduate　Institute　For　Entrepreneurial　Studies",
+  "state": "Niigata"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1c6"
+  },
+  "": 489,
+  "name": "Niigata　University　of　Rehabilitation",
+  "state": "Niigata",
+  "review_rating": 3.18,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1c7"
+  },
+  "": 490,
+  "name": "Niigata　Agro-Food　University",
+  "state": "Niigata",
+  "review_rating": 2.75,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1c8"
+  },
+  "": 491,
+  "name": "Kaishi Professional University",
+  "state": "Niigata",
+  "review_rating": 4,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1c9"
+  },
+  "": 492,
+  "name": "Nagaoka Sutoku University",
+  "state": "Niigata",
+  "review_rating": 3.75,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1ca"
+  },
+  "": 493,
+  "name": "Takaoka　University　of　Law",
+  "state": "Toyama",
+  "review_rating": 3.43,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1cb"
+  },
+  "": 494,
+  "name": "Toyama　University　of　International　Studies",
+  "state": "Toyama",
+  "review_rating": 3.7,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1cc"
+  },
+  "": 495,
+  "name": "Toho　Gakuen　Graduate　School",
+  "state": "Toyama",
+  "review_rating": 5
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1cd"
+  },
+  "": 496,
+  "name": "Kanazawa　Seiryo　University",
+  "state": "Ishikawa",
+  "review_rating": 3.77,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1ce"
+  },
+  "": 497,
+  "name": "Kanazawa　Institute　of　Technology",
+  "state": "Ishikawa",
+  "review_rating": 3.69,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1cf"
+  },
+  "": 498,
+  "name": "Kanazawa　Medical　University",
+  "state": "Ishikawa",
+  "review_rating": 3.9,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1d0"
+  },
+  "": 499,
+  "name": "Hokuriku　University",
+  "state": "Ishikawa",
+  "review_rating": 3.46,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1d1"
+  },
+  "": 500,
+  "name": "Kanazawa　Gakuin　University",
+  "state": "Ishikawa",
+  "review_rating": 3.4,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1d2"
+  },
+  "": 501,
+  "name": "Kinjo　University",
+  "state": "Ishikawa",
+  "review_rating": 3.84,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1d3"
+  },
+  "": 502,
+  "name": "Hokurikugakuin　University",
+  "state": "Ishikawa",
+  "review_rating": 3.81,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1d4"
+  },
+  "": 503,
+  "name": "Kanazawa Professional University of Food Management",
+  "state": "Ishikawa",
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1d5"
+  },
+  "": 504,
+  "name": "Fukui　University　of　Technology",
+  "state": "Fukui",
+  "review_rating": 3.59,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1d6"
+  },
+  "": 505,
+  "name": "Jin-Ai　University",
+  "state": "Fukui",
+  "review_rating": 3.85,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1d7"
+  },
+  "": 506,
+  "name": "Fukui　Health　Science　University",
+  "state": "Fukui",
+  "review_rating": 3.56,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1d8"
+  },
+  "": 507,
+  "name": "Yamanashi　Gakuin　University",
+  "state": "Yamanashi",
+  "review_rating": 3.74,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1d9"
+  },
+  "": 508,
+  "name": "Minobusan　University",
+  "state": "Yamanashi",
+  "review_rating": 5,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1da"
+  },
+  "": 509,
+  "name": "Yamanashi-Eiwa　College",
+  "state": "Yamanashi",
+  "review_rating": 3.66,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1db"
+  },
+  "": 510,
+  "name": "Health　Science　University",
+  "state": "Yamanashi",
+  "review_rating": 3.58,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1dc"
+  },
+  "": 511,
+  "name": "Matsumoto　Dental　University",
+  "state": "Nagano",
+  "review_rating": 3.1,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1dd"
+  },
+  "": 512,
+  "name": "Matsumoto　University",
+  "state": "Nagano",
+  "review_rating": 3.91,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1de"
+  },
+  "": 513,
+  "name": "Seisen　Jogakuin　College",
+  "state": "Nagano",
+  "review_rating": 4.1,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1df"
+  },
+  "": 514,
+  "name": "Saku　University",
+  "state": "Nagano",
+  "review_rating": 3.89,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1e0"
+  },
+  "": 515,
+  "name": "Nagano　University　of　Health　And　Medicine",
+  "state": "Nagano",
+  "review_rating": 3.87,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1e1"
+  },
+  "": 516,
+  "name": "MATSUMOTO COLLEGE OF NURSING",
+  "state": "Nagano",
+  "review_rating": 3,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1e2"
+  },
+  "": 517,
+  "name": "Chukyo　Gakuin　University",
+  "state": "Gifu",
+  "review_rating": 3.64,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1e3"
+  },
+  "": 518,
+  "name": "Gifu　Kyoritsu　University",
+  "state": "Gifu",
+  "review_rating": 3.46,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1e4"
+  },
+  "": 519,
+  "name": "Gifu　Women’s　University",
+  "state": "Gifu",
+  "review_rating": 3.77,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1e5"
+  },
+  "": 520,
+  "name": "Asahi　University",
+  "state": "Gifu",
+  "review_rating": 3.76,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1e6"
+  },
+  "": 521,
+  "name": "Gifu　Shotoku　Gakuen　University",
+  "state": "Gifu",
+  "review_rating": 4.09,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1e7"
+  },
+  "": 522,
+  "name": "Tokai　Gakuin　University",
+  "state": "Gifu",
+  "review_rating": 3.52,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1e8"
+  },
+  "": 523,
+  "name": "Chubu　Gakuin　University",
+  "state": "Gifu",
+  "review_rating": 3.86,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1e9"
+  },
+  "": 524,
+  "name": "Gifu　University　of　Medical　Science",
+  "state": "Gifu",
+  "review_rating": 3.79,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1ea"
+  },
+  "": 525,
+  "name": "Gifu University of Health Sciences",
+  "state": "Gifu",
+  "review_rating": 3.91,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1eb"
+  },
+  "": 526,
+  "name": "The　Graduate　School　For　The　Creation　of　New　Photonics　Industries",
+  "state": "Shizuoka"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1ec"
+  },
+  "": 527,
+  "name": "Shizuoka　University　of　Welfare",
+  "state": "Shizuoka",
+  "review_rating": 3.89,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1ed"
+  },
+  "": 528,
+  "name": "Hamamatsu　Gakuin　University",
+  "state": "Shizuoka",
+  "review_rating": 3.93,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1ee"
+  },
+  "": 529,
+  "name": "Shizuoka　Eiwa　Gakuin　University",
+  "state": "Shizuoka",
+  "review_rating": 3.54,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1ef"
+  },
+  "": 530,
+  "name": "Tokoha　University",
+  "state": "Shizuoka",
+  "review_rating": 3.77,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1f0"
+  },
+  "": 531,
+  "name": "Shizuoka　Institute　of　Science　And　Technology",
+  "state": "Shizuoka",
+  "review_rating": 3.59,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1f1"
+  },
+  "": 532,
+  "name": "Seirei　Christopher　University",
+  "state": "Shizuoka",
+  "review_rating": 4,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1f2"
+  },
+  "": 533,
+  "name": "Shizuoka　Sangyo　University",
+  "state": "Shizuoka",
+  "review_rating": 3.64,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1f3"
+  },
+  "": 534,
+  "name": "Aichi　University　of　Technology",
+  "state": "Aichi",
+  "review_rating": 3.5,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1f4"
+  },
+  "": 535,
+  "name": "Nagoya　Sangyo　University",
+  "state": "Aichi",
+  "review_rating": 3.63,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1f5"
+  },
+  "": 536,
+  "name": "University　of　Human　Environments",
+  "state": "Aichi",
+  "review_rating": 3.58,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1f6"
+  },
+  "": 537,
+  "name": "Nagoya　Bunri　University",
+  "state": "Aichi",
+  "review_rating": 3.68,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1f7"
+  },
+  "": 538,
+  "name": "Aichi　Mizuho　College",
+  "state": "Aichi",
+  "review_rating": 3.46,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1f8"
+  },
+  "": 539,
+  "name": "Aichi　Gakuin　University",
+  "state": "Aichi",
+  "review_rating": 3.83,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1f9"
+  },
+  "": 540,
+  "name": "Aichi　Institute　of　Technology",
+  "state": "Aichi",
+  "review_rating": 3.67,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1fa"
+  },
+  "": 541,
+  "name": "Kinjogakuin　University",
+  "state": "Aichi",
+  "review_rating": 4.02,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1fb"
+  },
+  "": 542,
+  "name": "Sugiyama　Jogakuen　University",
+  "state": "Aichi",
+  "review_rating": 3.98,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1fc"
+  },
+  "": 543,
+  "name": "Daido　University",
+  "state": "Aichi",
+  "review_rating": 3.71,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1fd"
+  },
+  "": 544,
+  "name": "Chukyo　University",
+  "state": "Aichi",
+  "review_rating": 3.81,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1fe"
+  },
+  "": 545,
+  "name": "Doho　University",
+  "state": "Aichi",
+  "review_rating": 3.62,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e1ff"
+  },
+  "": 546,
+  "name": "Nagoya　Gakuin　University",
+  "state": "Aichi",
+  "review_rating": 3.6,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e200"
+  },
+  "": 547,
+  "name": "Nagoya　University　of　Commerce　&　Business",
+  "state": "Aichi",
+  "review_rating": 3.37,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e201"
+  },
+  "": 548,
+  "name": "Nagoya　Women’s　University",
+  "state": "Aichi",
+  "review_rating": 3.79,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e202"
+  },
+  "": 549,
+  "name": "Nanzan　University",
+  "state": "Aichi",
+  "review_rating": 3.96,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e203"
+  },
+  "": 550,
+  "name": "Nihon　Fukushi　University",
+  "state": "Aichi",
+  "review_rating": 3.76,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e204"
+  },
+  "": 551,
+  "name": "Meijo　University",
+  "state": "Aichi",
+  "review_rating": 3.84,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e205"
+  },
+  "": 552,
+  "name": "Nagoya　College　of　Music",
+  "state": "Aichi",
+  "review_rating": 3.86,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e206"
+  },
+  "": 553,
+  "name": "Toyota　Technological　Institute",
+  "state": "Aichi",
+  "review_rating": 3.76,
+  "difficulty_rank": "B"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e207"
+  },
+  "": 554,
+  "name": "Nagoya　University　of　Foreign　Studies",
+  "state": "Aichi",
+  "review_rating": 3.89,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e208"
+  },
+  "": 555,
+  "name": "Nagoya　Zokei　University　of　Art　;　Design",
+  "state": "Aichi",
+  "review_rating": 3.65,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e209"
+  },
+  "": 556,
+  "name": "Aichi　Sangyo　University",
+  "state": "Aichi",
+  "review_rating": 3.8,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e20a"
+  },
+  "": 557,
+  "name": "Tokai　Gakuen　University",
+  "state": "Aichi",
+  "review_rating": 3.56,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e20b"
+  },
+  "": 558,
+  "name": "Toyohashi　Sozo　University",
+  "state": "Aichi",
+  "review_rating": 3.54,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e20c"
+  },
+  "": 559,
+  "name": "Aichi　Toho　University",
+  "state": "Aichi",
+  "review_rating": 3.54,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e20d"
+  },
+  "": 560,
+  "name": "Seijoh　University",
+  "state": "Aichi",
+  "review_rating": 3.75,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e20e"
+  },
+  "": 561,
+  "name": "Aichi　Bunkyo　University",
+  "state": "Aichi",
+  "review_rating": 3.55,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e20f"
+  },
+  "": 562,
+  "name": "Ohkagakuen　University",
+  "state": "Aichi",
+  "review_rating": 4.21,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e210"
+  },
+  "": 563,
+  "name": "Aichi　University",
+  "state": "Aichi",
+  "review_rating": 3.83,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e211"
+  },
+  "": 564,
+  "name": "Aichi　Gakusen　University",
+  "state": "Aichi",
+  "review_rating": 3.41,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e212"
+  },
+  "": 565,
+  "name": "Shigakkan　University",
+  "state": "Aichi",
+  "review_rating": 3.58,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e213"
+  },
+  "": 566,
+  "name": "Chubu　University",
+  "state": "Aichi",
+  "review_rating": 3.73,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e214"
+  },
+  "": 567,
+  "name": "Fujita　Health　University",
+  "state": "Aichi",
+  "review_rating": 3.73,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e215"
+  },
+  "": 568,
+  "name": "Nagoya　University　of　The　Arts",
+  "state": "Aichi",
+  "review_rating": 3.72,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e216"
+  },
+  "": 569,
+  "name": "Aichi　Medical　University",
+  "state": "Aichi",
+  "review_rating": 3.76,
+  "difficulty_rank": "B"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e217"
+  },
+  "": 570,
+  "name": "Aichi　Shukutoku　University",
+  "state": "Aichi",
+  "review_rating": 3.84,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e218"
+  },
+  "": 571,
+  "name": "Nagoya　University　of　Economics",
+  "state": "Aichi",
+  "review_rating": 3.38,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e219"
+  },
+  "": 572,
+  "name": "Nagoya　University　of　Arts　And　Sciences",
+  "state": "Aichi",
+  "review_rating": 4.16,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e21a"
+  },
+  "": 573,
+  "name": "Japanese　Red　Cross　Toyota　College　of　Nursing",
+  "state": "Aichi",
+  "review_rating": 3.88,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e21b"
+  },
+  "": 574,
+  "name": "Shubun　University",
+  "state": "Aichi",
+  "review_rating": 3.47,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e21c"
+  },
+  "": 575,
+  "name": "Okazaki　Women’s　University",
+  "state": "Aichi",
+  "review_rating": 4.1,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e21d"
+  },
+  "": 576,
+  "name": "Ichinomiya　Kenshin　College",
+  "state": "Aichi",
+  "review_rating": 4,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e21e"
+  },
+  "": 577,
+  "name": "Nagoya Ryujo Women's University",
+  "state": "Aichi",
+  "review_rating": 4.12,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e21f"
+  },
+  "": 578,
+  "name": "International Professional University of Technology in Nagoya",
+  "state": "Aichi",
+  "review_rating": 5
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e220"
+  },
+  "": 579,
+  "name": "Yokkaichi　University",
+  "state": "Mie",
+  "review_rating": 3.65,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e221"
+  },
+  "": 580,
+  "name": "Kogakkan　University",
+  "state": "Mie",
+  "review_rating": 3.9,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e222"
+  },
+  "": 581,
+  "name": "Suzuka　University　of Medical　Science",
+  "state": "Mie",
+  "review_rating": 3.59,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e223"
+  },
+  "": 582,
+  "name": "Suzuka　University",
+  "state": "Mie",
+  "review_rating": 3.51,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e224"
+  },
+  "": 583,
+  "name": "Yokkaichi　Nursing　And　Medical　Care　University",
+  "state": "Mie",
+  "review_rating": 3.76,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e225"
+  },
+  "": 584,
+  "name": "Seian　University　of　Art　And　Design",
+  "state": "Shiga",
+  "review_rating": 3.75,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e226"
+  },
+  "": 585,
+  "name": "Seisen　University",
+  "state": "Shiga",
+  "review_rating": 3.39,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e227"
+  },
+  "": 586,
+  "name": "Nagahama　Institute　of　Bio-Science　And　Technology",
+  "state": "Shiga",
+  "review_rating": 3.76,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e228"
+  },
+  "": 587,
+  "name": "Biwako　Seikei　Sport　College",
+  "state": "Shiga",
+  "review_rating": 3.88,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e229"
+  },
+  "": 588,
+  "name": "Biwako-Gakuin　University",
+  "state": "Shiga",
+  "review_rating": 3.63,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e22a"
+  },
+  "": 589,
+  "name": "Biwako Professional University of Rehabilitation",
+  "state": "Shiga",
+  "review_rating": 5,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e22b"
+  },
+  "": 590,
+  "name": "Heian Jogakuin st.Agnes University",
+  "state": "Kyoto",
+  "review_rating": 3.85,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e22c"
+  },
+  "": 591,
+  "name": "Otani　University",
+  "state": "Kyoto",
+  "review_rating": 3.88,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e22d"
+  },
+  "": 592,
+  "name": "Kyoto　University　of　Foreign　Studies",
+  "state": "Kyoto",
+  "review_rating": 3.81,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e22e"
+  },
+  "": 593,
+  "name": "Kyoto　Sangyo　University",
+  "state": "Kyoto",
+  "review_rating": 3.81,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e22f"
+  },
+  "": 594,
+  "name": "Kyoto　Women’s　University",
+  "state": "Kyoto",
+  "review_rating": 3.91,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e230"
+  },
+  "": 595,
+  "name": "Kyoto　　　　Pharmaceutical　　University",
+  "state": "Kyoto",
+  "review_rating": 3.97,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e231"
+  },
+  "": 596,
+  "name": "Kyoto　Koka　Women’s　University",
+  "state": "Kyoto",
+  "review_rating": 3.79,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e232"
+  },
+  "": 597,
+  "name": "Shuchiin　University",
+  "state": "Kyoto",
+  "review_rating": 3.97,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e233"
+  },
+  "": 598,
+  "name": "Kyoto　Tachibana　University",
+  "state": "Kyoto",
+  "review_rating": 3.94,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e234"
+  },
+  "": 599,
+  "name": "Doshisha　University",
+  "state": "Kyoto",
+  "review_rating": 4.06,
+  "difficulty_rank": "B"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e235"
+  },
+  "": 600,
+  "name": "Doshisha　Women’s　College　of　Liberal　Arts",
+  "state": "Kyoto",
+  "review_rating": 4.15,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e236"
+  },
+  "": 601,
+  "name": "Kyoto　Notre　Dame　University",
+  "state": "Kyoto",
+  "review_rating": 3.98,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e237"
+  },
+  "": 602,
+  "name": "Hanazono　University",
+  "state": "Kyoto",
+  "review_rating": 3.83,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e238"
+  },
+  "": 603,
+  "name": "Bukkyo　University",
+  "state": "Kyoto",
+  "review_rating": 3.89,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e239"
+  },
+  "": 604,
+  "name": "Ritsumeikan　University",
+  "state": "Kyoto",
+  "review_rating": 3.9,
+  "difficulty_rank": "B"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e23a"
+  },
+  "": 605,
+  "name": "Ryukoku　University",
+  "state": "Kyoto",
+  "review_rating": 3.85,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e23b"
+  },
+  "": 606,
+  "name": "Kyoto University of Advanced Science",
+  "state": "Kyoto",
+  "review_rating": 3.51,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e23c"
+  },
+  "": 607,
+  "name": "Kyoto　Seika　University",
+  "state": "Kyoto",
+  "review_rating": 3.92,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e23d"
+  },
+  "": 608,
+  "name": "Meiji　University　of　Integrative　Medicine",
+  "state": "Kyoto",
+  "review_rating": 3.78,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e23e"
+  },
+  "": 609,
+  "name": "Kyoto　University　of　the Arts",
+  "state": "Kyoto",
+  "review_rating": 3.88,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e23f"
+  },
+  "": 610,
+  "name": "Kyoto　Bunkyo　University",
+  "state": "Kyoto",
+  "review_rating": 3.76,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e240"
+  },
+  "": 611,
+  "name": "Kyoto　Saga　University　of　Arts",
+  "state": "Kyoto",
+  "review_rating": 3.93,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e241"
+  },
+  "": 612,
+  "name": "The　Kyoto　College　of　Graduate　Studies　For　Informatics",
+  "state": "Kyoto"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e242"
+  },
+  "": 613,
+  "name": "Kyoto　College　of　Medical　Science",
+  "state": "Kyoto",
+  "review_rating": 3.86,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e243"
+  },
+  "": 614,
+  "name": "Kyoto　Kacho　University",
+  "state": "Kyoto",
+  "review_rating": 3.82,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e244"
+  },
+  "": 615,
+  "name": "Kyoto　Arts　And　Crafts　University",
+  "state": "Kyoto",
+  "review_rating": 4.03,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e245"
+  },
+  "": 616,
+  "name": "Kyoto　College　of　Nursing",
+  "state": "Kyoto",
+  "review_rating": 3.25,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e246"
+  },
+  "": 617,
+  "name": "Osaka　University　of　Economics",
+  "state": "Osaka",
+  "review_rating": 3.78,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e247"
+  },
+  "": 618,
+  "name": "Osaka　Institute　of　Technology",
+  "state": "Osaka",
+  "review_rating": 3.81,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e248"
+  },
+  "": 619,
+  "name": "Osaka　Dental　University",
+  "state": "Osaka",
+  "review_rating": 3.61,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e249"
+  },
+  "": 620,
+  "name": "Soai　University",
+  "state": "Osaka",
+  "review_rating": 3.79,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e24a"
+  },
+  "": 621,
+  "name": "Momoyama　Gakuin　University",
+  "state": "Osaka",
+  "review_rating": 3.58,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e24b"
+  },
+  "": 622,
+  "name": "Setsunan　University",
+  "state": "Osaka",
+  "review_rating": 3.64,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e24c"
+  },
+  "": 623,
+  "name": "Momoyama　Gakuin　University　of　Education",
+  "state": "Osaka",
+  "review_rating": 3.66,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e24d"
+  },
+  "": 624,
+  "name": "Osaka Medical and Pharmaceutical University",
+  "state": "Osaka",
+  "review_rating": 4.11,
+  "difficulty_rank": "B"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e24e"
+  },
+  "": 625,
+  "name": "Osaka　College　of　Music",
+  "state": "Osaka",
+  "review_rating": 4,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e24f"
+  },
+  "": 626,
+  "name": "Osaka　Gakuin　University",
+  "state": "Osaka",
+  "review_rating": 3.58,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e250"
+  },
+  "": 627,
+  "name": "Osaka University of Arts",
+  "state": "Osaka",
+  "review_rating": 3.79,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e251"
+  },
+  "": 628,
+  "name": "Osaka　Sangyo　University",
+  "state": "Osaka",
+  "review_rating": 3.46,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e252"
+  },
+  "": 629,
+  "name": "Osaka　Shoin　Women’s　University",
+  "state": "Osaka",
+  "review_rating": 3.86,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e253"
+  },
+  "": 630,
+  "name": "Osaka　University　of　Commerce",
+  "state": "Osaka",
+  "review_rating": 3.56,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e254"
+  },
+  "": 631,
+  "name": "Osaka　University　of　Health　And　Sport　Sciences",
+  "state": "Osaka",
+  "review_rating": 4.13,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e255"
+  },
+  "": 632,
+  "name": "Osaka　Electro-Communication　University",
+  "state": "Osaka",
+  "review_rating": 3.78,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e256"
+  },
+  "": 633,
+  "name": "Osaka　Ohtani　University",
+  "state": "Osaka",
+  "review_rating": 3.78,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e257"
+  },
+  "": 634,
+  "name": "Otemon　Gakuin　University",
+  "state": "Osaka",
+  "review_rating": 3.56,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e258"
+  },
+  "": 635,
+  "name": "Kansai　University",
+  "state": "Osaka",
+  "review_rating": 3.95,
+  "difficulty_rank": "B"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e259"
+  },
+  "": 636,
+  "name": "Kansai　Medical　University",
+  "state": "Osaka",
+  "review_rating": 4.07,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e25a"
+  },
+  "": 637,
+  "name": "Kansai　Gaidai　University",
+  "state": "Osaka",
+  "review_rating": 3.71,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e25b"
+  },
+  "": 638,
+  "name": "Kindai　University",
+  "state": "Osaka",
+  "review_rating": 3.86,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e25c"
+  },
+  "": 639,
+  "name": "Shitennoji　University",
+  "state": "Osaka",
+  "review_rating": 3.88,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e25d"
+  },
+  "": 640,
+  "name": "Tezukayamagakuin　University",
+  "state": "Osaka",
+  "review_rating": 3.85,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e25e"
+  },
+  "": 641,
+  "name": "Baika　Women’s　University",
+  "state": "Osaka",
+  "review_rating": 3.83,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e25f"
+  },
+  "": 642,
+  "name": "Hannan　University",
+  "state": "Osaka",
+  "review_rating": 3.76,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e260"
+  },
+  "": 643,
+  "name": "Osaka　University　of　Economics　and　Law",
+  "state": "Osaka",
+  "review_rating": 3.53,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e261"
+  },
+  "": 644,
+  "name": "Osaka　International　University",
+  "state": "Osaka",
+  "review_rating": 3.78,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e262"
+  },
+  "": 645,
+  "name": "Kansai　University　of　Welfare　Sciences",
+  "state": "Osaka",
+  "review_rating": 3.79,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e263"
+  },
+  "": 646,
+  "name": "Taisei　Gakuin　University",
+  "state": "Osaka",
+  "review_rating": 3.32,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e264"
+  },
+  "": 647,
+  "name": "Tokiwakai Gakuen　University",
+  "state": "Osaka",
+  "review_rating": 3.82,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e265"
+  },
+  "": 648,
+  "name": "Osaka　University　of　Tourism",
+  "state": "Osaka",
+  "review_rating": 3.39,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e266"
+  },
+  "": 649,
+  "name": "Osaka　University　of　Human　Sciences",
+  "state": "Osaka",
+  "review_rating": 3.6,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e267"
+  },
+  "": 650,
+  "name": "Hagoromo　University　of　International　Studies",
+  "state": "Osaka",
+  "review_rating": 3.51,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e268"
+  },
+  "": 651,
+  "name": "Osaka　Seikei　University",
+  "state": "Osaka",
+  "review_rating": 3.71,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e269"
+  },
+  "": 652,
+  "name": "Kansai　University　of　Health　Sciences",
+  "state": "Osaka",
+  "review_rating": 3.92,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e26a"
+  },
+  "": 653,
+  "name": "Senri　Kinran　University",
+  "state": "Osaka",
+  "review_rating": 3.8,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e26b"
+  },
+  "": 654,
+  "name": "Higashiosaka　College",
+  "state": "Osaka",
+  "review_rating": 3.83,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e26c"
+  },
+  "": 655,
+  "name": "Osaka　Jogakuin　University",
+  "state": "Osaka",
+  "review_rating": 3.91,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e26d"
+  },
+  "": 656,
+  "name": "Aino　University",
+  "state": "Osaka",
+  "review_rating": 3.53,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e26e"
+  },
+  "": 657,
+  "name": "Osaka　Aoyama　University",
+  "state": "Osaka",
+  "review_rating": 3.73,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e26f"
+  },
+  "": 658,
+  "name": "Shijonawate　Gakuen　University",
+  "state": "Osaka",
+  "review_rating": 3.9,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e270"
+  },
+  "": 659,
+  "name": "Osaka　Kawasaki　Rehabilitation　University",
+  "state": "Osaka",
+  "review_rating": 3.8
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e271"
+  },
+  "": 660,
+  "name": "Osaka　University　of　Comprehensive　Children　Education",
+  "state": "Osaka",
+  "review_rating": 4.06,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e272"
+  },
+  "": 661,
+  "name": "Morinomiya　University　of　Medical　Sciences",
+  "state": "Osaka",
+  "review_rating": 3.9,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e273"
+  },
+  "": 662,
+  "name": "Osaka　Health　Science　University",
+  "state": "Osaka",
+  "review_rating": 4.01,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e274"
+  },
+  "": 663,
+  "name": "Butsuryo　College　of　Osaka",
+  "state": "Osaka",
+  "review_rating": 3.51,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e275"
+  },
+  "": 664,
+  "name": "Jikei University of Health Care Sciences",
+  "state": "Osaka",
+  "review_rating": 4,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e276"
+  },
+  "": 665,
+  "name": "Osaka　Yukioka　College　of　Health　Science",
+  "state": "Osaka",
+  "review_rating": 3.41,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e277"
+  },
+  "": 666,
+  "name": "Yamato　University",
+  "state": "Osaka",
+  "review_rating": 3.7,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e278"
+  },
+  "": 667,
+  "name": "Takarazuka　University",
+  "state": "Osaka",
+  "review_rating": 3.55,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e279"
+  },
+  "": 668,
+  "name": "International Professional University of Technology in Osaka",
+  "state": "Osaka",
+  "review_rating": 4
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e27a"
+  },
+  "": 669,
+  "name": "Konan　University",
+  "state": "Hyogo",
+  "review_rating": 3.88,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e27b"
+  },
+  "": 670,
+  "name": "Konan　Women’s　University",
+  "state": "Hyogo",
+  "review_rating": 3.98,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e27c"
+  },
+  "": 671,
+  "name": "Kobe　Kaisei　College",
+  "state": "Hyogo",
+  "review_rating": 3.87,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e27d"
+  },
+  "": 672,
+  "name": "Kobe　Gakuin　University",
+  "state": "Hyogo",
+  "review_rating": 3.6,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e27e"
+  },
+  "": 673,
+  "name": "Kobe　Women’s　University",
+  "state": "Hyogo",
+  "review_rating": 3.84,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e27f"
+  },
+  "": 674,
+  "name": "Kobe　Pharmaceutical　University",
+  "state": "Hyogo",
+  "review_rating": 3.68,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e280"
+  },
+  "": 675,
+  "name": "Kobe　Shoin　Women’s　University",
+  "state": "Hyogo",
+  "review_rating": 3.86,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e281"
+  },
+  "": 676,
+  "name": "Kobe　Shinwa　Women’S　University",
+  "state": "Hyogo",
+  "review_rating": 3.9
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e282"
+  },
+  "": 677,
+  "name": "Kobe　International　University",
+  "state": "Hyogo",
+  "review_rating": 3.66,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e283"
+  },
+  "": 678,
+  "name": "Hyogo　University",
+  "state": "Hyogo",
+  "review_rating": 3.68,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e284"
+  },
+  "": 679,
+  "name": "Kobe　Tokiwa　University",
+  "state": "Hyogo",
+  "review_rating": 3.8,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e285"
+  },
+  "": 680,
+  "name": "Takarazuka　University　of　Medical　and　Health　Care",
+  "state": "Hyogo",
+  "review_rating": 3.7,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e286"
+  },
+  "": 681,
+  "name": "Ashiya　University",
+  "state": "Hyogo",
+  "review_rating": 3.67,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e287"
+  },
+  "": 682,
+  "name": "Otemae　University",
+  "state": "Hyogo",
+  "review_rating": 3.63,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e288"
+  },
+  "": 683,
+  "name": "Kwansei　Gakuin　University",
+  "state": "Hyogo",
+  "review_rating": 4,
+  "difficulty_rank": "B"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e289"
+  },
+  "": 684,
+  "name": "Koshien　University",
+  "state": "Hyogo",
+  "review_rating": 3.55,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e28a"
+  },
+  "": 685,
+  "name": "Kobe　College",
+  "state": "Hyogo",
+  "review_rating": 4.23,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e28b"
+  },
+  "": 686,
+  "name": "Sonoda　Women’s　University",
+  "state": "Hyogo",
+  "review_rating": 3.59,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e28c"
+  },
+  "": 687,
+  "name": "Mukogawa　Women’s　University",
+  "state": "Hyogo",
+  "review_rating": 4.01,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e28d"
+  },
+  "": 688,
+  "name": "Hyogo　Medical　University",
+  "state": "Hyogo",
+  "review_rating": 3.94,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e28e"
+  },
+  "": 689,
+  "name": "Himeji　Dokkyo　University",
+  "state": "Hyogo",
+  "review_rating": 3.71,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e28f"
+  },
+  "": 690,
+  "name": "University　of　Marketing　And　Distribution　Sciences",
+  "state": "Hyogo",
+  "review_rating": 3.78,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e290"
+  },
+  "": 691,
+  "name": "Kobe　Design　University",
+  "state": "Hyogo",
+  "review_rating": 3.78,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e291"
+  },
+  "": 692,
+  "name": "Kansai　University　of　Social　Welfare",
+  "state": "Hyogo",
+  "review_rating": 3.74,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e292"
+  },
+  "": 693,
+  "name": "Kansai　University　of　International　Studies",
+  "state": "Hyogo",
+  "review_rating": 3.57,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e293"
+  },
+  "": 694,
+  "name": "Kobe　University　of　Welfare",
+  "state": "Hyogo",
+  "review_rating": 3.67,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e294"
+  },
+  "": 695,
+  "name": "Kobe　Institute　of　Computing　-　Graduate　School　of　Information　Technology",
+  "state": "Hyogo",
+  "review_rating": 3.63
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e295"
+  },
+  "": 696,
+  "name": "Kansai　University　of　Nursing　And　Health　Sciences",
+  "state": "Hyogo",
+  "review_rating": 3.9,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e296"
+  },
+  "": 697,
+  "name": "Hyogo　University　of　Health　Sciences",
+  "state": "Hyogo",
+  "review_rating": 3.99
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e297"
+  },
+  "": 698,
+  "name": "Himeji　University",
+  "state": "Hyogo",
+  "review_rating": 3.72,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e298"
+  },
+  "": 699,
+  "name": "Tezukayama　University",
+  "state": "Nara",
+  "review_rating": 3.7,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e299"
+  },
+  "": 700,
+  "name": "Tenri　University",
+  "state": "Nara",
+  "review_rating": 4.17,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e29a"
+  },
+  "": 701,
+  "name": "Nara　University",
+  "state": "Nara",
+  "review_rating": 3.86,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e29b"
+  },
+  "": 702,
+  "name": "Naragakuen　University",
+  "state": "Nara",
+  "review_rating": 3.76,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e29c"
+  },
+  "": 703,
+  "name": "Kio　University",
+  "state": "Nara",
+  "review_rating": 4.04,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e29d"
+  },
+  "": 704,
+  "name": "Tenri　Health　Care　University",
+  "state": "Nara",
+  "review_rating": 3.53
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e29e"
+  },
+  "": 705,
+  "name": "Koyasan　University",
+  "state": "Wakayama",
+  "review_rating": 4.33,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e29f"
+  },
+  "": 706,
+  "name": "Wakayama Shin-ai University",
+  "state": "Wakayama",
+  "review_rating": 3.79,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2a0"
+  },
+  "": 707,
+  "name": "Wakayama　Professional　University of Rehabilitation",
+  "state": "Wakayama",
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2a1"
+  },
+  "": 708,
+  "name": "Tottori　College　of　Nursing",
+  "state": "Tottori",
+  "review_rating": 4.23,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2a2"
+  },
+  "": 709,
+  "name": "Kibi　International　University",
+  "state": "Okayama",
+  "review_rating": 3.67,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2a3"
+  },
+  "": 710,
+  "name": "Okayama　Shoka　University",
+  "state": "Okayama",
+  "review_rating": 3.71,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2a4"
+  },
+  "": 711,
+  "name": "Okayama　University　of　Science",
+  "state": "Okayama",
+  "review_rating": 3.69,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2a5"
+  },
+  "": 712,
+  "name": "Kurashiki　Sakuyo　University",
+  "state": "Okayama",
+  "review_rating": 3.84,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2a6"
+  },
+  "": 713,
+  "name": "Notre　Dame　Seishin　University",
+  "state": "Okayama",
+  "review_rating": 4.08,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2a7"
+  },
+  "": 714,
+  "name": "Kawasaki　Medical　School",
+  "state": "Okayama",
+  "review_rating": 3.57,
+  "difficulty_rank": "A"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2a8"
+  },
+  "": 715,
+  "name": "Shujitsu　University",
+  "state": "Okayama",
+  "review_rating": 3.96,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2a9"
+  },
+  "": 716,
+  "name": "Kawasaki　University　of　Medical　Welfare",
+  "state": "Okayama",
+  "review_rating": 3.79,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2aa"
+  },
+  "": 717,
+  "name": "Sanyo　Gakuen　University",
+  "state": "Okayama",
+  "review_rating": 3.57,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2ab"
+  },
+  "": 718,
+  "name": "Kurashiki　University　of　Science　And　The　Arts",
+  "state": "Okayama",
+  "review_rating": 3.63,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2ac"
+  },
+  "": 719,
+  "name": "Okayama　Gakuin　University",
+  "state": "Okayama",
+  "review_rating": 3.43,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2ad"
+  },
+  "": 720,
+  "name": "Chugokugakuen　University",
+  "state": "Okayama",
+  "review_rating": 3.76,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2ae"
+  },
+  "": 721,
+  "name": "International　Pacific　University",
+  "state": "Okayama",
+  "review_rating": 3.75,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2af"
+  },
+  "": 722,
+  "name": "Okayama Healthcare Professional University",
+  "state": "Okayama",
+  "review_rating": 2,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2b0"
+  },
+  "": 723,
+  "name": "Mimasaka　University",
+  "state": "Okayama",
+  "review_rating": 4.09,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2b1"
+  },
+  "": 724,
+  "name": "Elisabeth　University　of　Music",
+  "state": "Hiroshima",
+  "review_rating": 3.54,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2b2"
+  },
+  "": 725,
+  "name": "Hiroshima　University　of　Economics",
+  "state": "Hiroshima",
+  "review_rating": 3.74,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2b3"
+  },
+  "": 726,
+  "name": "Hiroshima　Institute　of　Technology",
+  "state": "Hiroshima",
+  "review_rating": 3.69,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2b4"
+  },
+  "": 727,
+  "name": "Hiroshima　Shudo　University",
+  "state": "Hiroshima",
+  "review_rating": 3.89,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2b5"
+  },
+  "": 728,
+  "name": "Hiroshima　Jogakuin　University",
+  "state": "Hiroshima",
+  "review_rating": 3.9,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2b6"
+  },
+  "": 729,
+  "name": "Hiroshima　Kokusai　Gakuin　University",
+  "state": "Hiroshima",
+  "review_rating": 3.58
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2b7"
+  },
+  "": 730,
+  "name": "Hiroshima　Bunkyo　University",
+  "state": "Hiroshima",
+  "review_rating": 4.08,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2b8"
+  },
+  "": 731,
+  "name": "Yasuda　Women’s　University",
+  "state": "Hiroshima",
+  "review_rating": 4.28,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2b9"
+  },
+  "": 732,
+  "name": "Fukuyama　University",
+  "state": "Hiroshima",
+  "review_rating": 3.76,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2ba"
+  },
+  "": 733,
+  "name": "Hijiyama　University",
+  "state": "Hiroshima",
+  "review_rating": 3.73,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2bb"
+  },
+  "": 734,
+  "name": "Fukuyama　Heisei　University",
+  "state": "Hiroshima",
+  "review_rating": 3.7,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2bc"
+  },
+  "": 735,
+  "name": "Hiroshima　Bunka　Gakuen　University",
+  "state": "Hiroshima",
+  "review_rating": 3.52,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2bd"
+  },
+  "": 736,
+  "name": "Hiroshima　InternationalUniversity",
+  "state": "Hiroshima",
+  "review_rating": 3.61,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2be"
+  },
+  "": 737,
+  "name": "Japanese　Red　Cross　Hiroshima　College　of　Nursing",
+  "state": "Hiroshima",
+  "review_rating": 3.9,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2bf"
+  },
+  "": 738,
+  "name": "Hiroshima　Cosmopolitan　University",
+  "state": "Hiroshima",
+  "review_rating": 3.41,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2c0"
+  },
+  "": 739,
+  "name": "Baiko　Gakuin　University",
+  "state": "Yamaguchi",
+  "review_rating": 3.34,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2c1"
+  },
+  "": 740,
+  "name": "The　University　of　East　Asia",
+  "state": "Yamaguchi",
+  "review_rating": 3.86,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2c2"
+  },
+  "": 741,
+  "name": "Shiseikan　University",
+  "state": "Yamaguchi",
+  "review_rating": 3.47,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2c3"
+  },
+  "": 742,
+  "name": "Ube　Frontier　University",
+  "state": "Yamaguchi",
+  "review_rating": 3.84,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2c4"
+  },
+  "": 743,
+  "name": "Yamaguchi　Gakugei　University",
+  "state": "Yamaguchi",
+  "review_rating": 4.01,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2c5"
+  },
+  "": 744,
+  "name": "Shikoku　University",
+  "state": "Tokushima",
+  "review_rating": 3.78,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2c6"
+  },
+  "": 745,
+  "name": "Tokushima　Bunri　University",
+  "state": "Tokushima",
+  "review_rating": 3.74,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2c7"
+  },
+  "": 746,
+  "name": "Shikoku　Gakuin　University",
+  "state": "Kagawa",
+  "review_rating": 3.74,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2c8"
+  },
+  "": 747,
+  "name": "Takamatsu　University",
+  "state": "Kagawa",
+  "review_rating": 3.84,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2c9"
+  },
+  "": 748,
+  "name": "Matsuyama　University",
+  "state": "Ehime",
+  "review_rating": 3.7,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2ca"
+  },
+  "": 749,
+  "name": "St.Catherine　University",
+  "state": "Ehime",
+  "review_rating": 3.97,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2cb"
+  },
+  "": 750,
+  "name": "Matsuyama　Shinonome　College",
+  "state": "Ehime",
+  "review_rating": 3.97,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2cc"
+  },
+  "": 751,
+  "name": "Kochi Professional University of Rehabilitation",
+  "state": "Kochi",
+  "review_rating": 4,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2cd"
+  },
+  "": 752,
+  "name": "Kochi　Gakuen University",
+  "state": "Kochi",
+  "review_rating": 4,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2ce"
+  },
+  "": 753,
+  "name": "Kyushu　Kyoritsu　University",
+  "state": "Fukuoka",
+  "review_rating": 3.7,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2cf"
+  },
+  "": 754,
+  "name": "Kyushu　Women’s　University",
+  "state": "Fukuoka",
+  "review_rating": 3.64,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2d0"
+  },
+  "": 755,
+  "name": "Kyushu　International　University",
+  "state": "Fukuoka",
+  "review_rating": 3.56,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2d1"
+  },
+  "": 756,
+  "name": "Fukuoka　Dental　College",
+  "state": "Fukuoka",
+  "review_rating": 3.44,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2d2"
+  },
+  "": 757,
+  "name": "Kyushu　Sangyo　University",
+  "state": "Fukuoka",
+  "review_rating": 3.86,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2d3"
+  },
+  "": 758,
+  "name": "Kurume University",
+  "state": "Fukuoka",
+  "review_rating": 3.83,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2d4"
+  },
+  "": 759,
+  "name": "Seinan　Gakuin　University",
+  "state": "Fukuoka",
+  "review_rating": 4.02,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2d5"
+  },
+  "": 760,
+  "name": "Daiichi　University　of　Pharmacy",
+  "state": "Fukuoka",
+  "review_rating": 3.39,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2d6"
+  },
+  "": 761,
+  "name": "Nakamura　Gakuen　University",
+  "state": "Fukuoka",
+  "review_rating": 4.04,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2d7"
+  },
+  "": 762,
+  "name": "Nishinippon　Institute　of　Technology",
+  "state": "Fukuoka",
+  "review_rating": 3.87,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2d8"
+  },
+  "": 763,
+  "name": "Fukuoka　University",
+  "state": "Fukuoka",
+  "review_rating": 3.98,
+  "difficulty_rank": "D"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2d9"
+  },
+  "": 764,
+  "name": "Fukuoka　Institute　of　Technology",
+  "state": "Fukuoka",
+  "review_rating": 3.87,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2da"
+  },
+  "": 765,
+  "name": "Japan　University　of　Economics",
+  "state": "Fukuoka",
+  "review_rating": 3.7,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2db"
+  },
+  "": 766,
+  "name": "Kurume　Institute　of　Technology",
+  "state": "Fukuoka",
+  "review_rating": 3.68,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2dc"
+  },
+  "": 767,
+  "name": "University　of　Occupational　and　Environmental　Health,　Japan",
+  "state": "Fukuoka",
+  "review_rating": 3.76,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2dd"
+  },
+  "": 768,
+  "name": "Chikushi　Jogakuen　University",
+  "state": "Fukuoka",
+  "review_rating": 3.97,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2de"
+  },
+  "": 769,
+  "name": "Fukuoka　Jo　Gakuin　University",
+  "state": "Fukuoka",
+  "review_rating": 3.92,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2df"
+  },
+  "": 770,
+  "name": "Seinan　Jo　Gakuin　University",
+  "state": "Fukuoka",
+  "review_rating": 3.78,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2e0"
+  },
+  "": 771,
+  "name": "Kyushu　Institute　of　Information　Sciences　University",
+  "state": "Fukuoka",
+  "review_rating": 3.71,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2e1"
+  },
+  "": 772,
+  "name": "Kyushu　Nutrition　Welfare　University",
+  "state": "Fukuoka",
+  "review_rating": 3.9,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2e2"
+  },
+  "": 773,
+  "name": "Japanese　Red　Cross　Kyushu　International　College　of　Nursing",
+  "state": "Fukuoka",
+  "review_rating": 3.88,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2e3"
+  },
+  "": 774,
+  "name": "St.Mary’s　College",
+  "state": "Fukuoka",
+  "review_rating": 3.74,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2e4"
+  },
+  "": 775,
+  "name": "Cyber University",
+  "state": "Fukuoka",
+  "review_rating": 3.83
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2e5"
+  },
+  "": 776,
+  "name": "Fukuoka　Jo　Gakuin　Nursing　University",
+  "state": "Fukuoka",
+  "review_rating": 4.52,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2e6"
+  },
+  "": 777,
+  "name": "College　of　Healthcare　Management",
+  "state": "Fukuoka",
+  "review_rating": 3.24
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2e7"
+  },
+  "": 778,
+  "name": "Junshin　Gakuen　University",
+  "state": "Fukuoka",
+  "review_rating": 3.45,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2e8"
+  },
+  "": 779,
+  "name": "Fukuoka　Nursing　College",
+  "state": "Fukuoka",
+  "review_rating": 3,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2e9"
+  },
+  "": 780,
+  "name": "Fukuoka International University of Health and Welfare",
+  "state": "Fukuoka",
+  "review_rating": 3.74,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2ea"
+  },
+  "": 781,
+  "name": "Nishikyushu　University",
+  "state": "Saga",
+  "review_rating": 3.83,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2eb"
+  },
+  "": 782,
+  "name": "Nagasaki　Institute　of　Applied　Science",
+  "state": "Nagasaki",
+  "review_rating": 3.65,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2ec"
+  },
+  "": 783,
+  "name": "Kwassui　Women’s　University",
+  "state": "Nagasaki",
+  "review_rating": 3.76,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2ed"
+  },
+  "": 784,
+  "name": "Nagasaki　Junshin　Catholic　University",
+  "state": "Nagasaki",
+  "review_rating": 3.92,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2ee"
+  },
+  "": 785,
+  "name": "Nagasaki　International　University",
+  "state": "Nagasaki",
+  "review_rating": 3.95,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2ef"
+  },
+  "": 786,
+  "name": "Nagasaki　University　of　Foreign　Studies",
+  "state": "Nagasaki",
+  "review_rating": 3.76,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2f0"
+  },
+  "": 787,
+  "name": "Nagasaki Wesleyan University",
+  "state": "Nagasaki",
+  "review_rating": 3.71,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2f1"
+  },
+  "": 788,
+  "name": "Sojo　University",
+  "state": "Kumamoto",
+  "review_rating": 3.85,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2f2"
+  },
+  "": 789,
+  "name": "Kumamoto　Gakuen　University",
+  "state": "Kumamoto",
+  "review_rating": 3.8,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2f3"
+  },
+  "": 790,
+  "name": "Shokei　University",
+  "state": "Kumamoto",
+  "review_rating": 3.51,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2f4"
+  },
+  "": 791,
+  "name": "Kyushu　Lutheran　College",
+  "state": "Kumamoto",
+  "review_rating": 4.28,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2f5"
+  },
+  "": 792,
+  "name": "Kyushu　University　of　Nursing　And　Social　Welfare",
+  "state": "Kumamoto",
+  "review_rating": 3.72,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2f6"
+  },
+  "": 793,
+  "name": "Heisei　College　of　Music",
+  "state": "Kumamoto",
+  "review_rating": 3.72
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2f7"
+  },
+  "": 794,
+  "name": "Kumamoto　Health　Science　University",
+  "state": "Kumamoto",
+  "review_rating": 4.11,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2f8"
+  },
+  "": 795,
+  "name": "Nippon　Bunri　University",
+  "state": "Oita",
+  "review_rating": 3.63,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2f9"
+  },
+  "": 796,
+  "name": "Beppu　University",
+  "state": "Oita",
+  "review_rating": 3.87,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2fa"
+  },
+  "": 797,
+  "name": "Ritsumeikan　Asia　Pacific　University",
+  "state": "Oita",
+  "review_rating": 3.94,
+  "difficulty_rank": "C"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2fb"
+  },
+  "": 798,
+  "name": "Minami　Kyushu　University",
+  "state": "Miyazaki",
+  "review_rating": 4.11
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2fc"
+  },
+  "": 799,
+  "name": "Miyazaki　Sangyo-Keiei　University",
+  "state": "Miyazaki",
+  "review_rating": 3.78,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2fd"
+  },
+  "": 800,
+  "name": "Miyazaki　International　College",
+  "state": "Miyazaki",
+  "review_rating": 3.68,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2fe"
+  },
+  "": 801,
+  "name": "Kyushu　University　of　Health　And　Welfare",
+  "state": "Miyazaki",
+  "review_rating": 3.64
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e2ff"
+  },
+  "": 802,
+  "name": "The　International　University　of　Kagoshima",
+  "state": "Kagoshima",
+  "review_rating": 3.89,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e300"
+  },
+  "": 803,
+  "name": "Daiichi　Institute　of　Technology",
+  "state": "Kagoshima",
+  "review_rating": 4.02,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e301"
+  },
+  "": 804,
+  "name": "Shigakukan　University",
+  "state": "Kagoshima",
+  "review_rating": 3.84,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e302"
+  },
+  "": 805,
+  "name": "Kagoshima　Immaculate　Heart　University",
+  "state": "Kagoshima",
+  "review_rating": 4.04,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e303"
+  },
+  "": 806,
+  "name": "Okinawa　Institute　of　Science　and　Technology　Graduate　University",
+  "state": "Okinawa",
+  "review_rating": 3.64
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e304"
+  },
+  "": 807,
+  "name": "Okinawa　International　University",
+  "state": "Okinawa",
+  "review_rating": 3.95,
+  "difficulty_rank": "E"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e305"
+  },
+  "": 808,
+  "name": "Okinawa　University",
+  "state": "Okinawa",
+  "review_rating": 3.88,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e306"
+  },
+  "": 809,
+  "name": "Okinawa　Christian　University",
+  "state": "Okinawa",
+  "review_rating": 4.23,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e307"
+  },
+  "": 810,
+  "name": "R Professional University of Rehabilitation",
+  "state": "Ibaraki",
+  "review_rating": 2,
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e308"
+  },
+  "": 811,
+  "name": "Osaka Shin-Ai  Gakuin University",
+  "state": "Osaka",
+  "difficulty_rank": "F"
+},
+{
+  "_id": {
+    "$oid": "65b8458c03221086de29e309"
+  },
+  "": 812,
+  "name": "Reiwa Health Sciences University",
+  "state": "Fukuoka",
+  "review_rating": 3.5,
+  "difficulty_rank": "F"
+}]
