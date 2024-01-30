@@ -1,0 +1,904 @@
+[{
+  "_id": {
+    "$oid": "65b8454603221086de29df6c"
+  },
+  "Station_Name": "Tokyo",
+  "Shinkansen_Line": "Tokaido_Shinkansen",
+  "Prefecture": "Tokyo"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29df6d"
+  },
+  "Station_Name": "Shinagawa",
+  "Shinkansen_Line": "Tokaido_Shinkansen",
+  "Prefecture": "Tokyo"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29df6e"
+  },
+  "Station_Name": "Shin-Yokohama",
+  "Shinkansen_Line": "Tokaido_Shinkansen",
+  "Prefecture": "Kanagawa"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29df6f"
+  },
+  "Station_Name": "Odawara",
+  "Shinkansen_Line": "Tokaido_Shinkansen",
+  "Prefecture": "Kanagawa"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29df70"
+  },
+  "Station_Name": "Atami",
+  "Shinkansen_Line": "Tokaido_Shinkansen",
+  "Prefecture": "Shizuoka"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29df71"
+  },
+  "Station_Name": "Mishima",
+  "Shinkansen_Line": "Tokaido_Shinkansen",
+  "Prefecture": "Shizuoka"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29df72"
+  },
+  "Station_Name": "Shin-Fuji",
+  "Shinkansen_Line": "Tokaido_Shinkansen",
+  "Prefecture": "Shizuoka"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29df73"
+  },
+  "Station_Name": "Shizuoka",
+  "Shinkansen_Line": "Tokaido_Shinkansen",
+  "Prefecture": "Shizuoka"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29df74"
+  },
+  "Station_Name": "Kakegawa",
+  "Shinkansen_Line": "Tokaido_Shinkansen",
+  "Prefecture": "Shizuoka"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29df75"
+  },
+  "Station_Name": "Hamamatsu",
+  "Shinkansen_Line": "Tokaido_Shinkansen",
+  "Prefecture": "Shizuoka"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29df76"
+  },
+  "Station_Name": "Toyohashi",
+  "Shinkansen_Line": "Tokaido_Shinkansen",
+  "Prefecture": "Aichi"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29df77"
+  },
+  "Station_Name": "Mikawa-Anjo",
+  "Shinkansen_Line": "Tokaido_Shinkansen",
+  "Prefecture": "Aichi"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29df78"
+  },
+  "Station_Name": "Nagoya",
+  "Shinkansen_Line": "Tokaido_Shinkansen",
+  "Prefecture": "Aichi"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29df79"
+  },
+  "Station_Name": "Gifu-Hashima",
+  "Shinkansen_Line": "Tokaido_Shinkansen",
+  "Prefecture": "Gifu"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29df7a"
+  },
+  "Station_Name": "Maibara",
+  "Shinkansen_Line": "Tokaido_Shinkansen",
+  "Prefecture": "Shiga"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29df7b"
+  },
+  "Station_Name": "Kyoto",
+  "Shinkansen_Line": "Tokaido_Shinkansen",
+  "Prefecture": "Kyoto"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29df7c"
+  },
+  "Station_Name": "Shin-Osaka",
+  "Shinkansen_Line": "Tokaido_Shinkansen,Sanyo_Shinkansen",
+  "Prefecture": "Osaka"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29df7d"
+  },
+  "Station_Name": "Shin-Kobe",
+  "Shinkansen_Line": "Sanyo_Shinkansen",
+  "Prefecture": "Hyogo"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29df7e"
+  },
+  "Station_Name": "Nishi-Akashi",
+  "Shinkansen_Line": "Sanyo_Shinkansen",
+  "Prefecture": "Hyogo"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29df7f"
+  },
+  "Station_Name": "Himeji",
+  "Shinkansen_Line": "Sanyo_Shinkansen",
+  "Prefecture": "Hyogo"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29df80"
+  },
+  "Station_Name": "Aioi",
+  "Shinkansen_Line": "Sanyo_Shinkansen",
+  "Prefecture": "Hyogo"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29df81"
+  },
+  "Station_Name": "Okayama",
+  "Shinkansen_Line": "Sanyo_Shinkansen",
+  "Prefecture": "Okayama"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29df82"
+  },
+  "Station_Name": "Shin-Kurashiki",
+  "Shinkansen_Line": "Sanyo_Shinkansen",
+  "Prefecture": "Okayama"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29df83"
+  },
+  "Station_Name": "Fukuyama",
+  "Shinkansen_Line": "Sanyo_Shinkansen",
+  "Prefecture": "Hiroshima"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29df84"
+  },
+  "Station_Name": "Shin-Onomichi",
+  "Shinkansen_Line": "Sanyo_Shinkansen",
+  "Prefecture": "Hiroshima"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29df85"
+  },
+  "Station_Name": "Mihara",
+  "Shinkansen_Line": "Sanyo_Shinkansen",
+  "Prefecture": "Hiroshima"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29df86"
+  },
+  "Station_Name": "Higashi-Hiroshima",
+  "Shinkansen_Line": "Sanyo_Shinkansen",
+  "Prefecture": "Hiroshima"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29df87"
+  },
+  "Station_Name": "Hiroshima",
+  "Shinkansen_Line": "Sanyo_Shinkansen",
+  "Prefecture": "Hiroshima"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29df88"
+  },
+  "Station_Name": "Shin-Iwakuni",
+  "Shinkansen_Line": "Sanyo_Shinkansen",
+  "Prefecture": "Yamaguchi"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29df89"
+  },
+  "Station_Name": "Tokuyama",
+  "Shinkansen_Line": "Sanyo_Shinkansen",
+  "Prefecture": "Yamaguchi"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29df8a"
+  },
+  "Station_Name": "Shin-Yamaguchi",
+  "Shinkansen_Line": "Sanyo_Shinkansen",
+  "Prefecture": "Yamaguchi"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29df8b"
+  },
+  "Station_Name": "Asa",
+  "Shinkansen_Line": "Sanyo_Shinkansen",
+  "Prefecture": "Yamaguchi"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29df8c"
+  },
+  "Station_Name": "Shin-Shimonoseki",
+  "Shinkansen_Line": "Sanyo_Shinkansen",
+  "Prefecture": "Yamaguchi"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29df8d"
+  },
+  "Station_Name": "Kokura",
+  "Shinkansen_Line": "Sanyo_Shinkansen",
+  "Prefecture": "Fukuoka"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29df8e"
+  },
+  "Station_Name": "Hakata",
+  "Shinkansen_Line": "Sanyo_Shinkansen,Kyushu-Shinknsen",
+  "Prefecture": "Fukuoka"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29df8f"
+  },
+  "Station_Name": "Tokyo",
+  "Shinkansen_Line": "Tohoku_Shinkansen",
+  "Prefecture": "Tokyo"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29df90"
+  },
+  "Station_Name": "Ueno",
+  "Shinkansen_Line": "Tohoku_Shinkansen",
+  "Prefecture": "Tokyo"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29df91"
+  },
+  "Station_Name": "Omiya",
+  "Shinkansen_Line": "Tohoku_Shinkansen,Joetsu_Shinkansen",
+  "Prefecture": "Saitama"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29df92"
+  },
+  "Station_Name": "Oyama",
+  "Shinkansen_Line": "Tohoku_Shinkansen",
+  "Prefecture": "Tochigi"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29df93"
+  },
+  "Station_Name": "Utsunomiya",
+  "Shinkansen_Line": "Tohoku_Shinkansen",
+  "Prefecture": "Tochigi"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29df94"
+  },
+  "Station_Name": "Nasushiobara",
+  "Shinkansen_Line": "Tohoku_Shinkansen",
+  "Prefecture": "Tochigi"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29df95"
+  },
+  "Station_Name": "Shin-Shirakawa",
+  "Shinkansen_Line": "Tohoku_Shinkansen",
+  "Prefecture": "Fukushima"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29df96"
+  },
+  "Station_Name": "Koriyama",
+  "Shinkansen_Line": "Tohoku_Shinkansen",
+  "Prefecture": "Fukushima"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29df97"
+  },
+  "Station_Name": "Fukushima",
+  "Shinkansen_Line": "Tohoku_Shinkansen,Yamagata_Shinkansen",
+  "Prefecture": "Fukushima"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29df98"
+  },
+  "Station_Name": "Shiroishi-Zao",
+  "Shinkansen_Line": "Tohoku_Shinkansen",
+  "Prefecture": "Miyagi"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29df99"
+  },
+  "Station_Name": "Sendai",
+  "Shinkansen_Line": "Tohoku_Shinkansen",
+  "Prefecture": "Miyagi"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29df9a"
+  },
+  "Station_Name": "Furukawa",
+  "Shinkansen_Line": "Tohoku_Shinkansen",
+  "Prefecture": "Miyagi"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29df9b"
+  },
+  "Station_Name": "Kurikoma-Kogen",
+  "Shinkansen_Line": "Tohoku_Shinkansen",
+  "Prefecture": "Miyagi"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29df9c"
+  },
+  "Station_Name": "Ichinoseki",
+  "Shinkansen_Line": "Tohoku_Shinkansen",
+  "Prefecture": "Iwate"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29df9d"
+  },
+  "Station_Name": "Mizusawa-Esashi",
+  "Shinkansen_Line": "Tohoku_Shinkansen",
+  "Prefecture": "Iwate"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29df9e"
+  },
+  "Station_Name": "Kitakami",
+  "Shinkansen_Line": "Tohoku_Shinkansen",
+  "Prefecture": "Iwate"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29df9f"
+  },
+  "Station_Name": "Shin-Hanamaki",
+  "Shinkansen_Line": "Tohoku_Shinkansen",
+  "Prefecture": "Iwate"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfa0"
+  },
+  "Station_Name": "Morioka",
+  "Shinkansen_Line": "Tohoku_Shinkansen,Akita_Shinkansen",
+  "Prefecture": "Iwate"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfa1"
+  },
+  "Station_Name": "iwate-Numakunai",
+  "Shinkansen_Line": "Tohoku_Shinkansen",
+  "Prefecture": "Iwate"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfa2"
+  },
+  "Station_Name": "Ninohe",
+  "Shinkansen_Line": "Tohoku_Shinkansen",
+  "Prefecture": "Iwate"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfa3"
+  },
+  "Station_Name": "Hachinohe",
+  "Shinkansen_Line": "Tohoku_Shinkansen",
+  "Prefecture": "Aomori"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfa4"
+  },
+  "Station_Name": "Shichinohe-Towada",
+  "Shinkansen_Line": "Tohoku_Shinkansen",
+  "Prefecture": "Aomori"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfa5"
+  },
+  "Station_Name": "Shin-Aomori",
+  "Shinkansen_Line": "Tohoku_Shinkansen,Hokkaido_Shinkansen",
+  "Prefecture": "Aomori"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfa6"
+  },
+  "Station_Name": "Kumagaya",
+  "Shinkansen_Line": "Joetsu_Shinkansen",
+  "Prefecture": "Saitama"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfa7"
+  },
+  "Station_Name": "Honjo-Waseda",
+  "Shinkansen_Line": "Joetsu_Shinkansen",
+  "Prefecture": "Saitama"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfa8"
+  },
+  "Station_Name": "Takasaki",
+  "Shinkansen_Line": "Joetsu_Shinkansen,Hokuriku_Shinkansen",
+  "Prefecture": "Gunma"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfa9"
+  },
+  "Station_Name": "Jomo-Kogen",
+  "Shinkansen_Line": "Joetsu_Shinkansen",
+  "Prefecture": "Gunma"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfaa"
+  },
+  "Station_Name": "Echigo-Yuzawa",
+  "Shinkansen_Line": "Joetsu_Shinkansen",
+  "Prefecture": "Niigata"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfab"
+  },
+  "Station_Name": "Urasa",
+  "Shinkansen_Line": "Joetsu_Shinkansen",
+  "Prefecture": "Niigata"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfac"
+  },
+  "Station_Name": "Nagaoka",
+  "Shinkansen_Line": "Joetsu_Shinkansen",
+  "Prefecture": "Niigata"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfad"
+  },
+  "Station_Name": "Tsubame-Sanjo",
+  "Shinkansen_Line": "Joetsu_Shinkansen",
+  "Prefecture": "Niigata"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfae"
+  },
+  "Station_Name": "Niigata",
+  "Shinkansen_Line": "Joetsu_Shinkansen",
+  "Prefecture": "Niigata"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfaf"
+  },
+  "Station_Name": "Yonezawa",
+  "Shinkansen_Line": "Yamagata_Shinkansen",
+  "Prefecture": "Yamagata"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfb0"
+  },
+  "Station_Name": "Takahata",
+  "Shinkansen_Line": "Yamagata_Shinkansen",
+  "Prefecture": "Yamagata"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfb1"
+  },
+  "Station_Name": "Akayu",
+  "Shinkansen_Line": "Yamagata_Shinkansen",
+  "Prefecture": "Yamagata"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfb2"
+  },
+  "Station_Name": "Kaminoyama-Onsen",
+  "Shinkansen_Line": "Yamagata_Shinkansen",
+  "Prefecture": "Yamagata"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfb3"
+  },
+  "Station_Name": "Yamagata",
+  "Shinkansen_Line": "Yamagata_Shinkansen",
+  "Prefecture": "Yamagata"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfb4"
+  },
+  "Station_Name": "Tendo",
+  "Shinkansen_Line": "Yamagata_Shinkansen",
+  "Prefecture": "Yamagata"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfb5"
+  },
+  "Station_Name": "Sakuranbo-Higashine",
+  "Shinkansen_Line": "Yamagata_Shinkansen",
+  "Prefecture": "Yamagata"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfb6"
+  },
+  "Station_Name": "Murayama",
+  "Shinkansen_Line": "Yamagata_Shinkansen",
+  "Prefecture": "Yamagata"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfb7"
+  },
+  "Station_Name": "Oishida",
+  "Shinkansen_Line": "Yamagata_Shinkansen",
+  "Prefecture": "Yamagata"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfb8"
+  },
+  "Station_Name": "Shinjo",
+  "Shinkansen_Line": "Yamagata_Shinkansen",
+  "Prefecture": "Yamagata"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfb9"
+  },
+  "Station_Name": "Shizukuishi",
+  "Shinkansen_Line": "Akita_Shinkansen",
+  "Prefecture": "Iwate"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfba"
+  },
+  "Station_Name": "Tazawako",
+  "Shinkansen_Line": "Akita_Shinkansen",
+  "Prefecture": "Akita"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfbb"
+  },
+  "Station_Name": "Kakunodate",
+  "Shinkansen_Line": "Akita_Shinkansen",
+  "Prefecture": "Akita"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfbc"
+  },
+  "Station_Name": "Omagari",
+  "Shinkansen_Line": "Akita_Shinkansen",
+  "Prefecture": "Akita"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfbd"
+  },
+  "Station_Name": "Akita",
+  "Shinkansen_Line": "Akita_Shinkansen",
+  "Prefecture": "Akita"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfbe"
+  },
+  "Station_Name": "Annaka-Haruna",
+  "Shinkansen_Line": "Hokuriku_Shinkansen",
+  "Prefecture": "Gunma"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfbf"
+  },
+  "Station_Name": "Karuizawa",
+  "Shinkansen_Line": "Hokuriku_Shinkansen",
+  "Prefecture": "Nagano"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfc0"
+  },
+  "Station_Name": "Sakudaira",
+  "Shinkansen_Line": "Hokuriku_Shinkansen",
+  "Prefecture": "Nagano"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfc1"
+  },
+  "Station_Name": "Ueda",
+  "Shinkansen_Line": "Hokuriku_Shinkansen",
+  "Prefecture": "Nagano"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfc2"
+  },
+  "Station_Name": "Nagano",
+  "Shinkansen_Line": "Hokuriku_Shinkansen",
+  "Prefecture": "Nagano"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfc3"
+  },
+  "Station_Name": "Iyama",
+  "Shinkansen_Line": "Hokuriku_Shinkansen",
+  "Prefecture": "Nagano"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfc4"
+  },
+  "Station_Name": "Joetsu-Myoko",
+  "Shinkansen_Line": "Hokuriku_Shinkansen",
+  "Prefecture": "Niigata"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfc5"
+  },
+  "Station_Name": "Itoigawa",
+  "Shinkansen_Line": "Hokuriku_Shinkansen",
+  "Prefecture": "Niigata"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfc6"
+  },
+  "Station_Name": "Kurobe-Unazukionsen",
+  "Shinkansen_Line": "Hokuriku_Shinkansen",
+  "Prefecture": "Toyama"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfc7"
+  },
+  "Station_Name": "Toyama",
+  "Shinkansen_Line": "Hokuriku_Shinkansen",
+  "Prefecture": "Toyama"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfc8"
+  },
+  "Station_Name": "Shin-Takaoka",
+  "Shinkansen_Line": "Hokuriku_Shinkansen",
+  "Prefecture": "Toyama"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfc9"
+  },
+  "Station_Name": "Kanazawa",
+  "Shinkansen_Line": "Hokuriku_Shinkansen",
+  "Prefecture": "Ishikawa"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfca"
+  },
+  "Station_Name": "Shin-Tosu",
+  "Shinkansen_Line": "Kyushu_Shinkansen",
+  "Prefecture": "Saga"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfcb"
+  },
+  "Station_Name": "Kurume",
+  "Shinkansen_Line": "Kyushu_Shinkansen",
+  "Prefecture": "Fukuoka"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfcc"
+  },
+  "Station_Name": "Chikugo-Funagoya",
+  "Shinkansen_Line": "Kyushu_Shinkansen",
+  "Prefecture": "Fukuoka"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfcd"
+  },
+  "Station_Name": "Shin-Omuta",
+  "Shinkansen_Line": "Kyushu_Shinkansen",
+  "Prefecture": "Fukuoka"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfce"
+  },
+  "Station_Name": "Shin-Tamana",
+  "Shinkansen_Line": "Kyushu_Shinkansen",
+  "Prefecture": "Kumamoto"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfcf"
+  },
+  "Station_Name": "Kumamoto",
+  "Shinkansen_Line": "Kyushu_Shinkansen",
+  "Prefecture": "Kumamoto"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfd0"
+  },
+  "Station_Name": "Shin-Yatsushiro",
+  "Shinkansen_Line": "Kyushu_Shinkansen",
+  "Prefecture": "Kumamoto"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfd1"
+  },
+  "Station_Name": "Shin-Minamata",
+  "Shinkansen_Line": "Kyushu_Shinkansen",
+  "Prefecture": "Kumamoto"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfd2"
+  },
+  "Station_Name": "Izumi",
+  "Shinkansen_Line": "Kyushu_Shinkansen",
+  "Prefecture": "Kagoshima"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfd3"
+  },
+  "Station_Name": "Sendai",
+  "Shinkansen_Line": "Kyushu_Shinkansen",
+  "Prefecture": "Kagoshima"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfd4"
+  },
+  "Station_Name": "Kagoshima-Chuo",
+  "Shinkansen_Line": "Kyushu_Shinkansen",
+  "Prefecture": "Kagoshima"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfd5"
+  },
+  "Station_Name": "Okutsugaru-Imabetsu",
+  "Shinkansen_Line": "Hokkaido_Shinkansen",
+  "Prefecture": "Aomori"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfd6"
+  },
+  "Station_Name": "Kikonai",
+  "Shinkansen_Line": "Hokkaido_Shinkansen",
+  "Prefecture": "Hokkaido"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfd7"
+  },
+  "Station_Name": "Shin-Hakodate-Hokuto",
+  "Shinkansen_Line": "Hokkaido_Shinkansen",
+  "Prefecture": "Hokkaido"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfd8"
+  },
+  "Station_Name": "Takeo-Onsen",
+  "Shinkansen_Line": "Nishi_Kyushu_Shinkansen",
+  "Prefecture": "Saga"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfd9"
+  },
+  "Station_Name": "Ureshino-Onsen",
+  "Shinkansen_Line": "Nishi_Kyushu_Shinkansen",
+  "Prefecture": "Saga"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfda"
+  },
+  "Station_Name": "Shin-Omura",
+  "Shinkansen_Line": "Nishi_Kyushu_Shinkansen",
+  "Prefecture": "Nagasaki"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfdb"
+  },
+  "Station_Name": "Isahaya",
+  "Shinkansen_Line": "Nishi_Kyushu_Shinkansen",
+  "Prefecture": "Nagasaki"
+},
+{
+  "_id": {
+    "$oid": "65b8454603221086de29dfdc"
+  },
+  "Station_Name": "Nagasaki",
+  "Shinkansen_Line": "Nishi_Kyushu_Shinkansen",
+  "Prefecture": "Nagasaki"
+}]
