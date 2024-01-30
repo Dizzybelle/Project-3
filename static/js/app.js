@@ -1,11 +1,13 @@
 //Reading in Japan.Travel.pref_lat_lng.json
-const pref_lat_lng = "data/Japan_Travel_lat_lng";
+let pref_lat_lng_data = "data/Japan_Travel.pref_lat_long.json";
 
-// Fetch the JSON data and console log it
-d3.json(pref_lat_lng).then(function(data));
+//URL for API query to USGS, querying all earthquakes for the past 7 day
+//Performing a get request to the query url
+d3.json(pref_lat_lng_data).then(function(pref_lat_lng){
+    createFeatures(pref_lat_lng.features);
+});
 
 
-document.addEventListener("")
 let myMap = L.map("map", {
     center: [36, 137],
     zoom: 5

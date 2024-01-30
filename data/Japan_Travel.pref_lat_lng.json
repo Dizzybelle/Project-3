@@ -1,7 +1,8 @@
 [{
   "_id": {
-    "$oid": "65b8451803221086de29df0e"
+    "$oid": "65b850ce301b15f1e5c0c2ee"
   },
+  "": 0,
   "code": 1,
   "prefecture_en": "Hokkaido",
   "lat": 43.06417,
@@ -9,8 +10,9 @@
 },
 {
   "_id": {
-    "$oid": "65b8451803221086de29df0f"
+    "$oid": "65b850ce301b15f1e5c0c2ef"
   },
+  "": 1,
   "code": 2,
   "prefecture_en": "Aomori",
   "lat": 40.82444,
@@ -18,8 +20,9 @@
 },
 {
   "_id": {
-    "$oid": "65b8451803221086de29df10"
+    "$oid": "65b850ce301b15f1e5c0c2f0"
   },
+  "": 2,
   "code": 3,
   "prefecture_en": "Iwate",
   "lat": 39.70361,
@@ -27,8 +30,9 @@
 },
 {
   "_id": {
-    "$oid": "65b8451803221086de29df11"
+    "$oid": "65b850ce301b15f1e5c0c2f1"
   },
+  "": 3,
   "code": 4,
   "prefecture_en": "Miyagi",
   "lat": 38.26889,
@@ -36,8 +40,9 @@
 },
 {
   "_id": {
-    "$oid": "65b8451803221086de29df12"
+    "$oid": "65b850ce301b15f1e5c0c2f2"
   },
+  "": 4,
   "code": 5,
   "prefecture_en": "Akita",
   "lat": 39.71861,
@@ -45,8 +50,9 @@
 },
 {
   "_id": {
-    "$oid": "65b8451803221086de29df13"
+    "$oid": "65b850ce301b15f1e5c0c2f3"
   },
+  "": 5,
   "code": 6,
   "prefecture_en": "Yamagata",
   "lat": 38.24056,
@@ -54,8 +60,9 @@
 },
 {
   "_id": {
-    "$oid": "65b8451803221086de29df14"
+    "$oid": "65b850ce301b15f1e5c0c2f4"
   },
+  "": 6,
   "code": 7,
   "prefecture_en": "Fukushima",
   "lat": 37.75,
@@ -63,17 +70,19 @@
 },
 {
   "_id": {
-    "$oid": "65b8451803221086de29df15"
+    "$oid": "65b850ce301b15f1e5c0c2f5"
   },
+  "": 7,
   "code": 8,
   "prefecture_en": "Ibaraki",
   "lat": 36.34139,
-  "long": 140.44667
+  "long": 140.44666999999998
 },
 {
   "_id": {
-    "$oid": "65b8451803221086de29df16"
+    "$oid": "65b850ce301b15f1e5c0c2f6"
   },
+  "": 8,
   "code": 9,
   "prefecture_en": "Tochigi",
   "lat": 36.56583,
@@ -81,8 +90,9 @@
 },
 {
   "_id": {
-    "$oid": "65b8451803221086de29df17"
+    "$oid": "65b850ce301b15f1e5c0c2f7"
   },
+  "": 9,
   "code": 10,
   "prefecture_en": "Gunma",
   "lat": 36.39111,
@@ -90,8 +100,9 @@
 },
 {
   "_id": {
-    "$oid": "65b8451803221086de29df18"
+    "$oid": "65b850ce301b15f1e5c0c2f8"
   },
+  "": 10,
   "code": 11,
   "prefecture_en": "Saitama",
   "lat": 35.85694,
@@ -99,8 +110,9 @@
 },
 {
   "_id": {
-    "$oid": "65b8451803221086de29df19"
+    "$oid": "65b850ce301b15f1e5c0c2f9"
   },
+  "": 11,
   "code": 12,
   "prefecture_en": "Chiba",
   "lat": 35.60472,
@@ -108,17 +120,19 @@
 },
 {
   "_id": {
-    "$oid": "65b8451803221086de29df1a"
+    "$oid": "65b850ce301b15f1e5c0c2fa"
   },
+  "": 12,
   "code": 13,
   "prefecture_en": "Tokyo",
-  "lat": 35.68944,
+  "lat": 35.689440000000005,
   "long": 139.69167
 },
 {
   "_id": {
-    "$oid": "65b8451803221086de29df1b"
+    "$oid": "65b850ce301b15f1e5c0c2fb"
   },
+  "": 13,
   "code": 14,
   "prefecture_en": "Kanagawa",
   "lat": 35.44778,
@@ -126,17 +140,19 @@
 },
 {
   "_id": {
-    "$oid": "65b8451803221086de29df1c"
+    "$oid": "65b850ce301b15f1e5c0c2fc"
   },
+  "": 14,
   "code": 15,
   "prefecture_en": "Niigata",
   "lat": 37.90222,
-  "long": 139.02361
+  "long": 139.02361000000002
 },
 {
   "_id": {
-    "$oid": "65b8451803221086de29df1d"
+    "$oid": "65b850ce301b15f1e5c0c2fd"
   },
+  "": 15,
   "code": 16,
   "prefecture_en": "Toyama",
   "lat": 36.69528,
@@ -144,17 +160,19 @@
 },
 {
   "_id": {
-    "$oid": "65b8451803221086de29df1e"
+    "$oid": "65b850ce301b15f1e5c0c2fe"
   },
+  "": 16,
   "code": 17,
   "prefecture_en": "Ishikawa",
-  "lat": 36.59444,
+  "lat": 36.594440000000006,
   "long": 136.62556
 },
 {
   "_id": {
-    "$oid": "65b8451803221086de29df1f"
+    "$oid": "65b850ce301b15f1e5c0c2ff"
   },
+  "": 17,
   "code": 18,
   "prefecture_en": "Fukui",
   "lat": 36.06528,
@@ -162,8 +180,9 @@
 },
 {
   "_id": {
-    "$oid": "65b8451803221086de29df20"
+    "$oid": "65b850ce301b15f1e5c0c300"
   },
+  "": 18,
   "code": 19,
   "prefecture_en": "Yamanashi",
   "lat": 35.66389,
@@ -171,17 +190,19 @@
 },
 {
   "_id": {
-    "$oid": "65b8451803221086de29df21"
+    "$oid": "65b850ce301b15f1e5c0c301"
   },
+  "": 19,
   "code": 20,
   "prefecture_en": "Nagano",
   "lat": 36.65139,
-  "long": 138.18111
+  "long": 138.18111000000002
 },
 {
   "_id": {
-    "$oid": "65b8451803221086de29df22"
+    "$oid": "65b850ce301b15f1e5c0c302"
   },
+  "": 20,
   "code": 21,
   "prefecture_en": "Gifu",
   "lat": 35.39111,
@@ -189,8 +210,9 @@
 },
 {
   "_id": {
-    "$oid": "65b8451803221086de29df23"
+    "$oid": "65b850ce301b15f1e5c0c303"
   },
+  "": 21,
   "code": 22,
   "prefecture_en": "Shizuoka",
   "lat": 34.97694,
@@ -198,8 +220,9 @@
 },
 {
   "_id": {
-    "$oid": "65b8451803221086de29df24"
+    "$oid": "65b850ce301b15f1e5c0c304"
   },
+  "": 22,
   "code": 23,
   "prefecture_en": "Aichi",
   "lat": 35.18028,
@@ -207,8 +230,9 @@
 },
 {
   "_id": {
-    "$oid": "65b8451803221086de29df25"
+    "$oid": "65b850ce301b15f1e5c0c305"
   },
+  "": 23,
   "code": 24,
   "prefecture_en": "Mie",
   "lat": 34.73028,
@@ -216,8 +240,9 @@
 },
 {
   "_id": {
-    "$oid": "65b8451803221086de29df26"
+    "$oid": "65b850ce301b15f1e5c0c306"
   },
+  "": 24,
   "code": 25,
   "prefecture_en": "Shiga",
   "lat": 35.00444,
@@ -225,17 +250,19 @@
 },
 {
   "_id": {
-    "$oid": "65b8451803221086de29df27"
+    "$oid": "65b850ce301b15f1e5c0c307"
   },
+  "": 25,
   "code": 26,
   "prefecture_en": "Kyoto",
-  "lat": 35.02139,
+  "lat": 35.021390000000004,
   "long": 135.75556
 },
 {
   "_id": {
-    "$oid": "65b8451803221086de29df28"
+    "$oid": "65b850ce301b15f1e5c0c308"
   },
+  "": 26,
   "code": 27,
   "prefecture_en": "Osaka",
   "lat": 34.68639,
@@ -243,17 +270,19 @@
 },
 {
   "_id": {
-    "$oid": "65b8451803221086de29df29"
+    "$oid": "65b850ce301b15f1e5c0c309"
   },
+  "": 27,
   "code": 28,
   "prefecture_en": "Hyogo",
-  "lat": 34.69139,
+  "lat": 34.691390000000006,
   "long": 135.18306
 },
 {
   "_id": {
-    "$oid": "65b8451803221086de29df2a"
+    "$oid": "65b850ce301b15f1e5c0c30a"
   },
+  "": 28,
   "code": 29,
   "prefecture_en": "Nara",
   "lat": 34.68528,
@@ -261,8 +290,9 @@
 },
 {
   "_id": {
-    "$oid": "65b8451803221086de29df2b"
+    "$oid": "65b850ce301b15f1e5c0c30b"
   },
+  "": 29,
   "code": 30,
   "prefecture_en": "Wakayama",
   "lat": 34.22611,
@@ -270,26 +300,29 @@
 },
 {
   "_id": {
-    "$oid": "65b8451803221086de29df2c"
+    "$oid": "65b850ce301b15f1e5c0c30c"
   },
+  "": 30,
   "code": 31,
   "prefecture_en": "Tottori",
-  "lat": 35.50361,
+  "lat": 35.503609999999995,
   "long": 134.23833
 },
 {
   "_id": {
-    "$oid": "65b8451803221086de29df2d"
+    "$oid": "65b850ce301b15f1e5c0c30d"
   },
+  "": 31,
   "code": 32,
   "prefecture_en": "Shimane",
   "lat": 35.47222,
-  "long": 133.05056
+  "long": 133.05056000000002
 },
 {
   "_id": {
-    "$oid": "65b8451803221086de29df2e"
+    "$oid": "65b850ce301b15f1e5c0c30e"
   },
+  "": 32,
   "code": 33,
   "prefecture_en": "Okayama",
   "lat": 34.66167,
@@ -297,17 +330,19 @@
 },
 {
   "_id": {
-    "$oid": "65b8451803221086de29df2f"
+    "$oid": "65b850ce301b15f1e5c0c30f"
   },
+  "": 33,
   "code": 34,
   "prefecture_en": "Hiroshima",
-  "lat": 34.39639,
+  "lat": 34.396390000000004,
   "long": 132.45944
 },
 {
   "_id": {
-    "$oid": "65b8451803221086de29df30"
+    "$oid": "65b850ce301b15f1e5c0c310"
   },
+  "": 34,
   "code": 35,
   "prefecture_en": "Yamaguchi",
   "lat": 34.18583,
@@ -315,8 +350,9 @@
 },
 {
   "_id": {
-    "$oid": "65b8451803221086de29df31"
+    "$oid": "65b850ce301b15f1e5c0c311"
   },
+  "": 35,
   "code": 36,
   "prefecture_en": "Tokushima",
   "lat": 34.06583,
@@ -324,8 +360,9 @@
 },
 {
   "_id": {
-    "$oid": "65b8451803221086de29df32"
+    "$oid": "65b850ce301b15f1e5c0c312"
   },
+  "": 36,
   "code": 37,
   "prefecture_en": "Kagawa",
   "lat": 34.34028,
@@ -333,8 +370,9 @@
 },
 {
   "_id": {
-    "$oid": "65b8451803221086de29df33"
+    "$oid": "65b850ce301b15f1e5c0c313"
   },
+  "": 37,
   "code": 38,
   "prefecture_en": "Ehime",
   "lat": 33.84167,
@@ -342,8 +380,9 @@
 },
 {
   "_id": {
-    "$oid": "65b8451803221086de29df34"
+    "$oid": "65b850ce301b15f1e5c0c314"
   },
+  "": 38,
   "code": 39,
   "prefecture_en": "Kochi",
   "lat": 33.55972,
@@ -351,17 +390,19 @@
 },
 {
   "_id": {
-    "$oid": "65b8451803221086de29df35"
+    "$oid": "65b850ce301b15f1e5c0c315"
   },
+  "": 39,
   "code": 40,
   "prefecture_en": "Fukuoka",
-  "lat": 33.60639,
+  "lat": 33.606390000000005,
   "long": 130.41806
 },
 {
   "_id": {
-    "$oid": "65b8451803221086de29df36"
+    "$oid": "65b850ce301b15f1e5c0c316"
   },
+  "": 40,
   "code": 41,
   "prefecture_en": "Saga",
   "lat": 33.24944,
@@ -369,8 +410,9 @@
 },
 {
   "_id": {
-    "$oid": "65b8451803221086de29df37"
+    "$oid": "65b850ce301b15f1e5c0c317"
   },
+  "": 41,
   "code": 42,
   "prefecture_en": "Nagasaki",
   "lat": 32.74472,
@@ -378,8 +420,9 @@
 },
 {
   "_id": {
-    "$oid": "65b8451803221086de29df38"
+    "$oid": "65b850ce301b15f1e5c0c318"
   },
+  "": 42,
   "code": 43,
   "prefecture_en": "Kumamoto",
   "lat": 32.78972,
@@ -387,8 +430,9 @@
 },
 {
   "_id": {
-    "$oid": "65b8451803221086de29df39"
+    "$oid": "65b850ce301b15f1e5c0c319"
   },
+  "": 43,
   "code": 44,
   "prefecture_en": "Oita",
   "lat": 33.23806,
@@ -396,8 +440,9 @@
 },
 {
   "_id": {
-    "$oid": "65b8451803221086de29df3a"
+    "$oid": "65b850ce301b15f1e5c0c31a"
   },
+  "": 44,
   "code": 45,
   "prefecture_en": "Miyazaki",
   "lat": 31.91111,
@@ -405,8 +450,9 @@
 },
 {
   "_id": {
-    "$oid": "65b8451803221086de29df3b"
+    "$oid": "65b850ce301b15f1e5c0c31b"
   },
+  "": 45,
   "code": 46,
   "prefecture_en": "Kagoshima",
   "lat": 31.56028,
@@ -414,8 +460,9 @@
 },
 {
   "_id": {
-    "$oid": "65b8451803221086de29df3c"
+    "$oid": "65b850ce301b15f1e5c0c31c"
   },
+  "": 46,
   "code": 47,
   "prefecture_en": "Okinawa",
   "lat": 26.2125,
