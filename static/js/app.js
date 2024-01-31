@@ -13,7 +13,7 @@ d3.json(pref_lat_longUrl).then(function(data) {
   createPrefCoordinates(data);
 });
 
-//function to create the basic popup, need to add additional information to the popup
+//function to create the basic popup, need to add additional information to the popup, include life exp, population, and shinkansen station
 function createPrefCoordinates(pref_lat_long) {
 
   let marker_limit = pref_lat_long.length;
@@ -25,6 +25,8 @@ function createPrefCoordinates(pref_lat_long) {
 }}
 
 //add in a map layer so can just look at the major cities, with population of each city, info in cities_lat_long_clean_rename
+
+//also could add in a map layer with universities
 
 let myMap = L.map("map", {
   center: [36, 137],
