@@ -13,6 +13,31 @@ d3.json(pref_lat_longUrl).then(function(data) {
   createPrefCoordinates(data);
 });
 
+// request to cities_cleanURL
+d3.json(cities_cleanUrl).then(function(data1) {
+  console.log(data1);
+})
+//request to shinkansen_cleanURL
+d3.json(shinkansen_cleanUrl).then(function(data2) {
+  console.log(data2);
+})
+//request to prefecture_clean_renameURL
+d3.json(prefecture_clean_renameUrl).then(function(data3) {
+  console.log(data3);
+})
+//request to life_expURL
+d3.json(life_expUrl).then(function(data4) {
+  console.log(data4);
+})
+//request to cities_lat_long_cleanURL
+d3.json(cities_lat_long_clean_renameUrl).then(function(data5) {
+  console.log(data5);
+})
+//request to university_cleanURL
+d3.json(university_cleanUrl).then(function(data6) {
+  console.log(data6);
+})
+
 //function to create the basic popup, need to add additional information to the popup, include life exp, population, and shinkansen station
 function createPrefCoordinates(pref_lat_long) {
 
@@ -23,6 +48,18 @@ function createPrefCoordinates(pref_lat_long) {
     .bindPopup(`<h5>${pref_lat_long[i].prefecture_en}</h5>`) //need to add in html and css for the popup formatting
     .addTo(myMap);
 }}
+
+function drop_down() {
+
+  // Use D3 to select the dropdown menu
+  let dropdownMenu = d3.select("#selDataset");
+
+  d3.json(prefecture_clean_renameUrl).then((data3) => {
+    let pref = data3.prefecture_en
+  })
+
+
+}
 
 //add in a map layer so can just look at the major cities, with population of each city, info in cities_lat_long_clean_rename
 
