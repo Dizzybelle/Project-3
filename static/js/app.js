@@ -7,22 +7,20 @@ let life_expUrl = "https://raw.githubusercontent.com/Dizzybelle/Project-3/main/d
 let cities_lat_long_clean_renameUrl = "https://raw.githubusercontent.com/Dizzybelle/Project-3/main/data/Japan_Travel.cities_lat_long_clean_rename.json";
 let university_cleanUrl = "https://raw.githubusercontent.com/Dizzybelle/Project-3/main/data/Japan_Travel.university_clean.json";
 
-
-// //Request to pref_lat_longUrl
-// d3.json(pref_lat_longUrl).then(function(data) {
-//   console.log(data);
-//   return d3.json(life_expUrl).then(function(data1){
-//     console.log(data1);
-//     createPrefInfo(data, data1);
-//   })
-// });
+//Request for data used in the dropdown menu
+d3.json(prefecture_clean_renameUrl).then(function(data) {
+  console.log(data);
+  return d3.json(university_cleanUrl).then(function(data1){
+    console.log(data1);
+    createPrefAllInfo(data, data1);
+  })
+});
 
 //Request to pref_lat_longUrl
 d3.json(pref_lat_longUrl).then(function(data) {
   console.log(data);
   createPrefInfo(data);
 });
-
 
 //Request to cities_lat_long_clean_renameUrl
 d3.json(cities_lat_long_clean_renameUrl).then(function(data) {
@@ -36,6 +34,21 @@ d3.json(university_cleanUrl).then(function(data) {
   createUniversities(data);
 });
 
+//Creating the dropdown menu
+function createPrefAllInfo(prefecture_clean_rename, university_clean) {
+    //Creating an array of all the prefectures to populate the dropdown menu
+    let pref = prefecture_clean_rename.map(prefecture => prefecture.prefecture_en);
+    //Populate dropdown menu with prefecture name
+    let dropdownMenu = d3.select("#selDataset");
+    dropdownMenu.selectAll("option")
+        .data(pref)
+        .enter()
+        .append("option")
+        .text(pref => pref)
+}
+
+
+
 //Creating the prefecture layer
 let prefectures = L.layerGroup();
 //function to create the basic popup, need to add additional information to the popup, include life exp, population, and shinkansen station
@@ -46,6 +59,8 @@ function createPrefInfo(pref_lat_long) {
     .bindPopup(`<h5>${pref_lat_long[i].prefecture_en}</h5>`)
     .addTo(prefectures);
   }}
+
+  
 
 //creating the major cities layer
 let majorCities = L.layerGroup();
