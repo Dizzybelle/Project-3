@@ -7,6 +7,15 @@ let life_expUrl = "https://raw.githubusercontent.com/Dizzybelle/Project-3/main/d
 let cities_lat_long_clean_renameUrl = "https://raw.githubusercontent.com/Dizzybelle/Project-3/main/data/Japan_Travel.cities_lat_long_clean_rename.json";
 let university_cleanUrl = "https://raw.githubusercontent.com/Dizzybelle/Project-3/main/data/Japan_Travel.university_clean.json";
 
+
+//for dropdown menu need
+  //prefecture name (final_data_clean)
+  //life expectancy (final_data_clean)
+  //population (final_data_clean)
+  //cities (final_data_clean)
+  //universities
+  //train stations (final_data_clean)
+  //shinkansen line (final_data_clean)
 //Request for data used in the dropdown menu
 d3.json(prefecture_clean_renameUrl).then(function(data) {
   console.log(data);
