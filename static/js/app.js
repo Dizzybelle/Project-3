@@ -7,14 +7,22 @@ let life_expUrl = "https://raw.githubusercontent.com/Dizzybelle/Project-3/main/d
 let cities_lat_long_clean_renameUrl = "https://raw.githubusercontent.com/Dizzybelle/Project-3/main/data/Japan_Travel.cities_lat_long_clean_rename.json";
 let university_cleanUrl = "https://raw.githubusercontent.com/Dizzybelle/Project-3/main/data/Japan_Travel.university_clean.json";
 
+
+// //Request to pref_lat_longUrl
+// d3.json(pref_lat_longUrl).then(function(data) {
+//   console.log(data);
+//   return d3.json(life_expUrl).then(function(data1){
+//     console.log(data1);
+//     createPrefInfo(data, data1);
+//   })
+// });
+
 //Request to pref_lat_longUrl
 d3.json(pref_lat_longUrl).then(function(data) {
   console.log(data);
-  return d3.json(life_expUrl).then(function(data1){
-    console.log(data1);
-    createPrefInfo(data, data1);
-  })
+  createPrefInfo(data);
 });
+
 
 //Request to cities_lat_long_clean_renameUrl
 d3.json(cities_lat_long_clean_renameUrl).then(function(data) {
@@ -31,17 +39,17 @@ d3.json(university_cleanUrl).then(function(data) {
 //Creating the prefecture layer
 let prefectures = L.layerGroup();
 //function to create the basic popup, need to add additional information to the popup, include life exp, population, and shinkansen station
-function createPrefInfo(pref_lat_long, life_exp) {
+function createPrefInfo(pref_lat_long) {
   let marker_limit = pref_lat_long.length;
   for (let i = 0; i < marker_limit; i++) {
   L.marker([pref_lat_long[i].lat, pref_lat_long[i].long])
-    .bindPopup(`<h5>${pref_lat_long[i].prefecture_en}</h5>
-    <h3>Life Expectancy: ${life_exp[i].Life_expectancy} </h3>`) //need to add in html and css for the popup formatting
+    .bindPopup(`<h5>${pref_lat_long[i].prefecture_en}</h5>`)
     .addTo(prefectures);
   }}
 
 //creating the major cities layer
 let majorCities = L.layerGroup();
+
 function createCitiesCoordinates(cities_lat_long) {
   let marker_limit = cities_lat_long.length;
   for (let i = 0; i<marker_limit;i++) {
@@ -98,3 +106,21 @@ let myMap = L.map("map", {
 L.control.layers(baseMaps, overlayMaps, {
   collapsed: false
 }).addTo(myMap);
+
+
+//adding the animation to the title
+document.querySelector('.page-title .title').style.transform = 'translateY(-300%)';
+anime({
+  targets: '.page-title .title',
+  duration: 3000,
+  translateY: 35
+});
+
+//adding the animation to the sub-title
+document.querySelector('.page-title .sub-title').style.opacity = 0
+anime({
+  targets: '.page-title .sub-title',
+  opacity: 1,
+  duration: 20000,
+  delay: 2500
+})

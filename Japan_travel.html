@@ -15,16 +15,19 @@
 
   <!-- Our CSS -->
   <link rel="stylesheet" type="text/css" href="static/css/style.css">
+  <!-- Connection to Anime -->
+  <script src="https://cdn.jsdelivr.net/npm/animejs@3.2.0/lib/anime.min.js"></script>
 </head>
 
 <body>
-    <div class="page-title">
-        <div class="title">
-            <h1>Thinking About Moving to Japan?</h1>
-            <p>Use the information below to help you decide where in Japan you want to move</p>
-          </div>
-        </div>
-    </div>
+  <div class="page-title">
+      <div class="title">
+          <h1>Thinking About Moving to Japan?</h1>
+      </div>
+      <div class="sub-title">
+          <p>Use the information below to help you decide where in Japan you want to move</p>
+      </div>
+  </div>
     <!-- The section of code for the dropdown menu is from the belly-button-challenge starter code -->
     <div class="row">
         <div class="col-md-2">
@@ -41,11 +44,11 @@
         </div>
         <div class="col-md-5">
             <h4>Life Expectancy by Prefecture</h4>
-            <div id="bar-life-exp"></div>
+            <h4><img src="life_exp_graph.png" alt="Life Expectancy by Prefecture"</h4>
         </div>
         <div class="col-md-5">
             <h5>Population by Prefecture</h5>
-            <div id="bar-pop"></div>
+            <h5><img src="population_graph.png" alt="Life Expectancy by Prefecture"</h5>
         </div>
     </div>
     <div class="map">
@@ -63,5 +66,5 @@
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
     <!-- Connection to JavaScript -->
     <script type="text/javascript" src="static/js/app.js"></script>
-</body>
+  </body>
 </html>
