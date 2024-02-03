@@ -6,14 +6,14 @@ let prefecture_clean_renameUrl = "https://raw.githubusercontent.com/Dizzybelle/P
 let life_expUrl = "https://raw.githubusercontent.com/Dizzybelle/Project-3/main/data/Japan_Travel.life_exp.json";
 let cities_lat_long_clean_renameUrl = "https://raw.githubusercontent.com/Dizzybelle/Project-3/main/data/Japan_Travel.cities_lat_long_clean_rename.json";
 let university_cleanUrl = "https://raw.githubusercontent.com/Dizzybelle/Project-3/main/data/Japan_Travel.university_clean.json";
-
+let final_data_cleanUrl = "https://raw.githubusercontent.com/Dizzybelle/Project-3/main/data/Japan_Travel.final_data_clean.json";
 
 //for dropdown menu need
   //prefecture name (final_data_clean)
   //life expectancy (final_data_clean)
   //population (final_data_clean)
-  //cities (final_data_clean)
-  //universities
+  //cities (final_data_clean)//////////////////////
+  //universities/////////////////////////
   //train stations (final_data_clean)
   //shinkansen line (final_data_clean)
 //Request for data used in the dropdown menu
@@ -21,8 +21,10 @@ d3.json(prefecture_clean_renameUrl).then(function(data) {
   console.log(data);
   return d3.json(university_cleanUrl).then(function(data1){
     console.log(data1);
-    createPrefAllInfo(data, data1);
-  })
+    return d3.json(final_data_cleanUrl).then(function(data2){
+    console.log(data2)
+    createPrefAllInfo(data, data1, data2);
+  })})
 });
 
 //Request to pref_lat_longUrl
@@ -43,8 +45,8 @@ d3.json(university_cleanUrl).then(function(data) {
   createUniversities(data);
 });
 
-//Creating the dropdown menu
-function createPrefAllInfo(prefecture_clean_rename, university_clean) {
+//Creating the dropdown menu, barrowed and modified this code from the belly_button_challenge
+function createPrefAllInfo(prefecture_clean_rename, university_clean, final_data_clean) {
     //Creating an array of all the prefectures to populate the dropdown menu
     let pref = prefecture_clean_rename.map(prefecture => prefecture.prefecture_en);
     //Populate dropdown menu with prefecture name
@@ -54,9 +56,93 @@ function createPrefAllInfo(prefecture_clean_rename, university_clean) {
         .enter()
         .append("option")
         .text(pref => pref)
-}
+  
+    //Function to get list of universities
+    function getPrefUniversityInfo () {
+      let prefName = d3.select("#selDataset").property("value");
+      // selectedPrefecture = prefName
+      //Looked up parseInt to convert a string to an integer on stack overflow
+      // subjectID = parseInt(subjectIDString)
+      let prefUniversityData = university_clean.filter(university => university.state === prefName)
+      let universitiesPrefecture = prefUniversityData.map(university => university.name);
+      //Looked up how to display text on stack overflow
+      let prefInfo = document.getElementById("prefecture-universities");
+      prefInfo.innerText = '';
+      //Iterate through the array to make individual lines to display, looked up on stack overflow
+      universitiesPrefecture.forEach(element => {
+          let prefData = document.createElement('p');
+          prefData.textContent = element;
+          prefInfo.appendChild(prefData);
+      });
+    }
 
+    //Function to get list of cities
+    function getPrefCitiesInfo () {
+      let prefName = d3.select("#selDataset").property("value");
+      let prefectureCities = final_data_clean.filter(city => city.Prefecture === prefName);
+      let uniqueCities = [];
+      //looked up on stackoverflow how to loop through to create a list of unique items
+      prefectureCities.forEach(city=> { let cityName = city.city_en;
+        if (!uniqueCities.includes(cityName)){
+          uniqueCities.push(cityName)
+        }
+      })
+      let prefInfo = document.getElementById("prefecture-cities");
+      prefInfo.innerText = '';
+      uniqueCities.forEach(element => {
+          let prefData = document.createElement('p');
+          prefData.textContent = element;
+          prefInfo.appendChild(prefData);
+      });
+    }
 
+    //Function to get Shinkansen (Bullet Train) Stations
+    function getTrainStations () {
+      let prefName = d3.select("#selDataset").property("value");
+      let prefectureStations = final_data_clean.filter(station => station.Prefecture === prefName);
+      let uniqueStations = [];
+      prefectureStations.forEach(station=> { let stationName = station.Station_Name;
+        if (!uniqueStations.includes(stationName)){
+          uniqueStations.push(stationName)
+        }
+      })
+      let prefInfo = document.getElementById("prefecture-train-stations");
+      prefInfo.innerText = '';
+      uniqueStations.forEach(element => {
+          let prefData = document.createElement('p');
+          prefData.textContent = element;
+          prefInfo.appendChild(prefData);
+      });
+    }
+
+    //Function to get Shinkansen (Bullet Train) Lines in a prefecture
+    function getTrainLines () {
+      let prefName = d3.select("#selDataset").property("value");
+      let prefectureLines = final_data_clean.filter(line => line.Prefecture === prefName);
+      let uniqueLines = [];
+      prefectureLines.forEach(line=> { let lineName = line.Shinkansen_Line;
+        if (!uniqueLines.includes(lineName)){
+          uniqueLines.push(lineName)
+        }
+      })
+      let prefInfo = document.getElementById("prefecture-train-lines");
+      prefInfo.innerText = '';
+      uniqueLines.forEach(element => {
+          let prefData = document.createElement('p');
+          prefData.textContent = element;
+          prefInfo.appendChild(prefData);
+      });
+    }
+
+  //Selecting new prefecture info with change in dropdown menu
+  function prefectureSelected(){
+    getPrefUniversityInfo();
+    getPrefCitiesInfo();
+    getTrainStations();
+    getTrainLines ();
+  }
+  d3.selectAll("#selDataset").on("change", prefectureSelected);
+};
 
 //Creating the prefecture layer
 let prefectures = L.layerGroup();
@@ -136,7 +222,7 @@ L.control.layers(baseMaps, overlayMaps, {
 document.querySelector('.page-title .title').style.transform = 'translateY(-300%)';
 anime({
   targets: '.page-title .title',
-  duration: 3000,
+  duration: 6000,
   translateY: 35
 });
 
@@ -146,5 +232,5 @@ anime({
   targets: '.page-title .sub-title',
   opacity: 1,
   duration: 20000,
-  delay: 2500
+  delay: 4000
 })

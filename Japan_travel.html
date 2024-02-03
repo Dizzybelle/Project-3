@@ -15,7 +15,8 @@
 
   <!-- Our CSS -->
   <link rel="stylesheet" type="text/css" href="static/css/style.css">
-  <!-- Connection to Anime -->
+
+  <!-- Anime JavaScript-->
   <script src="https://cdn.jsdelivr.net/npm/animejs@3.2.0/lib/anime.min.js"></script>
 </head>
 
@@ -30,18 +31,6 @@
   </div>
     <!-- The section of code for the dropdown menu is from the belly-button-challenge starter code -->
     <div class="row">
-        <div class="col-md-2">
-          <div class="well">
-            <h2>Select Prefecture for More Info</h2>
-            <select id="selDataset" onchange="optionChanged(this.value)"></select>
-          </div>
-          <div class="panel panel-primary">
-            <div class="panel-heading">
-              <h3 class="panel-title">Prefecture Info</h3>
-            </div>
-            <div id="sample-metadata" class="panel-body"></div>
-          </div>
-        </div>
         <div class="col-md-5">
             <h4>Life Expectancy by Prefecture</h4>
         </div>
@@ -59,7 +48,33 @@
         <h6>Explore the Map for More Info</h6>
         <div id="map">
     </div>
+    <div class="col-md-2">
+      <div class="well">
+        <h2>Select Prefecture to Display Additional Info</h2>
+        <select id="selDataset" onchange="optionChanged(this.value)"></select>
+      </div>
+      <div class="panel-panel-primary">
+        <div class="panel-heading">
+          <h3 class="panel-title">Shinkansen (Bullet Train) Stations</h3>
+        </div>
+        <div id="prefecture-train-stations" class="panel-body"></div>
 
+        <div class="panel-heading">
+          <h3 class="panel-title">Shinkansen (Bullet Train) Lines in Prefecture</h3>
+        </div>
+        <div id="prefecture-train-lines" class="panel-body"></div>
+
+        <div class="panel-heading">
+          <h3 class="panel-title">Universities</h3>
+        </div>
+        <div id="prefecture-universities" class="panel-body"></div>
+
+        <div class="panel-heading">
+          <h3 class="panel-title">Cities</h3>
+        </div>
+        <div id="prefecture-cities" class="panel-body"></div>
+      </div>
+    </div>
     <!-- Leaflet JS -->
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
         integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
