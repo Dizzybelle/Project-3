@@ -5,7 +5,8 @@
   as the population in each prefecture, a map of towns/cities, a map of universities, bullet train stations in a prefecture etc. To this 
   end we created graphs, an interactive map, and a dropdown menu that allows users to view information about a given prefecture. We also
   wanted the webpage to catch someone's attention so we added in an animation for the title and subtitle when the page is loaded. To add
-  in the animation we used the anime library in JavaScript.
+  in the animation we used the anime library in JavaScript. We used python to clean and merge out data, and MongoDB to load and covert
+  it to json from csv.
 
   
 **How to use our project**:
