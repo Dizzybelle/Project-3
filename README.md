@@ -25,20 +25,20 @@
 
 **Data Sources**: We used the following data sources in our project
 
-  World Cities Database (worldcities.csv) https://simplemaps.com/data/world-cities
+  World Cities Database https://simplemaps.com/data/world-cities
   
-  Japan life Expectancy (Japan_life_expectancy.csv) https://www.kaggle.com/datasets/gianinamariapetrascu/japan-life-expectancy 
+  Japan life Expectancy https://www.kaggle.com/datasets/gianinamariapetrascu/japan-life-expectancy 
   
   Japanese Universities https://www.kaggle.com/datasets/webdevbadger/japanese-universities 
   
-  Japen Prefecture Latitude Longitude (Japan_prefecture_latlng.csv) https://www.kaggle.com/datasets/corochann/japan-prefecture-latitude-longitude 
+  Japen Prefecture Latitude Longitude https://www.kaggle.com/datasets/corochann/japan-prefecture-latitude-longitude 
   
   Shinkansen Stations in Japan https://www.kaggle.com/datasets/japandata509/shinkansen-stations-in-japan
   
   City and prefecture
-  Prefecture.csv (https://github.com/nobuf/list-of-cities-in-japan/blob/master/build/prefectures.csv)
+  Prefecture https://github.com/nobuf/list-of-cities-in-japan/blob/master/build/prefectures.csv
   
-  Cities_in_japan_2023.csv (https://github.com/nobuf/list-of-cities-in-japan/blob/master/build/cities_in_japan_2023.csv) 
+  *Cities in Japan https://github.com/nobuf/list-of-cities-in-japan/blob/master/build/cities_in_japan_2023.csv 
 
 **References for Code**:
   Most of the code used was from previous homeworks (modified and added to), except for the code for looping through data to create a 
