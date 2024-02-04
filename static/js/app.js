@@ -1,21 +1,10 @@
 //Reading in the URLs for the data
 let pref_lat_longUrl = "https://raw.githubusercontent.com/Dizzybelle/Project-3/main/data/Japan_Travel.pref_lat_long.json";
-let cities_cleanUrl = "https://raw.githubusercontent.com/Dizzybelle/Project-3/main/data/Japan_Travel.cities_clean.json";
-let shinkansen_cleanUrl = "https://raw.githubusercontent.com/Dizzybelle/Project-3/main/data/Japan_Travel.shinkansen_clean.json";
 let prefecture_clean_renameUrl = "https://raw.githubusercontent.com/Dizzybelle/Project-3/main/data/Japan_Travel.prefecture_clean_rename.json";
-let life_expUrl = "https://raw.githubusercontent.com/Dizzybelle/Project-3/main/data/Japan_Travel.life_exp.json";
 let cities_lat_long_clean_renameUrl = "https://raw.githubusercontent.com/Dizzybelle/Project-3/main/data/Japan_Travel.cities_lat_long_clean_rename.json";
 let university_cleanUrl = "https://raw.githubusercontent.com/Dizzybelle/Project-3/main/data/Japan_Travel.university_clean.json";
 let final_data_cleanUrl = "https://raw.githubusercontent.com/Dizzybelle/Project-3/main/data/Japan_Travel.final_data_clean.json";
 
-//for dropdown menu need
-  //prefecture name (final_data_clean)
-  //life expectancy (final_data_clean)
-  //population (final_data_clean)
-  //cities (final_data_clean)//////////////////////
-  //universities/////////////////////////
-  //train stations (final_data_clean)
-  //shinkansen line (final_data_clean)
 //Request for data used in the dropdown menu
 d3.json(prefecture_clean_renameUrl).then(function(data) {
   console.log(data);
@@ -60,15 +49,10 @@ function createPrefAllInfo(prefecture_clean_rename, university_clean, final_data
     //Function to get list of universities
     function getPrefUniversityInfo () {
       let prefName = d3.select("#selDataset").property("value");
-      // selectedPrefecture = prefName
-      //Looked up parseInt to convert a string to an integer on stack overflow
-      // subjectID = parseInt(subjectIDString)
       let prefUniversityData = university_clean.filter(university => university.state === prefName)
       let universitiesPrefecture = prefUniversityData.map(university => university.name);
-      //Looked up how to display text on stack overflow
       let prefInfo = document.getElementById("prefecture-universities");
       prefInfo.innerText = '';
-      //Iterate through the array to make individual lines to display, looked up on stack overflow
       universitiesPrefecture.forEach(element => {
           let prefData = document.createElement('p');
           prefData.textContent = element;
