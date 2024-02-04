@@ -7,6 +7,7 @@
   end we created graphs, and interactive map, and a dropdown menu that allows users to view information about a given prefecture. We also
   wanted the webpage to catch someones attention so we added in an animation for the title and subtitle when the page is loaded. To add
   in the animation we used the anime library in JavaScript.
+
   
 **How to use our project**
 
@@ -18,11 +19,13 @@
   to display what bullet train stations and lines there are in the prefecture, what universities there are in the prefecture, and what
   cities there are in the prefecture.
 
+
 **Ethical Considerations**
 
   The datasets we used for this project were all publically available for public use. Also the data in general that was used for this 
   project is widely avaiable. We are putting the data in a more user accessible format. Given this that are minimal ethical concerns
   for our project.
+
 
 **References for Code**
 
